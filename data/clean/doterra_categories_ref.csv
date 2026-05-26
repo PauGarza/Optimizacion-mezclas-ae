@@ -1,0 +1,143 @@
+category,botanical_name,doterra_name,in_matrix_A,in_eo_db
+Digestive Support,Elettaria cardamomum,Cardamomo,True,True
+Digestive Support,Zingiber officinale,Jengibre,True,True
+Digestive Support,Foeniculum vulgare,Hinojo,True,True
+Digestive Support,Mentha piperita,Menta,True,True
+Digestive Support,Mentha spicata,Hierbabuena,True,True
+Digestive Support,Cymbopogon flexuosus,Limoncillo,True,True
+Digestive Support,Rosmarinus officinalis,Romero,True,True
+Digestive Support,Origanum vulgare,Orégano,True,True
+Digestive Support,Citrus limon,Limón,True,True
+Digestive Support,Apium graveolens,,False,True
+Digestive Support,Origanum majorana,Mejorana,True,True
+Digestive Support,Cinnamomum cassia,,False,False
+Digestive Support,Coriandrum sativum,Cilantro,True,True
+Respiratory Support,Eucalyptus radiata,,False,True
+Respiratory Support,Eucalyptus globulus,,False,True
+Respiratory Support,Corymbia citriodora,Eucalipto Limón,True,True
+Respiratory Support,Mentha piperita,Menta,True,True
+Respiratory Support,Elettaria cardamomum,Cardamomo,True,True
+Respiratory Support,Picea mariana,,False,False
+Respiratory Support,Abies sibirica,,False,False
+Respiratory Support,Rosmarinus officinalis,Romero,True,True
+Cardiovascular Support,Ocimum basilicum,Albahaca,True,True
+Cardiovascular Support,Cinnamomum cassia,,False,False
+Cardiovascular Support,Origanum majorana,Mejorana,True,True
+Cardiovascular Support,Zingiber officinale,Jengibre,True,True
+Cardiovascular Support,Rosmarinus officinalis,Romero,True,True
+Cardiovascular Support,Foeniculum vulgare,Hinojo,True,True
+Cardiovascular Support,Cymbopogon martinii,,False,False
+Immune Support,Boswellia carterii,,False,False
+Immune Support,Boswellia serrata,Incienso,True,True
+Immune Support,Cinnamomum verum,Canela,True,True
+Immune Support,Cinnamomum cassia,,False,False
+Immune Support,Thymus vulgaris,Tomillo,True,True
+Immune Support,Origanum vulgare,Orégano,True,True
+Immune Support,Melaleuca alternifolia,Árbol de Té,True,True
+Immune Support,Citrus aurantifolia,,False,True
+Immune Support,Syzygium aromaticum,Clavo,True,True
+Immune Support,Schinus molle,,False,False
+Antioxidant Support,Syzygium aromaticum,Clavo,True,True
+Antioxidant Support,Curcuma longa,,False,True
+Antioxidant Support,Piper nigrum,Pimienta Negra,True,True
+Antioxidant Support,Juniperus communis,Baya de Enebro,True,True
+Antioxidant Support,Origanum vulgare,Orégano,True,True
+Antioxidant Support,Rosmarinus officinalis,Romero,True,True
+Cellular Health,Boswellia carterii,,False,False
+Cellular Health,Boswellia serrata,Incienso,True,True
+Cellular Health,Curcuma longa,,False,True
+Cellular Health,Santalum album,Sándalo,True,True
+Cellular Health,Syzygium aromaticum,Clavo,True,True
+Cellular Health,Thymus vulgaris,Tomillo,True,True
+Stress Relief,Lavandula angustifolia,Lavanda,True,True
+Stress Relief,Salvia sclarea,,False,True
+Stress Relief,Citrus bergamia,,False,False
+Stress Relief,Cananga odorata,Ylang Ylang,True,True
+Stress Relief,Vetiveria zizanioides,,False,False
+Stress Relief,Pelargonium graveolens,Geranio,True,True
+Stress Relief,Melissa officinalis,,False,False
+Stress Relief,Nardostachys jatamansi,Nardo,True,True
+Stress Relief,Citrus aurantium,Petitgrain,True,True
+Stress Relief,Citrus sinensis,,False,False
+Sleep Support,Lavandula angustifolia,Lavanda,True,True
+Sleep Support,Anthemis nobilis,,False,False
+Sleep Support,Cananga odorata,Ylang Ylang,True,True
+Sleep Support,Citrus bergamia,,False,False
+Sleep Support,Vetiveria zizanioides,,False,False
+Sleep Support,Nardostachys jatamansi,Nardo,True,True
+Sleep Support,Salvia sclarea,,False,True
+Energy and Uplifting,Citrus sinensis,,False,False
+Energy and Uplifting,Mentha piperita,Menta,True,True
+Energy and Uplifting,Citrus limon,Limón,True,True
+Energy and Uplifting,Citrus paradisi,,False,False
+Energy and Uplifting,Rosmarinus officinalis,Romero,True,True
+Energy and Uplifting,Citrus reticulata,,False,False
+Energy and Uplifting,Cymbopogon flexuosus,Limoncillo,True,True
+Energy and Uplifting,Citrus aurantifolia,,False,True
+Focus and Concentration,Salvia lavandulifolia,,False,False
+Focus and Concentration,Rosmarinus officinalis,Romero,True,True
+Focus and Concentration,Mentha spicata,Hierbabuena,True,True
+Focus and Concentration,Mentha piperita,Menta,True,True
+Focus and Concentration,Ocimum basilicum,Albahaca,True,True
+Grounding and Meditation,Santalum album,Sándalo,True,True
+Grounding and Meditation,Vetiveria zizanioides,,False,False
+Grounding and Meditation,Nardostachys jatamansi,Nardo,True,True
+Grounding and Meditation,Pogostemon cablin,Pachulí,True,True
+Grounding and Meditation,Boswellia serrata,Incienso,True,True
+Grounding and Meditation,Ocimum tenuiflorum,Tulsi,True,True
+Grounding and Meditation,Bulnesia sarmientoi,,False,False
+Grounding and Meditation,Juniperus virginiana,,False,False
+Skin Care,Pelargonium graveolens,Geranio,True,True
+Skin Care,Rosa damascena,,False,True
+Skin Care,Helichrysum italicum,,False,False
+Skin Care,Melaleuca alternifolia,Árbol de Té,True,True
+Skin Care,Commiphora myrrha,,False,False
+Skin Care,Lavandula angustifolia,Lavanda,True,True
+Skin Care,Santalum album,Sándalo,True,True
+Skin Care,Pogostemon cablin,Pachulí,True,True
+Skin Care,Tanacetum annuum,,False,False
+Skin Care,Boswellia serrata,Incienso,True,True
+Hair Care,Pelargonium graveolens,Geranio,True,True
+Hair Care,Salvia sclarea,,False,True
+Hair Care,Lavandula angustifolia,Lavanda,True,True
+Hair Care,Rosmarinus officinalis,Romero,True,True
+Hair Care,Santalum paniculatum,,False,False
+Hair Care,Cedrus atlantica,,False,False
+Hair Care,Juniperus virginiana,,False,False
+Muscle and Joint Support,Origanum majorana,Mejorana,True,True
+Muscle and Joint Support,Gaultheria fragrantissima,,False,False
+Muscle and Joint Support,Gaultheria procumbens,,False,False
+Muscle and Joint Support,Zingiber officinale,Jengibre,True,True
+Muscle and Joint Support,Betula lenta,,False,False
+Muscle and Joint Support,Picea mariana,,False,False
+Muscle and Joint Support,Abies sibirica,,False,False
+Muscle and Joint Support,Mentha piperita,Menta,True,True
+Muscle and Joint Support,Schinus molle,,False,False
+Muscle and Joint Support,Tanacetum annuum,,False,False
+Oral Health,Syzygium aromaticum,Clavo,True,True
+Oral Health,Commiphora myrrha,,False,False
+Oral Health,Gaultheria fragrantissima,,False,False
+Oral Health,Thymus vulgaris,Tomillo,True,True
+Oral Health,Mentha piperita,Menta,True,True
+Oral Health,Mentha spicata,Hierbabuena,True,True
+Insect Repellent,Cymbopogon winterianus,,False,True
+Insect Repellent,Cymbopogon nardus,Citronela,True,True
+Insect Repellent,Cymbopogon flexuosus,Limoncillo,True,True
+Insect Repellent,Mentha piperita,Menta,True,True
+Insect Repellent,Cinnamomum verum,Canela,True,True
+Purifying and Cleansing,Melaleuca alternifolia,Árbol de Té,True,True
+Purifying and Cleansing,Citrus limon,Limón,True,True
+Purifying and Cleansing,Origanum vulgare,Orégano,True,True
+Purifying and Cleansing,Thuja plicata,,False,True
+Purifying and Cleansing,Eucalyptus radiata,,False,True
+Purifying and Cleansing,Eucalyptus globulus,,False,True
+Purifying and Cleansing,Citrus sinensis,,False,False
+Purifying and Cleansing,Thymus vulgaris,Tomillo,True,True
+Purifying and Cleansing,Ocimum basilicum,Albahaca,True,True
+Purifying and Cleansing,Boswellia serrata,Incienso,True,True
+Purifying and Cleansing,Juniperus communis,Baya de Enebro,True,True
+Hormonal Balance,Salvia sclarea,,False,True
+Hormonal Balance,Pelargonium graveolens,Geranio,True,True
+Hormonal Balance,Foeniculum vulgare,Hinojo,True,True
+Hormonal Balance,Cananga odorata,Ylang Ylang,True,True
+Hormonal Balance,Lavandula angustifolia,Lavanda,True,True
