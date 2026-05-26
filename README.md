@@ -1,5 +1,21 @@
-# Plan de Proyecto Final — MAT-34420 Métodos Numéricos y Optimización
+# Proyecto Final — MAT-34420 Métodos Numéricos y Optimización
 **ITAM · Primavera 2026 · Prof. J. Ezequiel Soto**
+
+---
+
+## Pendientes
+
+- [ ] Revisar figuras de EDA generadas por `eda.py` → copiar las relevantes al notebook
+- [ ] Construir `02_optimization.ipynb`
+  - [ ] Cargar `matrix_A.csv`, `prices_clean.csv`, `scenarios_c.csv`
+  - [ ] Normalizar filas de A con suma > 110 % antes del LP
+  - [ ] Elegir escenarios a comparar (al menos 3 distintos)
+  - [ ] Implementar restricciones: mezcla completa, no negatividad, presupuesto, límites por aceite
+  - [ ] Resolver con Símplex (`highs-ds`) y Puntos Interiores (`highs-ipm`)
+  - [ ] Comparar: valor óptimo, iteraciones, tiempo de cómputo
+  - [ ] Análisis de sensibilidad: variar presupuesto B y límites máximos por aceite
+  - [ ] Visualizaciones: mezcla óptima por escenario, variables duales
+- [ ] Elaborar presentación PDF (10–12 min)
 
 ---
 
@@ -20,6 +36,8 @@
 ### 2.1 Contexto
 
 La aromaterapia y la naturopatía utilizan mezclas de aceites esenciales con fines terapéuticos específicos: relajación, acción antimicrobiana, estimulación cognitiva, entre otros. Cada aceite esencial tiene una **composición química característica**, determinada por cromatografía de gases acoplada a espectrometría de masas (GC-MS), que consiste en un vector de porcentajes de compuestos orgánicos volátiles (linalool, eucaliptol, mentol, limoneno, etc.).
+
+El formato de aplicación típico es un **roll-on de 10 mL** que contiene **20–30 gotas de aceite esencial puro** más aceite de coco fraccionado como vehículo. La formulación se decide en gotas, no en mililitros.
 
 El problema práctico es: dado un objetivo terapéutico, **¿en qué proporciones mezclar un conjunto de aceites esenciales para maximizar la presencia de los compuestos activos deseados**, respetando restricciones de seguridad, costo y formulación?
 
@@ -42,48 +60,105 @@ El problema práctico es: dado un objetivo terapéutico, **¿en qué proporcione
 
 ---
 
-## 4. Fuente de datos
+## 4. Datos y Análisis Exploratorio
 
-### 4.1 Base de datos principal: sCentInDB
+### 4.1 Fuentes
 
-- **Fuente:** [sCentInDB](https://cb.imsc.res.in/scentindb/) — base de datos de composición química de aceites esenciales de plantas medicinales indias.
-- **Publicación:** Samal et al. (2026). *Molecular Diversity*. DOI: 10.1007/s11030-025-11215-5
-- **Archivos descargados:**
-
-| Archivo | Contenido | Filas útiles |
+| Archivo (raw) | Contenido | Filas |
 |---|---|---|
-| `essential_oil_scentindb.csv` | Planta, muestra ESO, compuesto, % GC-MS | 85,341 |
-| `therapy_scentindb.csv` | Usos terapéuticos con códigos UMLS/MeSH | 515 |
-| `chemical_scentindb.csv` | Diccionario de compuestos (SMILES, PubChem ID) | 3,420 |
-| `uses_scentindb.csv` | Usos industriales/comerciales por planta | — |
+| `essential_oil_scentindb.csv` | Composición GC-MS: planta, compuesto, % por muestra | 85,341 |
+| `therapy_scentindb.csv` | Usos terapéuticos con códigos UMLS/MeSH por planta | 515 |
+| `chemical_scentindb.csv` | Diccionario de compuestos: nombre canónico, SMILES, PubChem | 3,420 |
+| `lista de precios doterra.xlsx` | Precios de catálogo doTERRA México 2025 | 80 productos |
 
-### 4.2 Aceites de interés confirmados en la BD
+**Publicación:** Samal et al. (2026). *sCentInDB*. Molecular Diversity. DOI: 10.1007/s11030-025-11215-5
 
-| Aceite | Especie | Muestras ESO | Filas GC-MS | Compuesto dominante |
-|---|---|:---:|:---:|---|
-| Lavanda | *Lavandula angustifolia* | 9 | 414 | Linalyl acetate (27–52%), Linalool (17–31%) |
-| Menta | *Mentha piperita* | 12 | 482 | Menthol |
-| Romero | *Rosmarinus officinalis* | 12 | 360 | Camphor (24–36%), Eucalyptol (22–24%) |
-| Eucalipto | *Eucalyptus radiata* | 1 | 24 | Eucalyptol (74%) |
-| Eucalipto | *Eucalyptus globulus* | 2 | 38 | p-Cymene (32%), Eucalyptol (17%) |
-| Árbol de té | *Melaleuca alternifolia* | 1 | 26 | 4-Terpineol (48%), Eucalyptol (5%) |
-| Incienso† | *Boswellia serrata* | 5 | 168 | α-Thujene (22–61%), α-Pinene (7–11%) |
-| Limón | *Citrus limon* | 3 | 83 | Limonene (38–92%), Citral |
+### 4.2 Pipeline de limpieza — `01_data_cleaning.ipynb`
 
-> †*Boswellia sacra* y *B. carterii* (especies doTERRA) no están en sCentInDB; se usará *B. serrata* (incienso indio) con nota explicativa.
+1. Cargar los 4 archivos raw con separadores correctos (los CSV de scentindb son TSV, `sep="\t"`).
+2. Mapear los 31 nombres doTERRA (español) a los nombres científicos de la BD; los 30 que tienen match quedan como candidatos del LP.
+3. Filtrar cada especie a su parte estándar de extracción (flor para lavanda, hoja para árbol de té, cáscara para cítricos, etc.).
+4. Normalizar nombres de compuestos haciendo join por EOCID con el diccionario canónico.
+5. Agregar: promedio de % GC-MS por par (especie, compuesto).
+6. Construir matriz A con `pivot_table`.
+7. Construir vectores c para 41 usos terapéuticos de la BD (scentindb) + 18 categorías derivadas del catálogo doTERRA.
 
-### 4.3 Columnas clave utilizadas del archivo principal
+### 4.3 Artefactos en `data/clean/`
 
-| Columna | Tipo | Rol en el modelo |
+| Archivo | Dimensiones / Filas | Uso en el modelo |
 |---|---|---|
-| **`Plant name`** | Texto | Identifica el aceite $i$. Cada especie única es una fila de la matriz $A$. |
-| **`Chemical Name`** | Texto | Identifica el compuesto $j$. Cada compuesto único es una columna de $A$. |
-| **`Percentage`** | Numérico (%) | Es el parámetro $a_{ij}$ — el dato central del modelo. Se promedia entre todas las muestras ESO de esa especie. |
-| **`Plant Part`** | Texto | Filtro de calidad: solo usar registros de la parte estándar (flor para lavanda, hoja para eucalipto, etc.) para no mezclar perfiles distintos. |
+| `matrix_A.csv` | 30 × 617 | Parámetros $a_{ij}$ |
+| `scenarios_c.csv` | 59 × 617 | Vectores $c$ (uno por escenario terapéutico) |
+| `prices_clean.csv` | 31 filas | Parámetros $p_i$ (precio por gota, inscrito) |
+| `eo_aggregated.csv` | 1,807 filas | Tabla larga con media/std/n por (especie, compuesto) |
+| `therapy_clean.csv` | 196 filas | Referencia: qué plantas → qué usos terapéuticos |
+| `doterra_categories_ref.csv` | 142 filas | Qué plantas de referencia definen cada categoría doTERRA |
 
-### 4.4 Dato faltante y cómo resolverlo
+### 4.4 Hallazgos EDA
 
-- **Naranja dulce (*Citrus sinensis*):** no disponible en sCentInDB. Se sustituirá por *Citrus aurantium* (naranja amarga, disponible en la BD) o se complementará con datos de doTERRA Source-to-You (reportes de lote GC/MS públicos).
+#### Matriz A — Composición química
+
+- **Dimensiones:** 30 aceites × 617 compuestos únicos.
+- **Sparsity:** 90.2 % de las celdas son 0. Cada aceite contiene en promedio ~60 compuestos.
+- **Cobertura GC-MS:** 9 de los 30 aceites tienen suma de porcentajes > 110 %, producto de promediar muestras de distintos estudios. Se normalizarán fila a fila antes de resolver el LP: `A_norm = A.div(A.sum(axis=1), axis=0) * 100`.
+- **Compuestos más ubicuos** (presentes en más de 20 aceites de los 30):
+
+| Compuesto | Aceites que lo contienen |
+|---|:---:|
+| α-Pinene | 27 / 30 |
+| β-Pinene | 25 / 30 |
+| Limonene, (-)- | 24 / 30 |
+| Caryophyllene | 24 / 30 |
+| Linalool, (+/-)- | 23 / 30 |
+
+![Compuestos más ubicuos](figures/fig4_compuestos_ubicuos.png)
+
+![Heatmap matriz A](figures/fig2_heatmap_matriz_A.png)
+
+![Cobertura GC-MS por aceite](figures/fig3_cobertura_gcms.png)
+
+#### Calidad de los promedios GC-MS
+
+El 50 % de los pares (especie, compuesto) tienen sólo 1–2 mediciones; el máximo es 88. Los compuestos con más muestras corresponden a las plantas más estudiadas (Piper nigrum, Zingiber officinale, Ocimum basilicum). Los porcentajes con n = 1 se incluyen con advertencia; el modelo es robusto a variación individual dado que el óptimo depende del perfil global del aceite, no de un compuesto aislado.
+
+![Distribución n_samples](figures/fig6_nsamples.png)
+
+#### Precios por gota (unidad del modelo)
+
+El presupuesto del LP se expresa en **MXN por gota de aceite esencial** (no por mL), porque la formulación práctica de un roll-on se hace contando gotas. La conversión usa el estándar doTERRA de **16 gotas/mL** (verificado en la columna `Gtas x frasco` del catálogo).
+
+$$p_i^{\text{gota}} = \frac{\text{Costo Inscritos}_i}{\text{Gtas}_i} = \frac{\text{precio\_por\_mL}_i}{16}$$
+
+| Aceite | MXN / gota |
+|---|:---:|
+| Sándalo (más caro) | $20.65 |
+| Nardo | $14.80 |
+| Cardamomo | $8.78 |
+| … | … |
+| Romero | $1.44 |
+| Limón | $1.02 |
+| Limoncillo (más barato) | $0.99 |
+
+![Precio por gota](figures/fig1_precio_por_gota.png)
+
+#### Vectores c — escenarios terapéuticos
+
+`scenarios_c.csv` contiene 59 escenarios:
+
+- **41 de scentindb** (literatura farmacológica): Anti-Bacterial, Antifungal, Anxiolytics, Anti-Inflammatory, Antioxidant, Analgesics, etc.
+- **18 de doTERRA** (catálogo de beneficios): Digestive Support, Sleep Support, Stress Relief, Respiratory Support, Skin Care, Purifying and Cleansing, etc.
+
+Cada fila es un vector normalizado ($\sum_j c_j = 1$). Los pesos reflejan el perfil químico promedio de las plantas asociadas a ese uso terapéutico en la BD. Ejemplos:
+
+| Escenario | Compuesto dominante | $c_j$ |
+|---|---|:---:|
+| Anxiolytics | Linalyl acetate | 0.33 |
+| Sleep Support | Linalyl acetate | 0.10 |
+| Oral Health | Eugenol | 0.25 |
+| Grounding & Meditation | Patchouli alcohol | 0.14 |
+| Energy and Uplifting | Limonene, (-)- | 0.09 |
+
+![Vectores c por escenario](figures/fig5_vectores_c.png)
 
 ---
 
@@ -93,18 +168,19 @@ El problema práctico es: dado un objetivo terapéutico, **¿en qué proporcione
 
 $$x_i \in [0, 1], \quad i = 1, \ldots, n$$
 
-donde $x_i$ es la fracción volumétrica del aceite $i$ en la mezcla final.
+donde $x_i$ es la **fracción de gotas** del aceite $i$ en la mezcla terapéutica.  
+*Ejemplo: si se prepara un roll-on con 25 gotas totales, el aceite $i$ contribuye $25 \cdot x_i$ gotas.*
 
-### 5.2 Parámetros
+### 5.2 Parámetros y datos de origen
 
-| Símbolo | Descripción | Fuente |
-|---|---|---|
-| $a_{ij}$ | % del compuesto $j$ en el aceite $i$ (promedio entre muestras ESO) | sCentInDB |
-| $c_j$ | Peso terapéutico del compuesto $j$ para el escenario elegido | Literatura (Tisserand & Young, 2014) |
-| $p_i$ | Precio por mL del aceite $i$ | Catálogo doTERRA 2025 |
-| $d_j^{max}$ | Concentración máxima permitida del compuesto $j$ | IFRA / Tisserand & Young |
-| $u_i$ | Proporción máxima del aceite $i$ en la mezcla (e.g. 40%) | Buenas prácticas aromaterapia |
-| $B$ | Presupuesto máximo por mL de mezcla | Definido por escenario |
+| Símbolo | Descripción | Archivo en `data/clean/` | Columna |
+|---|---|---|---|
+| $a_{ij}$ | % del compuesto $j$ en el aceite $i$ (promedio GC-MS) | `matrix_A.csv` | todas las columnas de compuestos |
+| $c_j$ | Peso terapéutico del compuesto $j$ para el escenario elegido | `scenarios_c.csv` | columna del escenario |
+| $p_i$ | Precio por gota del aceite $i$ (costo inscrito) | `prices_clean.csv` | `precio_por_gota` |
+| $d_j^{max}$ | Concentración máxima permitida del compuesto $j$ | IFRA / Tisserand & Young | — |
+| $u_i$ | Proporción máxima del aceite $i$ en la mezcla | Criterio aromaterapia | — |
+| $B$ | Presupuesto máximo por gota de mezcla (MXN) | Definido por escenario | — |
 
 ### 5.3 Función objetivo
 
@@ -120,13 +196,35 @@ $$\sum_{i=1}^{n} a_{ij}\, x_i \leq d_j^{max} \quad \forall j \tag{seguridad por 
 
 $$x_i \leq u_i \quad \forall i \tag{límite por aceite}$$
 
-$$\sum_{i=1}^{n} p_i\, x_i \leq B \tag{presupuesto (opcional)}$$
+$$\sum_{i=1}^{n} p_i\, x_i \leq B \tag{presupuesto en MXN/gota}$$
 
 ### 5.5 Forma estándar para `scipy.optimize.linprog`
 
 Dado que `linprog` minimiza, se convierte el problema:
 
 $$\min_{x} \quad -c^T A^T x \quad \text{s.a.} \quad A_{ub}\,x \leq b_{ub},\; A_{eq}\,x = b_{eq},\; 0 \leq x \leq u$$
+
+```python
+# Nota de implementación: normalizar A antes de construir el LP
+A_norm = A.div(A.sum(axis=1), axis=0) * 100   # filas que sumen 100%
+
+# Cargar c para el escenario elegido
+c_vec = scenarios_df.loc["Sleep Support"].values
+
+# Función objetivo (negada para minimizar)
+c_obj = -(A_norm.values.T @ c_vec)   # shape (n_oils,)
+
+# Restricción de presupuesto (desigualdad)
+p     = prices.set_index("ACEITES")["precio_por_gota"].reindex(A_norm.index).values
+A_ub  = p.reshape(1, -1)
+b_ub  = np.array([B])
+
+# Restricción de mezcla completa (igualdad)
+A_eq  = np.ones((1, len(A_norm)))
+b_eq  = np.array([1.0])
+
+bounds = [(0, u_i) for u_i in u]   # u_i = 0.4 por defecto
+```
 
 ---
 
@@ -204,130 +302,106 @@ res_ipm = linprog(c_obj, A_ub=A_ub, b_ub=b_ub,
 
 ### 5-Alt.6 Qué se compara en el notebook
 
-Para cada uno de los 3 escenarios se reporta:
+Para cada escenario analizado se reporta:
 
 | Métrica | Símplex | Puntos Interiores |
 |---|---|---|
 | Valor óptimo $z^*$ | — | — |
-| Solución $x^*$ (fracciones de mezcla) | — | — |
+| Solución $x^*$ (fracciones por aceite) | — | — |
 | Número de iteraciones | — | — |
 | Tiempo de cómputo (ms) | — | — |
 | Restricciones activas | — | — |
 
-> Se espera que ambos métodos lleguen al **mismo $z^*$** (mismo óptimo global), pero por caminos distintos. La diferencia principal aparecerá en el número de iteraciones y en la "suavidad" de la trayectoria hacia el óptimo.
+> Se espera que ambos métodos lleguen al **mismo $z^*$**, pero por caminos distintos.
 
 ---
 
-## 6. Los tres escenarios de optimización
+## 6. Escenarios de optimización
 
-### Escenario A — Relajación
+Los escenarios se generan dinámicamente desde `scenarios_c.csv`, que contiene **59 vectores c** listos para usar:
 
-- **Objetivo:** maximizar linalool + acetato de linalilo (actividad ansiolítica y sedante)
-- **Aceites candidatos:** lavanda, romero, limón, árbol de té, incienso
-- **Compuestos objetivo:** linalool, linalyl acetate
-- **Restricción especial:** linalool ≤ 10% en mezcla final (límite IFRA piel)
+```python
+scenarios_df = pd.read_csv("data/clean/scenarios_c.csv", index_col=0)
 
-### Escenario B — Antimicrobiano / Respiratorio
+# Elegir cualquier escenario por nombre
+c_vec = scenarios_df.loc["Sleep Support"].values
+c_vec = scenarios_df.loc["Anti-Bacterial Agents"].values
+c_vec = scenarios_df.loc["Purifying and Cleansing"].values
+```
 
-- **Objetivo:** maximizar eucaliptol + 4-terpineol + α-pineno
-- **Aceites candidatos:** eucalipto, árbol de té, romero, menta, incienso
-- **Compuestos objetivo:** eucalyptol (1,8-cineole), 4-terpineol, α-pineno
-- **Restricción especial:** eucaliptol ≤ 35% en mezcla (seguridad neurológica en niños)
+### Escenarios sugeridos para el notebook (representativos y diversos)
 
-### Escenario C — Energizante / Mental
+| Escenario | Fuente | Compuesto dominante | Interés del análisis |
+|---|---|---|---|
+| **Anxiolytics** | scentindb | Linalyl acetate (0.33) | Benchmark clínico; lavanda domina |
+| **Sleep Support** | doTERRA | Linalyl acetate (0.10) | Similar a Anxiolytics pero más balanceado |
+| **Anti-Bacterial Agents** | scentindb | — | 30/30 aceites útiles; problema denso |
+| **Oral Health** | doTERRA | Eugenol (0.25) | Clavo domina; presupuesto restrictivo |
+| **Purifying and Cleansing** | doTERRA | Eucalyptol (0.03) | Múltiples aceites económicos competitivos |
 
-- **Objetivo:** maximizar limoneno + mentol + alcanfor
-- **Aceites candidatos:** limón, menta, romero, lavanda, naranja/citrus
-- **Compuestos objetivo:** limonene, menthol, camphor
-- **Restricción especial:** mentol ≤ 5% en mezcla (límite en cosmética facial)
+### Cómo se construyó cada vector c
+
+Para los escenarios de **scentindb**: se toman todas las plantas del mundo con ese uso terapéutico registrado en la BD (sin filtrar a doTERRA), se promedian sus perfiles GC-MS, y se normaliza.
+
+Para los escenarios de **doTERRA**: se asignan las especies botánicas cuyas descripciones en el catálogo mencionan explícitamente ese beneficio; se aplica el mismo procedimiento de promedio y normalización.
 
 ---
 
-## 7. Estructura del notebook (`.ipynb`)
+## 7. Estructura del notebook `02_optimization.ipynb`
 
-### Sección 1 — Introducción *(~0.5 páginas)*
-- Descripción del problema y motivación
-- Vínculo con aromaterapia y doTERRA
-- Objetivo del proyecto
+### Sección 1 — Introducción
+- Contexto del problema y motivación
+- Conexión con el notebook de limpieza (`01_data_cleaning.ipynb`)
 
-### Sección 2 — Marco teórico *(~2 páginas)*
-- Programación Lineal: forma estándar, geometría del poliedro factible
-- Método Símplex: pasos, tableaux, pivoteo
-- Condiciones KKT: lagrangianos, variables duales, interpretación económica (precios sombra)
-- Comparativa Símplex vs. Puntos Interiores (opcional)
+### Sección 2 — Marco teórico *(resumen)*
+- Programación Lineal: forma estándar, poliedro factible
+- Símplex vs. Puntos Interiores
 
-### Sección 3 — Datos *(~2 páginas + código)*
-- Descripción de sCentInDB
-- Carga y exploración de CSVs (`pandas`)
-- Limpieza: normalización de nombres de compuestos, manejo de múltiples muestras ESO
-- Construcción de la matriz $A$ (aceites × compuestos): promedio por especie
-- Visualización: **heatmap** de composición química (seaborn)
+### Sección 3 — Carga y preparación de datos
+```python
+A         = pd.read_csv("data/clean/matrix_A.csv",    index_col=0)
+scenarios = pd.read_csv("data/clean/scenarios_c.csv", index_col=0)
+prices    = pd.read_csv("data/clean/prices_clean.csv")
 
-### Sección 4 — Modelado matemático *(~1.5 páginas)*
-- Definición formal de $x$, $A$, $c$, $d^{max}$, $p$
-- Justificación de los pesos $c_j$ por escenario (referencias bibliográficas)
-- Precios doTERRA por mL
-- Límites de seguridad IFRA / Tisserand & Young
-- Conversión a forma estándar `linprog`
+# Normalizar A (9 aceites tienen suma de fila > 110%)
+A_norm = A.div(A.sum(axis=1), axis=0) * 100
+```
 
-### Sección 5 — Solución *(código + resultados)*
-- Implementación con `scipy.optimize.linprog`
-- Solución de los 3 escenarios
-- Verificación de factibilidad y optimalidad
-- Tabla de resultados: $x^*$, valor objetivo $z^*$, restricciones activas
+### Sección 4 — Implementación del LP
+- Construcción de `c_obj`, `A_ub`, `b_ub`, `A_eq`, `b_eq`, `bounds`
+- Función auxiliar `solve_scenario(scenario_name, budget_per_drop, u_max)`
+- Resolver con `highs-ds` (Símplex) y `highs-ipm` (Puntos Interiores)
 
-### Sección 6 — Interpretación *(~2 páginas + gráficas)*
-- Gráfica de barras apiladas: mezcla óptima por escenario
-- Variables duales: ¿cuál restricción "cuesta más" relajar?
-- Análisis de sensibilidad: variación de $B$ (presupuesto) y $d_j^{max}$ (límites de seguridad)
-- Comparación entre los 3 escenarios
+### Sección 5 — Resultados y comparación de métodos
+- Tabla: $z^*$, iteraciones, tiempo por método
+- Gráfica de barras apiladas: mezcla óptima $x^*$ por escenario
+- Interpretación de variables duales
 
-### Sección 7 — Conclusiones *(~0.5 páginas)*
-- Resultados principales
-- Limitaciones del modelo (un solo lote promedio, precios estimados)
-- Extensiones posibles: programación entera mixta para elegir subconjunto de aceites
+### Sección 6 — Análisis de sensibilidad
+- Variación del presupuesto $B$: curva $z^*$ vs. $B$
+- Variación de $u_i$ (límite máximo por aceite): impacto en diversidad de la mezcla
+
+### Sección 7 — Conclusiones
+- Comparación Símplex vs. Puntos Interiores
+- Limitaciones y extensiones posibles
 
 ---
 
 ## 8. Librerías y herramientas
 
 ```python
-pandas          # carga y limpieza de CSVs
+pandas          # carga y manipulación de artefactos data/clean/
 numpy           # álgebra lineal, construcción de A, b, c
-scipy.optimize  # linprog (Símplex + Interior Point)
+scipy.optimize  # linprog (Símplex + Interior Point vía HiGHS)
 matplotlib      # gráficas de resultados
-seaborn         # heatmap de composición
-pulp            # (opcional) interfaz alternativa más legible para PL
+seaborn         # heatmap de composición (EDA)
 ```
 
-**Solver:** `scipy.optimize.linprog` con `method='highs'` (predeterminado, usa HiGHS internamente — soporta Símplex revisado y puntos interiores).
+**Solver:** `scipy.optimize.linprog` con `method='highs'` — soporta Símplex revisado (`highs-ds`) y puntos interiores (`highs-ipm`).
 
 ---
 
-## 9. Plan de trabajo y cronograma
-
-| Semana | Fechas | Tarea | Entregable interno |
-|:---:|---|---|---|
-| 1 | 6–11 may | Exploración de datos, limpieza de CSVs, construcción de matriz $A$ | `data_exploration.ipynb` |
-| 2 | 12–18 may | Marco teórico en Markdown/LaTeX, definición formal del modelo | Secciones 1–4 del notebook |
-| 3 | 19–25 may | Implementación de los 3 escenarios, verificación de resultados | Sección 5 completa |
-| 4 | 26–31 may | Visualizaciones, análisis de sensibilidad, conclusiones | Notebook final `.ipynb` |
-| 5 | 1–7 jun | Preparación de presentación PDF, ensayo de 10–12 min | `.pdf` para entrega |
-
----
-
-## 10. Riesgos y mitigaciones
-
-| Riesgo | Probabilidad | Mitigación |
-|---|:---:|---|
-| *Citrus sinensis* no está en sCentInDB | **Ocurrido** | Usar *Citrus aurantium* (sí disponible) o datos de doTERRA Source-to-You |
-| *Boswellia sacra/carterii* no en BD | **Ocurrido** | Usar *B. serrata* con nota; composición similar en α-pineno y terpenos |
-| Problema infactible por restricciones muy estrictas | Media | Relajar $d_j^{max}$ en 10–20% o eliminar aceites con composición atípica |
-| Solución degenerada (varios óptimos) | Baja | Añadir criterio de desempate: minimizar costo como objetivo secundario |
-
----
-
-## 11. Referencias
+## 9. Referencias
 
 1. Samal, A. et al. (2026). sCentInDB: a database of essential oil chemical profiles of Indian medicinal plants. *Molecular Diversity*. https://doi.org/10.1007/s11030-025-11215-5
 2. Tisserand, R. & Young, R. (2014). *Essential Oil Safety* (2nd ed.). Churchill Livingstone.
@@ -335,4 +409,3 @@ pulp            # (opcional) interfaz alternativa más legible para PL
 4. IFRA (International Fragrance Association). IFRA Standards — Concentration limits by compound and application category. https://ifrafragrance.org
 5. doTERRA International. Source to You — GC/MS batch testing reports. https://sourcetoyou.doterra.com
 6. Virtanen, P. et al. (2020). SciPy 1.0: Fundamental algorithms for scientific computing in Python. *Nature Methods*, 17, 261–272.
-7. Leal, W. S. (2013). Odorant reception in insects. *Annual Review of Entomology* (referencia de apoyo para clasificación de compuestos).

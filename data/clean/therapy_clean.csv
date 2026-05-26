@@ -141,57 +141,424 @@ Nardostachys jatamansi,Stress Relief,Nardo,doterra
 Pelargonium graveolens,Stress Relief,Geranio,doterra
 Salvia sclarea,Stress Relief,,doterra
 Vetiveria zizanioides,Stress Relief,,doterra
+Acorus calamus,Adrenergic Antagonists,,scentindb
+Acorus calamus,Analgesics,,scentindb
+Alpinia haenkei,Analgesics,,scentindb
+Cedrus deodara,Analgesics,,scentindb
+Micromeria biflora,Analgesics,,scentindb
+Synotis rufinervis,Analgesics,,scentindb
+Acorus calamus,Anti-Bacterial Agents,,scentindb
+Agrimonia pilosa,Anti-Bacterial Agents,,scentindb
+Ainsliaea aptera,Anti-Bacterial Agents,,scentindb
+Ajuga integrifolia,Anti-Bacterial Agents,,scentindb
+Alpinia galanga,Anti-Bacterial Agents,,scentindb
+Alstonia scholaris,Anti-Bacterial Agents,,scentindb
+Amomum hypoleucum,Anti-Bacterial Agents,,scentindb
+Anaphalis triplinervis,Anti-Bacterial Agents,,scentindb
+Anethum graveolens,Anti-Bacterial Agents,,scentindb
+Anisomeles indica,Anti-Bacterial Agents,,scentindb
+Anisomeles malabarica,Anti-Bacterial Agents,,scentindb
+Annona squamosa,Anti-Bacterial Agents,,scentindb
+Artemisia absinthium,Anti-Bacterial Agents,,scentindb
+Artemisia nilagirica,Anti-Bacterial Agents,,scentindb
+Artemisia pallens,Anti-Bacterial Agents,,scentindb
+Artemisia vulgaris,Anti-Bacterial Agents,,scentindb
+Atalantia monophylla,Anti-Bacterial Agents,,scentindb
+Ayapana triplinervis,Anti-Bacterial Agents,,scentindb
+Barleria lupulina,Anti-Bacterial Agents,,scentindb
+Blumea eriantha,Anti-Bacterial Agents,,scentindb
 Boswellia serrata,Anti-Bacterial Agents,Incienso,scentindb
-Boswellia serrata,Anti-Bacterial Agents,Incienso,scentindb
+Calotropis gigantea,Anti-Bacterial Agents,,scentindb
+Celastrus paniculatus,Anti-Bacterial Agents,,scentindb
+Chloroxylon swietenia,Anti-Bacterial Agents,,scentindb
+Chromolaena odorata,Anti-Bacterial Agents,,scentindb
+Cinnamomum tamala,Anti-Bacterial Agents,,scentindb
 Cinnamomum verum,Anti-Bacterial Agents,Canela,scentindb
-Cinnamomum verum,Anti-Bacterial Agents,Canela,scentindb
-Citrus aurantium,Anti-Bacterial Agents,Petitgrain,scentindb
 Citrus aurantium,Anti-Bacterial Agents,Petitgrain,scentindb
 Citrus limon,Anti-Bacterial Agents,Limón,scentindb
-Coriandrum sativum,Anti-Bacterial Agents,Cilantro,scentindb
+Clausena indica,Anti-Bacterial Agents,,scentindb
 Coriandrum sativum,Anti-Bacterial Agents,Cilantro,scentindb
 Corymbia citriodora,Anti-Bacterial Agents,Eucalipto Limón,scentindb
-Corymbia citriodora,Anti-Bacterial Agents,Eucalipto Limón,scentindb
+Corymbia maculata,Anti-Bacterial Agents,,scentindb
+Cotinus coggygria,Anti-Bacterial Agents,,scentindb
+Cuminum cyminum,Anti-Bacterial Agents,,scentindb
+Cupressus torulosa,Anti-Bacterial Agents,,scentindb
+Curcuma amada,Anti-Bacterial Agents,,scentindb
+Curcuma angustifolia,Anti-Bacterial Agents,,scentindb
+Curcuma aromatica,Anti-Bacterial Agents,,scentindb
+Curcuma caesia,Anti-Bacterial Agents,,scentindb
+Curcuma haritha,Anti-Bacterial Agents,,scentindb
+Curcuma longa,Anti-Bacterial Agents,,scentindb
+Curcuma zedoaria,Anti-Bacterial Agents,,scentindb
+Cyathocline purpurea,Anti-Bacterial Agents,,scentindb
+Cyclospermum leptophyllum,Anti-Bacterial Agents,,scentindb
+Cymbopogon citratus,Anti-Bacterial Agents,,scentindb
+Cymbopogon distans,Anti-Bacterial Agents,,scentindb
+Cymbopogon jwarancusa,Anti-Bacterial Agents,,scentindb
+Cymbopogon martini,Anti-Bacterial Agents,,scentindb
 Elettaria cardamomum,Anti-Bacterial Agents,Cardamomo,scentindb
+Elsholtzia fruticosa,Anti-Bacterial Agents,,scentindb
+Erigeron bonariensis,Anti-Bacterial Agents,,scentindb
+Eucalyptus globulus,Anti-Bacterial Agents,,scentindb
+Eugenia rottleriana,Anti-Bacterial Agents,,scentindb
 Foeniculum vulgare,Anti-Bacterial Agents,Hinojo,scentindb
+Hedychium coronarium,Anti-Bacterial Agents,,scentindb
+Hedychium larsenii,Anti-Bacterial Agents,,scentindb
+Heptapleurum stellatum,Anti-Bacterial Agents,,scentindb
+Hyptis suaveolens,Anti-Bacterial Agents,,scentindb
+Inula cappa,Anti-Bacterial Agents,,scentindb
+Inula racemosa,Anti-Bacterial Agents,,scentindb
+Isodon rugosus,Anti-Bacterial Agents,,scentindb
+Jasminum sambac,Anti-Bacterial Agents,,scentindb
+Laggera crispata,Anti-Bacterial Agents,,scentindb
 Lavandula angustifolia,Anti-Bacterial Agents,Lavanda,scentindb
+Lavandula bipinnata,Anti-Bacterial Agents,,scentindb
+Leucas decemdentata,Anti-Bacterial Agents,,scentindb
+Ligularia amplexicaulis,Anti-Bacterial Agents,,scentindb
+Limnophila repens,Anti-Bacterial Agents,,scentindb
+Limonia acidissima,Anti-Bacterial Agents,,scentindb
+Lindera pulcherrima,Anti-Bacterial Agents,,scentindb
+Litchi chinensis,Anti-Bacterial Agents,,scentindb
+Litsea glutinosa,Anti-Bacterial Agents,,scentindb
+Meistera cannicarpa,Anti-Bacterial Agents,,scentindb
+Melaleuca citrina,Anti-Bacterial Agents,,scentindb
+Melaleuca decora,Anti-Bacterial Agents,,scentindb
+Melaleuca viminalis,Anti-Bacterial Agents,,scentindb
+Mesua ferrea,Anti-Bacterial Agents,,scentindb
+Mikania micrantha,Anti-Bacterial Agents,,scentindb
+Myrica esculenta,Anti-Bacterial Agents,,scentindb
+Neolitsea fischeri,Anti-Bacterial Agents,,scentindb
+Neolitsea foliosa,Anti-Bacterial Agents,,scentindb
+Neolitsea pallens,Anti-Bacterial Agents,,scentindb
+Nepeta clarkei,Anti-Bacterial Agents,,scentindb
+Nepeta coerulescens,Anti-Bacterial Agents,,scentindb
+Nepeta hindostana,Anti-Bacterial Agents,,scentindb
+Ocimum americanum,Anti-Bacterial Agents,,scentindb
 Origanum vulgare,Anti-Bacterial Agents,Orégano,scentindb
+Pamburus missionis,Anti-Bacterial Agents,,scentindb
+Pentanema indicum,Anti-Bacterial Agents,,scentindb
+Perilla frutescens,Anti-Bacterial Agents,,scentindb
+Persicaria hydropiper,Anti-Bacterial Agents,,scentindb
+Pimenta dioica,Anti-Bacterial Agents,,scentindb
+Pinus roxburghii,Anti-Bacterial Agents,,scentindb
+Piper betle,Anti-Bacterial Agents,,scentindb
+Pistacia chinensis,Anti-Bacterial Agents,,scentindb
+Pittosporum neelgherrense,Anti-Bacterial Agents,,scentindb
+Pittosporum viridulum,Anti-Bacterial Agents,,scentindb
+Platostoma hispidum,Anti-Bacterial Agents,,scentindb
+Platycladus orientalis,Anti-Bacterial Agents,,scentindb
+Plectranthus barbatus,Anti-Bacterial Agents,,scentindb
+Plectranthus hadiensis,Anti-Bacterial Agents,,scentindb
+Plectranthus mollis,Anti-Bacterial Agents,,scentindb
+Plectranthus ovatus,Anti-Bacterial Agents,,scentindb
+Plectranthus vettiveroides,Anti-Bacterial Agents,,scentindb
+Pleurospermum angelicoides,Anti-Bacterial Agents,,scentindb
+Premna mollissima,Anti-Bacterial Agents,,scentindb
+Pseudocaryopteris foetida,Anti-Bacterial Agents,,scentindb
 Rosmarinus officinalis,Anti-Bacterial Agents,Romero,scentindb
+Ruta graveolens,Anti-Bacterial Agents,,scentindb
 Salvia officinalis,Anti-Bacterial Agents,Salvia,scentindb
+Scutellaria repens,Anti-Bacterial Agents,,scentindb
+Selinum vaginatum,Anti-Bacterial Agents,,scentindb
+Semenovia thomsonii,Anti-Bacterial Agents,,scentindb
+Senecio nudicaulis,Anti-Bacterial Agents,,scentindb
+Skimmia laureola,Anti-Bacterial Agents,,scentindb
+Swertia cordata,Anti-Bacterial Agents,,scentindb
+Synotis rufinervis,Anti-Bacterial Agents,,scentindb
+Syzygium caryophyllatum,Anti-Bacterial Agents,,scentindb
+Syzygium gardneri,Anti-Bacterial Agents,,scentindb
+Tetrataenium rigens,Anti-Bacterial Agents,,scentindb
+Thymus linearis,Anti-Bacterial Agents,,scentindb
+Thymus serpyllum,Anti-Bacterial Agents,,scentindb
+Toddalia asiatica,Anti-Bacterial Agents,,scentindb
+Trachyspermum ammi,Anti-Bacterial Agents,,scentindb
+Woodfordia fruticosa,Anti-Bacterial Agents,,scentindb
+Zanthoxylum armatum,Anti-Bacterial Agents,,scentindb
+Zingiber chrysanthum,Anti-Bacterial Agents,,scentindb
+Piper cubeba,Anti-Infective Agents,,scentindb
+Alpinia haenkei,Anti-Inflammatory Agents,,scentindb
+Boswellia ovalifoliolata,Anti-Inflammatory Agents,,scentindb
+Cedrus deodara,Anti-Inflammatory Agents,,scentindb
+Celastrus paniculatus,Anti-Inflammatory Agents,,scentindb
 Citrus limon,Anti-Inflammatory Agents,Limón,scentindb
+Curcuma longa,Anti-Inflammatory Agents,,scentindb
+Datura stramonium,Anti-Inflammatory Agents,,scentindb
+Hyptis suaveolens,Anti-Inflammatory Agents,,scentindb
+Limnophila indica,Anti-Inflammatory Agents,,scentindb
+Limnophila repens,Anti-Inflammatory Agents,,scentindb
+Malus domestica,Anti-Inflammatory Agents,,scentindb
+Micromeria biflora,Anti-Inflammatory Agents,,scentindb
 Pelargonium graveolens,Anti-Inflammatory Agents,Geranio,scentindb
+Plectranthus barbatus,Anti-Inflammatory Agents,,scentindb
+Premna mollissima,Anti-Inflammatory Agents,,scentindb
+Pseudocaryopteris foetida,Anti-Inflammatory Agents,,scentindb
+Psidium guajava,Anti-Inflammatory Agents,,scentindb
+Tagetes minuta,Anti-Inflammatory Agents,,scentindb
+Toddalia asiatica,Anti-Inflammatory Agents,,scentindb
+Valeriana jatamansi,Anti-Inflammatory Agents,,scentindb
+Wrightia tinctoria,Anti-Inflammatory Agents,,scentindb
+Zanthoxylum armatum,Anti-Inflammatory Agents,,scentindb
+Zingiber chrysanthum,Anti-Inflammatory Agents,,scentindb
+Piper betle,Anti-infective antiprotozoal,,scentindb
+Pistacia chinensis,Anti-infective antiprotozoal,,scentindb
+Aegle marmelos,Anticancer agents,,scentindb
+Alpinia nigra,Anticancer agents,,scentindb
+Artemisia indica,Anticancer agents,,scentindb
+Cananga odorata,Anticancer agents,Cananga,scentindb
 Cananga odorata,Anticancer agents,Ylang Ylang,scentindb
+Malus domestica,Anticancer agents,,scentindb
+Mikania micrantha,Anticancer agents,,scentindb
+Myristica fragrans,Anticancer agents,,scentindb
+Plectranthus amboinicus,Anticancer agents,,scentindb
+Celastrus paniculatus,Anticonvulsant specified,,scentindb
+Elwendia persica,Antidote,,scentindb
+Aegle marmelos,Antifungal Agents,,scentindb
+Ainsliaea aptera,Antifungal Agents,,scentindb
+Anethum graveolens,Antifungal Agents,,scentindb
+Anisomeles indica,Antifungal Agents,,scentindb
+Apium graveolens,Antifungal Agents,,scentindb
+Artemisia maritima,Antifungal Agents,,scentindb
+Artemisia nilagirica,Antifungal Agents,,scentindb
+Artemisia pallens,Antifungal Agents,,scentindb
+Ayapana triplinervis,Antifungal Agents,,scentindb
+Bergenia stracheyi,Antifungal Agents,,scentindb
 Boswellia serrata,Antifungal Agents,Incienso,scentindb
-Cinnamomum verum,Antifungal Agents,Canela,scentindb
-Cinnamomum verum,Antifungal Agents,Canela,scentindb
+Callicarpa macrophylla,Antifungal Agents,,scentindb
+Calotropis gigantea,Antifungal Agents,,scentindb
+Cedrus deodara,Antifungal Agents,,scentindb
+Chloroxylon swietenia,Antifungal Agents,,scentindb
+Cinnamomum camphora,Antifungal Agents,,scentindb
 Cinnamomum verum,Antifungal Agents,Canela,scentindb
 Citrus aurantium,Antifungal Agents,Petitgrain,scentindb
 Citrus limon,Antifungal Agents,Limón,scentindb
-Citrus limon,Antifungal Agents,Limón,scentindb
-Coriandrum sativum,Antifungal Agents,Cilantro,scentindb
+Citrus maxima,Antifungal Agents,,scentindb
+Clausena pentaphylla,Antifungal Agents,,scentindb
 Coriandrum sativum,Antifungal Agents,Cilantro,scentindb
 Corymbia citriodora,Antifungal Agents,Eucalipto Limón,scentindb
+Curcuma amada,Antifungal Agents,,scentindb
+Curcuma angustifolia,Antifungal Agents,,scentindb
+Curcuma aromatica,Antifungal Agents,,scentindb
+Curcuma caesia,Antifungal Agents,,scentindb
+Curcuma haritha,Antifungal Agents,,scentindb
+Curcuma longa,Antifungal Agents,,scentindb
+Curcuma zedoaria,Antifungal Agents,,scentindb
+Cymbopogon citratus,Antifungal Agents,,scentindb
+Cymbopogon distans,Antifungal Agents,,scentindb
 Cymbopogon flexuosus,Antifungal Agents,Limoncillo,scentindb
+Cymbopogon martini,Antifungal Agents,,scentindb
 Elettaria cardamomum,Antifungal Agents,Cardamomo,scentindb
+Elsholtzia fruticosa,Antifungal Agents,,scentindb
+Erigeron bonariensis,Antifungal Agents,,scentindb
 Foeniculum vulgare,Antifungal Agents,Hinojo,scentindb
+Hedychium coronarium,Antifungal Agents,,scentindb
+Hedychium spicatum,Antifungal Agents,,scentindb
+Hemidesmus indicus,Antifungal Agents,,scentindb
+Heptapleurum stellatum,Antifungal Agents,,scentindb
+Homalomena aromatica,Antifungal Agents,,scentindb
+Inula cuspidata,Antifungal Agents,,scentindb
+Inula racemosa,Antifungal Agents,,scentindb
+Isodon rugosus,Antifungal Agents,,scentindb
+Jatropha curcas,Antifungal Agents,,scentindb
 Juniperus communis,Antifungal Agents,Baya de Enebro,scentindb
+Lantana indica,Antifungal Agents,,scentindb
+Lavandula bipinnata,Antifungal Agents,,scentindb
+Leucas aspera,Antifungal Agents,,scentindb
+Limnophila repens,Antifungal Agents,,scentindb
+Limonia acidissima,Antifungal Agents,,scentindb
+Litsea cubeba,Antifungal Agents,,scentindb
+Meistera cannicarpa,Antifungal Agents,,scentindb
+Melaleuca citrina,Antifungal Agents,,scentindb
+Melaleuca decora,Antifungal Agents,,scentindb
+Melaleuca leucadendra,Antifungal Agents,,scentindb
+Mikania micrantha,Antifungal Agents,,scentindb
+Myrica esculenta,Antifungal Agents,,scentindb
+Nepeta ciliaris,Antifungal Agents,,scentindb
+Nepeta coerulescens,Antifungal Agents,,scentindb
+Nepeta elliptica,Antifungal Agents,,scentindb
+Nepeta hindostana,Antifungal Agents,,scentindb
 Origanum vulgare,Antifungal Agents,Orégano,scentindb
 Pelargonium graveolens,Antifungal Agents,Geranio,scentindb
+Pentacalia amplexicaulis,Antifungal Agents,,scentindb
+Pentanema indicum,Antifungal Agents,,scentindb
+Persicaria hydropiper,Antifungal Agents,,scentindb
+Picea smithiana,Antifungal Agents,,scentindb
+Pimenta dioica,Antifungal Agents,,scentindb
+Platycladus orientalis,Antifungal Agents,,scentindb
+Plectranthus amboinicus,Antifungal Agents,,scentindb
+Plectranthus barbatus,Antifungal Agents,,scentindb
+Plectranthus mollis,Antifungal Agents,,scentindb
+Plectranthus ovatus,Antifungal Agents,,scentindb
+Pleurospermum angelicoides,Antifungal Agents,,scentindb
+Saussurea costus,Antifungal Agents,,scentindb
+Semenovia thomsonii,Antifungal Agents,,scentindb
+Skimmia laureola,Antifungal Agents,,scentindb
+Swertia cordata,Antifungal Agents,,scentindb
+Synotis rufinervis,Antifungal Agents,,scentindb
+Syzygium gardneri,Antifungal Agents,,scentindb
+Tagetes erecta,Antifungal Agents,,scentindb
+Thymus linearis,Antifungal Agents,,scentindb
+Thymus serpyllum,Antifungal Agents,,scentindb
+Toddalia asiatica,Antifungal Agents,,scentindb
+Trachyspermum ammi,Antifungal Agents,,scentindb
+Zingiber chrysanthum,Antifungal Agents,,scentindb
 Zingiber officinale,Antifungal Agents,Jengibre,scentindb
 Boswellia serrata,Antihelmintics,Incienso,scentindb
+Cinnamomum tamala,Antihelmintics,,scentindb
+Cymbopogon martini,Antihelmintics,,scentindb
+Hedychium coronarium,Antihelmintics,,scentindb
+Hedychium spicatum,Antihelmintics,,scentindb
+Inula racemosa,Antihelmintics,,scentindb
+Limnophila repens,Antihelmintics,,scentindb
+Limonia acidissima,Antihelmintics,,scentindb
+Melaleuca viminalis,Antihelmintics,,scentindb
+Piper betle,Antihelmintics,,scentindb
+Piper cubeba,Antihelmintics,,scentindb
+Pistacia chinensis,Antihelmintics,,scentindb
+Uvaria narum,Antihelmintics,,scentindb
+Erigeron multiradiatus,Antileishmanial,,scentindb
+Alpinia nigra,Antimicrobial activity function,,scentindb
+Alpinia oceanica,Antimicrobial activity function,,scentindb
+Anaphalis nepalensis,Antimicrobial activity function,,scentindb
+Artemisia absinthium,Antimicrobial activity function,,scentindb
+Artemisia indica,Antimicrobial activity function,,scentindb
+Ayapana triplinervis,Antimicrobial activity function,,scentindb
+Betula utilis,Antimicrobial activity function,,scentindb
 Cinnamomum verum,Antimicrobial activity function,Canela,scentindb
+Coriaria nepalensis,Antimicrobial activity function,,scentindb
+Cuminum cyminum,Antimicrobial activity function,,scentindb
+Decalepis hamiltonii,Antimicrobial activity function,,scentindb
 Foeniculum vulgare,Antimicrobial activity function,Hinojo,scentindb
+Gymnema sylvestre,Antimicrobial activity function,,scentindb
+Hedychium coronarium,Antimicrobial activity function,,scentindb
+Hedychium spicatum,Antimicrobial activity function,,scentindb
+Justicia adhatoda,Antimicrobial activity function,,scentindb
+Lavandula bipinnata,Antimicrobial activity function,,scentindb
+Limonia acidissima,Antimicrobial activity function,,scentindb
+Litsea cubeba,Antimicrobial activity function,,scentindb
+Malus domestica,Antimicrobial activity function,,scentindb
+Meistera cannicarpa,Antimicrobial activity function,,scentindb
+Momordica charantia,Antimicrobial activity function,,scentindb
+Myrica esculenta,Antimicrobial activity function,,scentindb
+Nepeta coerulescens,Antimicrobial activity function,,scentindb
+Pentanema indicum,Antimicrobial activity function,,scentindb
+Perilla frutescens,Antimicrobial activity function,,scentindb
+Plectranthus mollis,Antimicrobial activity function,,scentindb
+Rhynchosia heynei,Antimicrobial activity function,,scentindb
 Syzygium aromaticum,Antimicrobial activity function,Clavo,scentindb
+Syzygium grande,Antimicrobial activity function,,scentindb
+Tetrataenium rigens,Antimicrobial activity function,,scentindb
+Torilis japonica,Antimicrobial activity function,,scentindb
+Trachyspermum ammi,Antimicrobial activity function,,scentindb
+Uvaria narum,Antimicrobial activity function,,scentindb
+Valeriana jatamansi,Antimicrobial activity function,,scentindb
+Wrightia tinctoria,Antimicrobial activity function,,scentindb
+Zaleya decandra,Antimicrobial activity function,,scentindb
+Acorus calamus,Antinematodal Agents,,scentindb
+Ageratum conyzoides,Antinematodal Agents,,scentindb
+Anethum graveolens,Antinematodal Agents,,scentindb
+Cedrus deodara,Antinematodal Agents,,scentindb
+Cinnamomum tamala,Antinematodal Agents,,scentindb
+Curcuma amada,Antinematodal Agents,,scentindb
+Piper longum,Antinematodal Agents,,scentindb
+Alpinia haenkei,Antipyretics,,scentindb
+Callicarpa macrophylla,Antipyretics,,scentindb
+Micromeria biflora,Antipyretics,,scentindb
+Litsea glutinosa,Antirheumatic,,scentindb
+Acorus calamus,Antispasmodics,,scentindb
+Tagetes minuta,Antispasmodics,,scentindb
+Alpinia galanga,Antituberculars,,scentindb
+Blumea axillaris,Antiviral Agents,,scentindb
+Cymbopogon citratus,Antiviral Agents,,scentindb
 Lavandula angustifolia,Anxiolytics [TC-therapeutic category],Lavanda,scentindb
+Curcuma longa,Bactericidal activity,,scentindb
+Tagetes minuta,Bronchodilator Agents,,scentindb
+Curcuma zedoaria,Carminative,,scentindb
+Chloroxylon swietenia,Cytotoxin,,scentindb
+Clausena anisata,Cytotoxin,,scentindb
 Corymbia citriodora,Cytotoxin,Eucalipto Limón,scentindb
+Cymbopogon citratus,Cytotoxin,,scentindb
 Ocimum tenuiflorum,Cytotoxin,Tulsi,scentindb
+Platostoma hispidum,Cytotoxin,,scentindb
+Plectranthus amboinicus,Cytotoxin,,scentindb
+Curcuma longa,Fungicide,,scentindb
 Juniperus communis,Fungicide,Baya de Enebro,scentindb
+Nepeta hindostana,Fungicide,,scentindb
+Alpinia galanga,Fungistat,,scentindb
+Anethum graveolens,Fungistat,,scentindb
 Juniperus communis,Fungistat,Baya de Enebro,scentindb
+Melaleuca citrina,Fungistat,,scentindb
+Achillea millefolium,Hemostatic Agents,,scentindb
+Tagetes minuta,Hypotensive drug,,scentindb
+Datura stramonium,Immunomodulating Agents,,scentindb
+Hedychium spicatum,Pediculicide [EPC- FDA SPL established pharmacologic class],,scentindb
+Acorus calamus,Sedative mixed,,scentindb
+Cedrus deodara,Sedative mixed,,scentindb
+Acorus calamus,Sedatives,,scentindb
+Acorus calamus,Tranquilizing Agents,,scentindb
+Apium graveolens,Tranquilizing Agents,,scentindb
+Hedychium spicatum,Tranquilizing Agents,,scentindb
+Tagetes minuta,Tranquilizing Agents,,scentindb
+Aegle marmelos,antioxidant activity,,scentindb
+Alpinia nigra,antioxidant activity,,scentindb
+Alpinia oceanica,antioxidant activity,,scentindb
+Anisomeles indica,antioxidant activity,,scentindb
+Artemisia indica,antioxidant activity,,scentindb
+Artemisia nilagirica,antioxidant activity,,scentindb
+Artemisia vulgaris,antioxidant activity,,scentindb
+Atalantia monophylla,antioxidant activity,,scentindb
+Bunium bulbocastanum,antioxidant activity,,scentindb
+Callicarpa macrophylla,antioxidant activity,,scentindb
+Cananga odorata,antioxidant activity,Cananga,scentindb
 Cananga odorata,antioxidant activity,Ylang Ylang,scentindb
+Chaerophyllum villosum,antioxidant activity,,scentindb
+Cinnamomum tamala,antioxidant activity,,scentindb
 Cinnamomum verum,antioxidant activity,Canela,scentindb
+Combretum albidum,antioxidant activity,,scentindb
 Coriandrum sativum,antioxidant activity,Cilantro,scentindb
+Cotinus coggygria,antioxidant activity,,scentindb
+Datura stramonium,antioxidant activity,,scentindb
+Eucalyptus tereticornis,antioxidant activity,,scentindb
+Globba sessiliflora,antioxidant activity,,scentindb
+Gymnema sylvestre,antioxidant activity,,scentindb
+Hedychium coccineum,antioxidant activity,,scentindb
+Heptapleurum venulosum,antioxidant activity,,scentindb
+Lavandula bipinnata,antioxidant activity,,scentindb
+Leptodermis lanceolata,antioxidant activity,,scentindb
+Limnophila indica,antioxidant activity,,scentindb
+Lindera pulcherrima,antioxidant activity,,scentindb
+Litsea glutinosa,antioxidant activity,,scentindb
+Neolitsea pallens,antioxidant activity,,scentindb
+Nepeta erecta,antioxidant activity,,scentindb
+Nepeta hindostana,antioxidant activity,,scentindb
+Ocimum kilimandscharicum,antioxidant activity,,scentindb
+Olax acuminata,antioxidant activity,,scentindb
 Origanum vulgare,antioxidant activity,Orégano,scentindb
+Orthosiphon thymiflorus,antioxidant activity,,scentindb
+Pentacalia amplexicaulis,antioxidant activity,,scentindb
+Pimenta dioica,antioxidant activity,,scentindb
+Platycladus orientalis,antioxidant activity,,scentindb
+Plectranthus amboinicus,antioxidant activity,,scentindb
+Plectranthus barbatus,antioxidant activity,,scentindb
+Pleurospermum angelicoides,antioxidant activity,,scentindb
+Premna mollissima,antioxidant activity,,scentindb
+Pseudocaryopteris foetida,antioxidant activity,,scentindb
+Psidium guajava,antioxidant activity,,scentindb
+Senecio nudicaulis,antioxidant activity,,scentindb
+Skimmia anquetilia,antioxidant activity,,scentindb
 Syzygium aromaticum,antioxidant activity,Clavo,scentindb
+Syzygium caryophyllatum,antioxidant activity,,scentindb
+Tagetes erecta,antioxidant activity,,scentindb
+Tetrataenium aquilegifolium,antioxidant activity,,scentindb
+Tetrataenium rigens,antioxidant activity,,scentindb
+Tinospora cordifolia,antioxidant activity,,scentindb
+Zaleya decandra,antioxidant activity,,scentindb
+Zanthoxylum armatum,antioxidant activity,,scentindb
+Zingiber chrysanthum,antioxidant activity,,scentindb
 Zingiber officinale,antioxidant activity,Jengibre,scentindb
-Zingiber officinale,antioxidant activity,Jengibre,scentindb
+Alpinia nigra,immunostimulant,,scentindb
+Cedrus deodara,motor coordinating activity,,scentindb
+Globba sessiliflora,myorelaxant activity,,scentindb
 Cinnamomum verum,ovicidal activity,Canela,scentindb
+Cedrus deodara,type iii hypersensitivity inhibition,,scentindb
+Cedrus deodara,type iv hypersensitivity inhibition,,scentindb
+Limnophila repens,wound healing activity,,scentindb
