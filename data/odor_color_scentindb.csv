@@ -1,0 +1,255 @@
+Sno	Plant name	Plant Part	Plant Subpart	Odor	Color	Reference
+1	Tinospora cordifolia	leaf	leaf		Light yellow	https://doi.org/10.1080/0972060X.2013.831568
+2	Chromolaena odorata	leaf	leaf		Pale yellow	https://doi.org/10.1080/0972060X.2013.831571
+3	Syzygium aromaticum	stem	bud		Yellowish	https://doi.org/10.1080/0972060X.2014.884779
+4	Corymbia citriodora	flower	flower		Pale yellow	https://doi.org/10.1080/0972-060X.2004.10643384
+5	Acorus calamus	rhizome	rhizome	pleasant, sweet (light)	light yellow to pale brown	https://doi.org/10.1080/0972060X.2014.884815
+6	Artemisia annua	shoot	shoot	sweet, camphor (light), herbal-green	Pale yellow	https://doi.org/10.1080/0972060X.2014.886968
+7	Syzygium caryophyllatum	leaf	leaf		Pale yellow	https://doi.org/10.1080/0972060X.2014.895198
+8	Aristolochia krisagathra	stem	stem	fruity	Pale yellow	https://doi.org/10.1080/0972060X.2014.901623
+9	Curcuma aromatica	rhizome	rhizome		Yellowish	https://doi.org/10.1080/0972060X.2014.908746
+10	Cinnamomum glanduliferum	leaf	leaf	camphor		https://doi.org/10.1080/0972060X.2014.935027
+11	Cymbopogon citratus	leaf	leaf	strong, fresh, grassy citrus	Pale yellow	https://doi.org/10.1080/0972060X.2014.935075
+12	Curcuma aromatica	leaf	leaf		Light yellow	https://doi.org/10.1080/0972-060X.2004.10643404
+13	Syzygium grande	leaf	leaf		Pale yellow	https://doi.org/10.1080/0972060X.2014.958572
+14	Artemisia nilagirica	leaf	leaf		Light yellow	https://doi.org/10.1080/0972060X.2014.960267
+15	Hedychium coronarium	leaf	leaf		Yellow	https://doi.org/10.1080/0972060X.2014.960268
+16	Hedychium coronarium	rhizome	rhizome		Yellow	https://doi.org/10.1080/0972060X.2014.960268
+17	Cymbopogon winterianus	leaf	leaf	sweet	Colourless	https://doi.org/10.1080/0972-060X.2004.10643409
+18	Salvia officinalis	leaf	leaf	distinctive	Light yellow	https://doi.org/10.1080/0972060X.2016.1211491
+19	Isodon wightii	leaf	leaf	pleasant, aromatic	Yellowish orange	https://doi.org/10.1080/0972060X.2016.1211963
+20	Betula utilis	bark	bark	woody	Light Pale	https://doi.org/10.1080/0972060X.2015.1036569
+21	Pelargonium graveolens	leaf	leaf	powerful, sweet rose	Light greenish	https://doi.org/10.1080/0972060X.2005.10643417
+22	Piper betle	leaf	leaf	spices	Light yellow to dark yellow	https://doi.org/10.1080/0972060X.2016.1179131
+23	Clausena indica	leaf	leaf	pleasant	Pale yellow	https://doi.org/10.1080/0972060X.2011.10644003
+24	Cymbopogon winterianus	leaf	leaf		Colourless	https://doi.org/10.1080/0972060X.2006.10643476
+25	Cymbopogon winterianus	flower	inflorescence		Colourless	https://doi.org/10.1080/0972060X.2006.10643476
+26	Artemisia nilagirica	aerial part	aerial part	strong	Pale yellow	https://doi.org/10.1080/0972060X.2016.1256235
+27	Origanum majorana	aerial part	aerial part	aromatic	Light yellow	https://doi.org/10.1080/0972060X.2016.1264276
+28	Origanum majorana	stem	stem	aromatic	Yellowish green	https://doi.org/10.1080/0972060X.2016.1264276
+29	Leucas decemdentata	aerial part	aerial part		Colourless	https://doi.org/10.1080/0972060X.2016.1262791
+30	Cymbopogon citratus	leaf	leaf	citrus	Pale yellow	https://doi.org/10.1080/0972060X.2017.1328289
+31	Angelica glauca	root	root		Greenish yellow	https://doi.org/10.1080/0972060X.2017.1336119
+32	Syzygium makul	leaf	leaf		Pale yellow	https://doi.org/10.1080/0972060X.2012.10644127
+33	Vitex negundo	fruit	fruit		Yellowish	https://doi.org/10.1080/0972060X.2007.10643549
+34	Kaempferia galanga	rhizome	rhizome		Yellow	https://doi.org/10.1080/0972060X.2017.1400405
+35	Corymbia citriodora	leaf	leaf		Colourless	https://doi.org/10.1080/0972060X.2008.10643600
+36	Trachyspermum ammi	seed	seed		Light yellowish green	https://doi.org/10.1080/0972060X.2008.10643607
+37	Angelica glauca	root	root	pungent, warm, characteristic spicy, bittersweet	Pale yellow	https://doi.org/10.1080/0972060X.2018.1559106
+38	Cinnamomum tamala	leaf	leaf	pleasant		https://doi.org/10.1080/0972060X.2008.10643631
+39	Artemisia vulgaris	leaf	leaf	pleasant	Light yellow	https://doi.org/10.1080/0972060X.2019.1602083
+40	Athanasia linifolia	aerial part	aerial part	pleasant		https://doi.org/10.1080/0972060X.2008.10643659
+41	Ajania nubigena	aerial part	aerial part	pleasant		https://doi.org/10.1080/0972060X.2008.10643659
+42	Aegle marmelos	leaf	leaf		Pale yellow	https://doi.org/10.1080/0972060X.2019.1653796
+43	Anisochilus carnosus	flower	inflorescence	herbal-spices-woody fatty	Orange red	https://doi.org/10.1080/0972-060X.2003.10643332
+44	Murraya koenigii	flower	flower	sweet, floral		https://doi.org/10.1080/0972060X.2009.10643781
+45	Murraya koenigii	leaf	leaf	fresh, pine, spices	Light yellow	https://doi.org/10.1080/0972060X.2009.10643781
+46	Hedychium coronarium	rhizome	rhizome		Colourless	https://doi.org/10.1080/0972060X.2010.10643819
+47	Hedychium spicatum	rhizome	rhizome		Pale yellow	https://doi.org/10.1080/0972060X.2010.10643819
+48	Mentha spicata	aerial part	aerial part		Pale greenish	https://doi.org/10.1080/0972060X.2010.10643834
+49	Anaphalis griffithii	aerial part	aerial part		Dark yellow	https://doi.org/10.1080/0972060X.2010.10643861
+50	Artemisia vestita	aerial part	aerial part	sweet, woody	Pale yellow	https://doi.org/10.1080/0972-060X.2003.10643355
+51	Artemisia maritima	aerial part	aerial part		Pale yellow	https://doi.org/10.1080/0972060X.2010.10643869
+52	Valeriana jatamansi	whole plant	whole plant	strong	Pale yellow, Green	https://doi.org/10.1080/0972060X.2011.10643596
+53	Artemisia annua	aerial part	aerial part	pleasant	Yellow green	https://doi.org/10.1080/0972060X.2007.10643537
+54	Mentha arvensis	aerial part	aerial part		Light yellow	https://dx.doi.org/10.1080/0972060X.2011.10644007
+55	Ruta graveolens	leaf	leaf	bitter, acrid		https://doi.org/10.1080/0972060X.2012.10644050
+56	Solanum erianthum	fruit	fruit		Yellowish	https://doi.org/10.1080/0972060X.2012.10644065
+57	Acalypha fruticosa	leaf	leaf	pleasant	Yellowish brown	https://doi.org/10.1080/0972060X.2012.10644095
+58	Cymbopogon flexuosus	flower	inflorescence	lemon	Pale yellow	https://doi.org/10.1080/0972-060X.2004.10643370
+59	Tagetes erecta	flower	flower	pungent	Amber red	https://doi.org/10.1080/0972060X.2013.794003
+60	Plectranthus ovatus	aerial part	aerial part	pungent	Yellow	https://doi.org/10.1080/0972060X.2013.794025
+61	Pinus roxburghii	leaf	leaf		Light yellow	https://doi.org/10.1080/0972060X.2013.831563
+62	Coriandrum sativum	flower	inflorescence		Light yellow	https://doi.org/10.1080/10412905.2017.1399169
+63	Etlingera linguiformis	rhizome	rhizome		Colourless	https://doi.org/10.1080/10412905.1995.9698529
+64	Coleus forskohlii	root	root		Dark brown	https://doi.org/10.1080/10412905.1994.9698371
+65	Cymbopogon flexuosus	aerial part	aerial part		Pale yellow	https://doi.org/10.1080/10412905.1994.9698332
+66	Eucalyptus bridgesiana	leaf	leaf		Colourless	https://doi.org/10.1080/10412905.1991.9697984
+67	Tamarindus indica	fruit	fruit	tamarind		https://doi.org/10.1080/10412905.1990.9697860
+68	Glycosmis pentaphylla	bark	bark	pleasant		https://doi.org/10.1080/10412905.2000.9699568
+69	Tagetes erecta	flower	flower		Pale yellow	https://doi.org/10.1080/10412905.1999.9711996
+70	Illicium griffithii	fruit	fruit		Pale yellow	https://doi.org/10.1080/10412905.1997.9699466
+71	Kaempferia galanga	rhizome	rhizome	camphor	Pale yellowish to yellow	https://doi.org/10.1080/10412905.2015.1077165
+72	Artemisia annua	shoot	shoot	sweet, camphor (light), herbal-green	Pale yellow	https://doi.org/10.1080/10412905.2014.949881
+73	Valeriana jatamansi	root	root	sweet, woody, musk, balsamic		https://doi.org/10.1080/10412905.2013.767757
+74	Morina longifolia	aerial part	aerial part		Yellow	https://doi.org/10.1080/10412905.2012.703500
+75	Cyperus compressus	root	root		Light yellow	https://doi.org/10.1080/10412905.2011.9700455
+76	Lantana camara	flower	flower		Reddish yellow	https://doi.org/10.1080/10412905.2011.9700449
+77	Lantana camara	leaf	leaf		Light yellow	https://doi.org/10.1080/10412905.2011.9700449
+78	Heracleum candolleanum	leaf	leaf	pleasant	Colourless	https://doi.org/10.1080/10412905.2007.9699304
+79	Heracleum candolleanum	fruit	fruit	pleasant	Colourless	https://doi.org/10.1080/10412905.2007.9699304
+80	Angelica glauca	root	root	pungent, warm, spices, earthy or musty, bittersweet	Pale yellow	https://doi.org/10.1080/10412905.2005.9698930
+81	Homalomena aromatica	rhizome	rhizome		Light yellow	https://doi.org/10.1002/1099-1026(200007/08)15:4<278::AID-FFJ913>3.0.CO;2-L
+82	Artemisia scoparia	aerial part	aerial part		Pale yellow	https://doi.org/10.1002/ffj.1278
+83	Amomum subulatum	fruit	pericarp		Yellowish brown	https://doi.org/10.1002/ffj.1336
+84	Juniperus chinensis	leaf	leaf		Light yellow	https://doi.org/10.1002/ffj.1366
+85	Mentha pulegium	aerial part	aerial part	minty	Pale	https://doi.org/10.1002/ffj.1497
+86	Melaleuca citrina	leaf	leaf	pleasant		https://doi.org/10.1002/ffj.1564
+87	Matricaria chamomilla	flower	flower	strong	dark blue	https://doi.org/10.1002/ffj.1582
+88	Carissa spinarum	flower	flower	pleasant	Colourless	https://doi.org/10.1002/ffj.1595
+89	Cinnamomum tazia	leaf	leaf	sweet, pungent, spices	Yellowish	https://doi.org/10.1002/ffj.1688
+90	Curcuma haritha	rhizome	rhizome	camphor	Violet	https://doi.org/10.1002/ffj.1891
+91	Zingiber zerumbet	rhizome	rhizome	ginger	Light yellow	https://doi.org/10.1002/ffj.1940
+92	Matricaria chamomilla	leaf	leaf		Pale yellow	https://doi.org/10.1002/ffj.1035
+93	Matricaria chamomilla	flower	inflorescence		Deep blue	https://doi.org/10.1002/ffj.1035
+94	Matricaria chamomilla	flower	flower		Deep blue	https://doi.org/10.1002/ffj.1035
+95	Matricaria chamomilla	flower	flower		Light yellow	https://doi.org/10.1002/ffj.1035
+96	Matricaria chamomilla	root	root		Pale yellow	https://doi.org/10.1002/ffj.1035
+97	Matricaria chamomilla	stem	stem		Pale yellow	https://doi.org/10.1002/ffj.1035
+98	Curcuma longa	leaf	leaf		Pale yellow	https://doi.org/10.1002/ffj.1056
+99	Artemisia imponens	aerial part	aerial part	herbaceous-green		https://doi.org/10.1002/ffj.2730070205
+100	Buddleja asiatica	leaf	leaf	pleasant	Pale yellow	https://doi.org/10.1002/ffj.2730070306
+101	Alpinia galanga	rhizome	rhizome	strong, spices		https://doi.org/10.1002/ffj.1105
+102	Pelargonium graveolens	shoot	shoot	strong, rose		https://doi.org/10.1002/ffj.3390
+103	Pelargonium graveolens	leaf	leaf	strong, rose		https://doi.org/10.1002/ffj.3390
+104	Melia dubia	leaf	leaf	pungent	Pale yellow	https://doi.org/10.1002/ffj.986
+105	Lippia alba	leaf	leaf		Pale yellow	https://doi.org/10.1002/1099-1026(200005/06)15:3<199::AID-FFJ892>3.0.CO;2-S
+106	Cinnamomum verum	fruit	fruit	sweet floral	Light yellow	https://doi.org/10.1002/(SICI)1099-1026(199709/10)12:5<331::AID-FFJ663>3.0.CO;2-X
+107	Cymbopogon martini	whole plant	herb	sweet, floral, rose		https://doi.org/10.1002/(SICI)1099-1026(199805/06)13:3<167::AID-FFJ719>3.0.CO;2-B
+108	Cymbopogon martini	seed	seed	musk-green		https://doi.org/10.1002/(SICI)1099-1026(199805/06)13:3<167::AID-FFJ719>3.0.CO;2-B
+109	Zanthoxylum armatum	aerial part	aerial part	green, fruity		https://doi.org/10.1002/(SICI)1099-1026(199907/08)14:4<225::AID-FFJ818>3.0.CO;2-1
+110	Piper attenuatum	leaf	leaf	pleasant, aromatic, pine, medicinal		https://doi.org/10.1002/(SICI)1099-1026(199909/10)14:5<279::AID-FFJ821>3.0.CO;2-0
+111	Piper attenuatum	fruit	fruit	pleasant, aromatic, pine, medicinal		https://doi.org/10.1002/(SICI)1099-1026(199909/10)14:5<279::AID-FFJ821>3.0.CO;2-0
+112	Piper cubeba	fruit	fruit	pleasant, aromatic, pine, medicinal		https://doi.org/10.1002/(SICI)1099-1026(199909/10)14:5<279::AID-FFJ821>3.0.CO;2-0
+113	Piper nigrum	leaf	leaf	pleasant, aromatic, pine, medicinal		https://doi.org/10.1002/(SICI)1099-1026(199909/10)14:5<279::AID-FFJ821>3.0.CO;2-0
+114	Cinnamomum tamala	leaf	leaf		Pale yellow	https://doi.org/10.1002/ffj.1236
+115	Cinnamomum tamala	leaf	leaf	clove, pepper	Pale yellow	https://doi.org/10.1002/ffj.1236
+116	Lagerstroemia speciosa	flower	flower		Pale yellow	https://www.rroij.com/open-access/essential-oils-composition-and-cytotoxic-effect-of-lagerstroemiaspeciosa-linn-flowers-.php?aid=82513#:~:text=speciosa%20flower%20oil%20contains%20the,and%201.9%25%20percentage%20of%20nootkatone.
+117	Orthosiphon thymiflorus	leaf	leaf		Reddish orange	https://doi.org/10.1016/S2221-1691(12)60139-7
+118	Cinnamomum impressinervium	leaf	leaf		Yellow, Yellow brown	https://doi.org/10.1080/10412905.1994.9698360
+119	Artemisia stricta	aerial part	aerial part		Yellow	https://doi.org/10.1080/10412905.1992.9698124
+120	Artemisia parviflora	aerial part	aerial part		Light yellow	https://doi.org/10.1080/10412905.1992.9698124
+121	Micromeria biflora	aerial part	aerial part	pleasant, lemon		https://doi.org/10.1080/10412905.1997.9700709
+122	Neolitsea fischeri	bark	bark	pleasant	Pale yellow	https://doi.org/10.1080/10412905.2008.9700012
+123	Neolitsea fischeri	leaf	leaf	pleasant	Pale yellow	https://doi.org/10.1080/10412905.2008.9700012
+124	Neolitsea fischeri	fruit	fruit		Pale brown	https://doi.org/10.1080/10412905.2008.9700012
+125	Semenovia thomsonii	aerial part	aerial part		Light yellow	https://doi.org/10.1080/14786419.2011.557375
+126	Paeonia emodi	root	root	strong, bitter almond		https://doi.org/10.1080/10412905.2015.1039664
+127	Globba cernua	rhizome	rhizome	pleasant, root, herbal	Light brown	https://doi.org/10.1080/10412905.2009.9700110
+128	Globba marantina	rhizome	rhizome	root, oily, medicinal	Pale yellow	https://doi.org/10.1080/10412905.2009.9700110
+129	Globba sessiliflora	rhizome	rhizome	root, oily, medicinal, burnt	Brownish yellow	https://doi.org/10.1080/10412905.2009.9700110
+130	Sphagneticola calendulacea	aerial part	aerial part		Pale yellow	https://doi.org/10.1080/10412905.2005.9698931
+131	Neolitsea zeylanica	leaf	leaf		Light yellow	https://doi.org/10.1080/10412905.1992.9698018
+132	Blumea axillaris	leaf	leaf	pleasant		https://pubmed.ncbi.nlm.nih.gov/18566831
+133	Coccinia grandis	leaf	leaf		Light yellow	https://pubmed.ncbi.nlm.nih.gov/29062847
+134	Celastrus paniculatus	seed	seed		Dark brown	https://doi.org/10.1016/j.indcrop.2014.07.025
+135	Zingiber montanum	rhizome	rhizome		Yellowish	https://doi.org/10.1021/acs.jafc.1c00256
+136	Clausena pentaphylla	leaf	leaf		Pale yellow	https://doi.org/10.1007/s10600-012-0416-9
+137	Diospyros malabarica	fruit	fruit		Pale yellow	https://acta.pharmaceutica.farmaceut.org/materials/pdf/20702.html
+138	Terminalia chebula	fruit	fruit		Pale yellow	https://doi.org/10.1002/cbdv.200900274
+139	Limonia acidissima	leaf	leaf	pleasant	Colourless	https://doi.org/10.1007/s12088-010-0052-7
+140	Pleurospermum angelicoides	root	root	pungent, spices	Pale yellow	https://doi.org/10.1080/0972060X.2020.1815592
+141	Crotalaria ramosissima	flower	flower		Dark yellowish green	https://www.tsijournals.com/abstract/essential-oil-constituents-of-crotalaria-ramosissima-flowers-528.html
+142	Mimosa pudica	leaf	leaf		Slight yellowish	https://doi.org/10.22159/ajpcr.2019.v12i3.29444
+143	Boswellia ovalifoliolata	bark	bark		Green	https://doi.org/10.1007/s11676-017-0457-9
+144	Boswellia ovalifoliolata	leaf	leaf		Yellow	https://doi.org/10.1007/s11676-017-0457-9
+145	Momordica charantia	seed	seed		Pale brown	https://doi.org/10.1080/0972060X.2020.1741451
+146	Cananga odorata	leaf	leaf		Pale yellow	https://doi.org/10.1080/0972060X.2021.1957023
+147	Curcuma zedoaria	leaf	leaf		Pale yellow	https://doi.org/10.1080/10412905.2005.9698821
+148	Clausena anisata	leaf	leaf		Pale yellow	https://doi.org/10.1016/S1995-7645(10)60210-6
+149	Blainvillea acmella	flower	flower		light greenish yellow	https://doi.org/10.1080/10412905.1993.9698310
+150	Artemisia verlotiorum	aerial part	aerial part		Dark yellow	https://doi.org/10.1080/10412905.2006.9699164
+151	Pogostemon heyneanus	leaf	leaf		Yellow	https://doi.org/10.1177/1934578X1000501228
+152	Litsea glutinosa	fruit	fruit		Colourless	https://doi.org/10.1080/10412905.1996.9700687
+153	Syzygium gardneri	leaf	leaf	mango	Colourless	https://doi.org/10.1080/10412905.2008.9699426
+154	Bunium bulbocastanum	fruit	fruit	pleasant	Light yellow	https://doi.org/10.1002/jsfa.3824
+155	Plectranthus hadiensis	seed	seed	sweet, herbal	Yellowish	https://doi.org/10.25258/phyto.v9i2.8140
+156	Cinnamomum citriodorum	leaf	leaf	pleasant	Colourless	https://doi.org/10.1080/10412905.2012.728084
+157	Plectranthus vettiveroides	root	root	strong, woody	Yellow	https://doi.org/10.1016/j.jep.2021.114048
+158	Rhynchosia heynei	leaf	leaf	pleasant	Orange	https://doi.org/10.3109/13880200902991573
+159	Meistera muricata	leaf	leaf	pleasant	Light yellow	https://dx.doi.org/10.1080/10412905.2006.9699154
+160	Cullenia exarillata	leaf	leaf		Yellow	https://doi.org/10.1080/0972060X.2014.974078
+161	Cullenia exarillata	bark	stem bark		Pale yellow	https://doi.org/10.1080/0972060X.2014.974078
+162	Melicope lunu-ankenda	flower	flower		Light yellow	https://doi.org/10.1080/10412905.2006.9699141
+163	Alpinia smithiae	leaf	leaf		Yellowish Green	https://pubmed.ncbi.nlm.nih.gov/11935900
+164	Alpinia smithiae	rhizome	rhizome		Yellowish to brown	https://pubmed.ncbi.nlm.nih.gov/11935900
+165	Hedychium larsenii	rhizome	rhizome	pleasant	Pale yellow	https://pubmed.ncbi.nlm.nih.gov/16375842
+166	Citrus maxima	leaf	leaf	sweet, fresh	Pale yellowish	https://doi.org/10.22376/ijpbs.2017.8.2.p149-155
+167	Ipomoea carnea	root	root	unpleasant	Yellowish	https://doi.org/10.2298/JSC140425082S
+168	Ipomoea carnea	stem	stem	unpleasant	Yellowish	https://doi.org/10.2298/JSC140425082S
+169	Tephrosia purpurea	root	root	unpleasant	Yellowish	https://doi.org/10.2298/JSC140425082S
+170	Tephrosia purpurea	stem	stem	unpleasant	Yellowish	https://doi.org/10.2298/JSC140425082S
+171	Decalepis hamiltonii	root	root	sweet aromatic		https://pubmed.ncbi.nlm.nih.gov/12009977
+172	Ginkgo biloba	leaf	leaf		Light yellow	https://doi.org/10.5281/zenodo.5701031
+173	Chonemorpha fragrans	flower	flower		Pale yellow	https://www.botanyjournals.com/archives/2021/vol6/issue2/6-2-107
+174	Nepeta hindostana	aerial part	aerial part		Pale yellow	https://acgpubs.org/article/records-of-natural-products/2015/2-april-june/chemical-composition-antioxidant-and-antimicrobial-activities-of-the-essential-oil-of-nepeta-hindostana-roth-haines-from-india
+175	Inula racemosa	root	root		Dark brown	https://doi.org/10.1016/S0031-9422(00)83760-7
+176	Atalantia monophylla	leaf	leaf	citrus	Yellow	https://doi.org/10.4103/0974-8490.152009
+177	Piliostigma malabaricum	leaf	leaf	pungent	light greenish yellow	https://doi.org/10.14233/ajchem.2014.15654
+178	Bauhinia purpurea	leaf	leaf	pungent	light greenish yellow	https://doi.org/10.14233/ajchem.2014.15654
+179	Bauhinia tomentosa	leaf	leaf	pungent	light greenish yellow	https://doi.org/10.14233/ajchem.2014.15654
+180	Bergenia stracheyi	rhizome	rhizome	pungent	Colourless	https://doi.org/10.22270/JDDT.V7I1.1365
+181	Cipadessa baccifera	leaf	leaf		Pale yellow	https://doi.org/10.13040/IJPSR.0975-8232.7(1).392-96
+182	Clerodendrum phlomidis	leaf	leaf		Pale yellow	https://www.researchgate.net/publication/280231470_IDENTIFICATION_OF_CONSTITUENTS_OF_THE_ESSENTIAL_OIL_ISOLATED_FROM_LEAVES_OF_CLERODENDRUM_PHLOMIDIS_LINN_BY_GC-MS
+183	Dysoxylum malabaricum	wood	wood		Light yellow	https://doi.org/10.1007/s13196-011-0014-7
+184	Pentanema indicum	leaf	leaf		Dark yellowish green	https://doi.org/10.3923/JPT.2006.134.138
+185	Heynea trijuga	root	root		Pale yellow	http://asianjtm.syphu.edu.cn/EN/Y2010/V5/I5/199
+186	Baccharoides anthelmintica	seed	seed		Greenish yellow	https://doi.org/10.37021/ijper.v1i1.11
+187	Citrus aurantifolia	fruit	skin/peel		Yellow	https://doi.org/10.37021/ijper.v1i1.11
+188	Annona muricata	bark	bark	leather-herbal	Moderate yellow	https://doi.org/10.1080/0972060X.2021.1981160
+189	Annona muricata	leaf	leaf	pleasant, herbal	Strong Greenish yellow	https://doi.org/10.1080/0972060X.2021.1981160
+190	Annona muricata	fruit	skin/peel	herbal, fruity	Brilliant yellow-green	https://doi.org/10.1080/0972060X.2021.1981160
+191	Annona muricata	root	root	woody, earthy	light orange yellow	https://doi.org/10.1080/0972060X.2021.1981160
+192	Annona muricata	seed	seed	spices, rancid	Moderate orange	https://doi.org/10.1080/0972060X.2021.1981160
+193	Anisomeles indica	leaf	leaf	pungent, camphor	Yellowish brown	https://doi.org/10.1016/j.bse.2011.12.017
+194	Anethum graveolens	seed	seed	pleasant, aromatic, lemon, orange, dill	Pale yellow	https://www.jocpr.com/abstract/chemical-constituents-of-essential-oil-from-anethum-sowa-kurz-seed-2076.html
+195	Anisomeles indica	leaf	leaf		Yellowish brown	https://doi.org/10.5897/2013.2580
+196	Gymnacranthera canarica	leaf	leaf	pleasant	Yellow	https://doi.org/10.1080/10412905.2007.9699293
+197	Myristica malabarica	leaf	leaf	pleasant	Pale yellow	https://doi.org/10.1080/10412905.2007.9699293
+198	Caesulia axillaris	leaf	leaf	aromatic, spices	Pale yellow	https://doi.org/10.1080/10412905.1993.9698192
+199	Curcuma amada	rhizome	rhizome	sweet, bitter	Greenish yellow	https://doi.org/10.1080/10412905.2005.9698974
+200	Mesua ferrea	stem	bud	pleasant	Dark brown	https://doi.org/10.1080/10412905.1998.9700955
+201	Mesua ferrea	flower	flower	pleasant	Dark brown	https://doi.org/10.1080/10412905.1998.9700955
+202	Mesua ferrea	leaf	leaf		Colourless	https://doi.org/10.1080/10412905.1998.9700955
+203	Isodon melissoides	aerial part	aerial part		Yellowish brown	https://doi.org/10.1080/10412905.2005.9698895
+204	Litsea monopetala	flower	flower		Light yellow	https://doi.org/10.1080/10412905.1997.9700802
+205	Chloroxylon swietenia	leaf	leaf	pungent	Pale yellow	https://doi.org/10.1080/10412905.2013.782472
+206	Cinnamomum bejolghota	leaf	leaf		Pale yellow	https://doi.org/10.1080/10412905.1997.9699472
+207	Cinnamomum bejolghota	flower	inflorescence		Colourless	https://doi.org/10.1080/10412905.1997.9699472
+208	Cinnamomum bejolghota	bark	stem bark		Pale yellow	https://doi.org/10.1080/10412905.1997.9699472
+209	Pleiospermium alatum	leaf	leaf		green	https://doi.org/10.1080/10412905.2011.9712273
+210	Pleiospermium alatum	root	root		Pale yellow	https://doi.org/10.1080/10412905.2011.9712273
+211	Pleiospermium alatum	stem	stem		Yellow	https://doi.org/10.1080/10412905.2011.9712273
+212	Heptapleurum stellatum	leaf	leaf	pleasant	Pale yellow	https://doi.org/10.1080/10412905.2008.9699428
+213	Heptapleurum stellatum	root	root	pleasant	Colourless	https://doi.org/10.1080/10412905.2008.9699428
+214	Heptapleurum stellatum	stem	stem	pleasant	Colourless	https://doi.org/10.1080/10412905.2008.9699428
+215	Eugenia argentea	leaf	leaf		Pale yellow	https://doi.org/10.1080/10412905.2011.9700458
+216	Cinnamomum filipedicellatum	leaf	leaf	pleasant	Pale yellow	https://doi.org/10.1080/10412905.2006.9699073
+217	Pittosporum viridulum	fruit	fruit		Colourless	https://doi.org/10.1080/10412905.2007.9699338
+218	Pittosporum viridulum	leaf	leaf		Pale yellow	https://doi.org/10.1080/10412905.2007.9699338
+219	Eugenia rottleriana	leaf	leaf		Pale yellow	https://doi.org/10.1080/10412905.2007.9699337
+220	Amomum pterocarpum	leaf	leaf		Pale yellow	https://doi.org/10.1080/10412905.2007.9699220
+221	Amomum pterocarpum	rhizome	rhizome	pleasant	Pale yellow	https://doi.org/10.1080/10412905.2007.9699220
+222	Amomum hypoleucum	leaf	leaf		Pale yellow	https://doi.org/10.1080/10412905.2007.9699280
+223	Amomum hypoleucum	rhizome	rhizome	pleasant	Pale yellow	https://doi.org/10.1080/10412905.2007.9699280
+224	Cinnamomum chemungianum	leaf	leaf		Pale yellow	https://doi.org/10.1080/10412905.2007.9699238
+225	Meistera muricata	leaf	leaf		Light yellow	https://doi.org/10.1080/10412905.2006.9699154
+226	Neolitsea foliosa	leaf	leaf		Yellow	https://doi.org/10.1080/10412905.2007.9699962
+227	Alpinia calcarata	rhizome	rhizome	pleasant	Pale yellow	https://doi.org/10.1080/10412905.2012.751058
+228	Alpinia galanga	rhizome	rhizome	pleasant	Colourless	https://doi.org/10.1080/10412905.2012.751058
+229	Alpinia haenkei	rhizome	rhizome	pleasant	Pale yellow	https://doi.org/10.1080/10412905.2012.751058
+230	Alpinia smithiae	rhizome	rhizome	pleasant	Reddish brown	https://doi.org/10.1080/10412905.2012.751058
+231	Hedychium larsenii	flower	inflorescence	pleasant	Colourless	https://doi.org/10.1080/10412905.2012.744701
+232	Hedychium larsenii	leaf	leaf		Pale yellow	https://doi.org/10.1080/10412905.2012.744701
+233	Thottea ponmudiana	leaf	leaf		Colourless	https://doi.org/10.1080/10412905.2008.9700059
+234	Lantana indica	leaf	leaf		Pale yellow	https://doi.org/10.1080/10412905.2006.9699181
+235	Athanasia linifolia	aerial part	aerial part		blue	https://doi.org/10.1080/10412905.1993.9698290
+236	Hedychium flavescens	rhizome	rhizome	pleasant	Colourless	https://doi.org/10.1080/10412905.2007.9699237
+237	Hedychium spicatum	rhizome	rhizome	pleasant	Pale yellow	https://doi.org/10.1080/10412905.2007.9699237
+238	Eucalyptus pellita	leaf	leaf		Colourless	https://doi.org/10.1080/10412905.1990.9697846
+239	Malus domestica	leaf	leaf		Light Pale	https://doi.org/10.1155/2012/649727
+240	Curcuma caesia	rhizome	rhizome		Violet	https://doi.org/10.1016/j.indcrop.2014.06.028
+241	Curcuma zedoaria	rhizome	rhizome		Brownish violet	https://doi.org/10.1016/j.indcrop.2014.06.028
+242	Curcuma zedoaria	rhizome	rhizome		Colourless	https://doi.org/10.1016/j.indcrop.2014.06.028
+243	Etlingera elatior	rhizome	rhizome	spices	Light yellow	https://doi.org/10.1080/10412905.2010.9700297
+244	Artemisia roxburghiana	aerial part	aerial part		Brownish yellow	https://doi.org/10.1080/10412905.2009.9700177
+245	Nyctanthes arbor-tristis	leaf	leaf		Light yellow	https://doi.org/10.1080/0972060X.2020.1759458
+246	Eucalyptus tereticornis	leaf	leaf		Yellow	https://doi.org/10.1080/17429145.2010.539709
+247	Isodon melissoides	mixed	inflorescence, leaves and seeds		Yellow brown	https://doi.org/10.1080/10412905.2005.9698957
+248	Tetrataenium rigens	seed	seed	pleasant, aromatic	Pale yellow	https://doi.org/10.1177/1934578X1200700737
+249	Dracocephalum nutans	aerial part	aerial part		Pale yellow	https://doi.org/10.1055/s-2006-962380
+250	Chloroxylon swietenia	leaf	leaf		Pale yellow	https://doi.org/10.1007/s00436-007-0485-z
+251	Chloroxylon swietenia	leaf	leaf		Pale yellow	https://doi.org/10.1007/s11274-008-9693-7
+252	Chloroxylon swietenia	stem	stem		Pale yellow	https://doi.org/10.1007/s11274-008-9693-7
+253	Myrica esculenta	bark	stem bark	strong	Pale yellow	https://doi.org/10.1080/14786419.2011.652959
+254	Hellenia speciosa	rhizome	rhizome		Yellow	https://ijpras.com/article/rhizome-essential-oil-composition-of-costus-speciosus-and-its-antimicrobial-properties
