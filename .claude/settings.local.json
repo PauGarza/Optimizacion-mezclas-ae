@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git rm *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(powershell -Command \"\\(Get-Content 'c:\\\\Users\\\\pauli\\\\Documents\\\\MetodosNumericos\\\\Optimizacion-mezclas-ae\\\\data\\\\essential_oil_scentindb.csv' | Measure-Object -Line\\).Lines\")",
+      "Bash(powershell -Command \"\\(Get-Content 'c:\\\\Users\\\\pauli\\\\Documents\\\\MetodosNumericos\\\\Optimizacion-mezclas-ae\\\\data\\\\therapy_scentindb.csv' | Measure-Object -Line\\).Lines\")",
+      "Bash(powershell -Command \"\\(Get-Content 'c:\\\\Users\\\\pauli\\\\Documents\\\\MetodosNumericos\\\\Optimizacion-mezclas-ae\\\\data\\\\chemical_scentindb.csv' | Measure-Object -Line\\).Lines\")",
+      "Bash(7z l *)",
+      "Bash(python3)",
+      "Bash(jupyter nbconvert *)",
+      "Bash(python -c ' *)",
+      "PowerShell(Get-Command python3, py, conda 2>$null)",
+      "PowerShell(py --version)",
+      "PowerShell(py -c \"import sys; print\\(sys.executable\\)\")"
+    ]
+  }
+}

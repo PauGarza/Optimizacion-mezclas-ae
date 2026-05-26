@@ -1,0 +1,1808 @@
+Plant name,chem_final,n_samples,pct_mean,pct_std
+Boswellia serrata,(+)-3-Carene,5,5.97,3.4787928940941573
+Boswellia serrata,(-)-beta-Pinene,1,0.21,
+Boswellia serrata,10-epi-gamma-Eudesmol,4,1.60000005,2.520581901069672
+Boswellia serrata,"3,7-Dimethyloctan-3-ol",4,8.55,1.552417469626003
+Boswellia serrata,"4-Terpineol, (+/-)-",5,0.17000002,0.17175561562872407
+Boswellia serrata,Alpha-Terpineol,5,2.77,2.0004999375156203
+Boswellia serrata,Anethole,4,0.10000005,0.14142130909686135
+Boswellia serrata,Benzyl tiglate,4,3.275,1.666083231214255
+Boswellia serrata,Beta-Phellandrene,5,0.30600002,0.5056480838488385
+Boswellia serrata,"Bicyclo[3.1.0]hex-2-ene, 2-methyl-5-(1-methylethyl)-",5,37.432,16.41658064275262
+Boswellia serrata,Cadinane,4,0.325000025,0.2499999566666679
+Boswellia serrata,Camphene,5,0.08800002,0.07563065251604009
+Boswellia serrata,Camphor,1,0.04,
+Boswellia serrata,Elemicin,1,0.37,
+Boswellia serrata,Elemol,4,0.25,0.23804761428476165
+Boswellia serrata,Estragole,5,0.68800002,1.156598446134181
+Boswellia serrata,Fenchone,1,1e-07,
+Boswellia serrata,Geraniol,4,1.325000025,1.0111873771298123
+Boswellia serrata,Humulene epoxide,4,0.10000007500000001,0.19999995
+Boswellia serrata,Isoeugenyl methyl ether,4,2.25,0.9848857801796105
+Boswellia serrata,"Limonene, (-)-",5,3.9299999999999997,3.3304654329387655
+Boswellia serrata,"Linalool, (+/-)-",5,0.13800002,0.08786349128051993
+Boswellia serrata,Linalyl acetate,4,0.025000075,0.04999995
+Boswellia serrata,Menthone,6,0.050000083333333334,0.12247444631432985
+Boswellia serrata,Methyleugenol,1,0.33,
+Boswellia serrata,Sabinene,5,1.574,1.9670739691226664
+Boswellia serrata,Terpinolene,4,0.180000025,0.2315167121397557
+Boswellia serrata,Terpinyl isobutyrate,4,1.25000005,1.8411952186917433
+Boswellia serrata,Thujone,1,1.76,
+Boswellia serrata,Tricyclene,5,0.08400004,0.1275930703447605
+Boswellia serrata,Undecenol,4,0.45,0.1914854215512676
+Boswellia serrata,Zingiberene,1,1.01,
+Boswellia serrata,alpha-PHELLANDRENE,1,2.22,
+Boswellia serrata,alpha-PINENE,5,3.78600006,5.3273801659070665
+Boswellia serrata,alpha-Terpinene,5,1.002,1.0158838516287185
+Boswellia serrata,beta-Bourbonene,5,0.33800004,0.6459256661567203
+Boswellia serrata,"beta-CITRONELLOL, (+/-)-",5,0.20200002,0.25302171823778685
+Boswellia serrata,"beta-Ocimene, (3Z)-",4,0.200000075,0.39999995000000005
+Boswellia serrata,beta-Thujone,1,1.4,
+Boswellia serrata,epi-Cubenol,4,5.5249999999999995,2.494493936653284
+Boswellia serrata,eudesmol,4,1.65,1.173314393786536
+Boswellia serrata,gamma-Terpinene,5,0.31,0.22472205054244232
+Boswellia serrata,p-CYMENE,5,2.696,1.0266839825379572
+Boswellia serrata,trans-Nerolidol,4,0.82500005,1.0210288389658753
+Cananga odorata,(-)-alpha-Copaene,1,2.9,
+Cananga odorata,"(1S,2S)-1-ethenyl-1-methyl-4-propan-2-ylidene-2-prop-1-en-2-ylcyclohexane",1,1.9,
+Cananga odorata,"1,4-bis (ethynyl) butane",1,0.9,
+Cananga odorata,"2-Ethyl-3-methylthiirane 1,1-dioxide",1,1.6,
+Cananga odorata,Alpha-Farnesene,1,10.3,
+Cananga odorata,Benzyl Benzoate,1,2.3,
+Cananga odorata,Beta-Elemene,1,3.1,
+Cananga odorata,"Bicyclo[3.1.0]hex-2-ene, 2-methyl-5-(1-methylethyl)-",1,0.6,
+Cananga odorata,Camphene,1,0.9,
+Cananga odorata,Caryophyllene,1,19.7,
+Cananga odorata,Farnesylacetone,1,5.1,
+Cananga odorata,Geraniol,1,1.3,
+Cananga odorata,"Limonene, (-)-",1,1.3,
+Cananga odorata,Phenylmethyl ester,1,5.6,
+Cananga odorata,Sabinene,1,0.8,
+Cananga odorata,T-Muurolol,1,4.2,
+Cananga odorata,alpha-Cadinol,1,3.0,
+Cananga odorata,alpha-Cubebene,1,1.9,
+Cananga odorata,alpha-Muurolene,1,0.4,
+Cananga odorata,alpha-Myrcene,1,1.3,
+Cananga odorata,beta-CARYOPHYLLENE OXIDE,1,1.1,
+Cananga odorata,"beta-OCIMENE, (3E)-",1,13.2,
+Cananga odorata,epi-Cubenol,1,1.9,
+Cananga odorata,"trans,trans-Farnesol",2,2.9000000000000004,1.1313708498984762
+Cinnamomum verum,(+)-3-Carene,15,0.11933334666666667,0.08899971332217768
+Cinnamomum verum,(+)-delta-Cadinene,1,0.06,
+Cinnamomum verum,(-)-beta-Pinene,13,0.16615384615384615,0.10380578512607583
+Cinnamomum verum,(Z)-Cinnamyl acetate,3,0.8766666666666666,1.4837901918173382
+Cinnamomum verum,(Z)-Methyl cinnamate,1,0.18,
+Cinnamomum verum,"(Z,E)-alpha-Farnesene",2,0.01000005,0.014142064913052832
+Cinnamomum verum,"1,7,7-Trimethylbicyclo[2.2.1]heptan-2-ol",15,0.11800000000000001,0.1071180923760581
+Cinnamomum verum,"2-Furanmethanol, 5-ethenyltetrahydro-alpha,alpha,5-trimethyl-, (2R,5R)-rel-",3,0.04666666666666667,0.046188021535170064
+Cinnamomum verum,2-Heptanone,1,0.02,
+Cinnamomum verum,2-Hexanol,1,0.01,
+Cinnamomum verum,2-Phenylethyl propionate,2,0.01000005,0.014142064913052832
+Cinnamomum verum,"2-[(2R,5S)-5-ethenyl-5-methyloxolan-2-yl]propan-2-ol",3,0.02666666666666667,0.011547005383792516
+Cinnamomum verum,"4-Terpineol, (+/-)-",15,0.17800000666666668,0.2788547963674707
+Cinnamomum verum,6-Camphenol,12,0.04583339166666667,0.058224957551043635
+Cinnamomum verum,Alpha-Terpineol,2,0.12000000000000001,0.02828427124746191
+Cinnamomum verum,Anethole,12,0.051666725000000004,0.07158376805175527
+Cinnamomum verum,Aromadendrene,12,0.060000058333333335,0.08257223614400201
+Cinnamomum verum,Benzyl Benzoate,14,2.677857142857143,1.9971409509651483
+Cinnamomum verum,Benzyl acetate,12,0.1275000166666667,0.16287891459051212
+Cinnamomum verum,Beta-Elemene,2,0.265,0.021213203435596444
+Cinnamomum verum,Beta-Phellandrene,2,0.02,0.0
+Cinnamomum verum,"Bicyclo[3.1.0]hex-2-ene, 2-methyl-5-(1-methylethyl)-",15,0.11866666666666667,0.05742904524798613
+Cinnamomum verum,Camphene,15,0.24533333333333335,0.22928044794426716
+Cinnamomum verum,Camphor,15,0.12933334666666668,0.1949163339926751
+Cinnamomum verum,Carvacrol,12,0.10000000000000002,0.0
+Cinnamomum verum,Caryophyllene,15,1.1700000000000002,0.685690475777102
+Cinnamomum verum,Cinnamaldehyde,14,0.2935714285714286,0.3837789256020499
+Cinnamomum verum,Cinnamyl acetate,2,1.61,1.244507934888324
+Cinnamomum verum,Cinnamyl alcohol,2,0.01000005,0.014142064913052832
+Cinnamomum verum,Citronellal,3,0.16,0.2007485989988473
+Cinnamomum verum,Cuminaldehyde,2,0.02,0.0
+Cinnamomum verum,Estragole,3,0.09000000000000001,0.08888194417315588
+Cinnamomum verum,Eucalyptol,15,0.20400000000000001,0.11642287453196522
+Cinnamomum verum,Eugenol,15,79.93,8.663112274795601
+Cinnamomum verum,Eugenol acetate,15,5.17,7.137222348865338
+Cinnamomum verum,Geranyl benzoate,1,0.05,
+Cinnamomum verum,Humulene,14,0.41428572142857145,0.5129059573634351
+Cinnamomum verum,Humulene epoxide,1,0.05,
+Cinnamomum verum,Isoeugenyl methyl ether,2,0.01000005,0.014142064913052832
+Cinnamomum verum,"Linalool, (+/-)-",15,2.322666666666667,1.9349103584502552
+Cinnamomum verum,Linalyl acetate,2,0.26000005,0.3676954555063266
+Cinnamomum verum,Methyl Salicylate,12,0.16750004166666665,0.36274519387832116
+Cinnamomum verum,Methyl cinnamate,2,0.02,0.0
+Cinnamomum verum,Methylisoeugenol,2,0.02,0.0
+Cinnamomum verum,Myrcene,15,0.17133334,0.11963435336374989
+Cinnamomum verum,Nerol,3,0.10000000000000002,0.13856406460551018
+Cinnamomum verum,Octanal,2,0.01000005,0.014142064913052832
+Cinnamomum verum,Phenethyl anthranilate,1,0.02,
+Cinnamomum verum,Phenethyl benzoate,2,0.05,0.042426406871192854
+Cinnamomum verum,Phenethyl decanoate,1,0.03,
+Cinnamomum verum,Phenylethyl Alcohol,3,0.013333366666666666,0.011546947648765597
+Cinnamomum verum,Piperitone,3,1.1133333666666667,1.9024282435876534
+Cinnamomum verum,Sabinene,15,0.06000003333333334,0.06546533433812418
+Cinnamomum verum,Safrole,3,0.09000000000000001,0.08888194417315588
+Cinnamomum verum,Spathulenol,13,0.10076923076923078,0.002773500981126145
+Cinnamomum verum,Terpinolene,15,0.13933333333333334,0.09772166499565903
+Cinnamomum verum,Thymol,12,0.10000000000000002,0.0
+Cinnamomum verum,alpha-Cadinol,13,0.09307693076923076,0.031460165900107834
+Cinnamomum verum,alpha-Copaene,12,0.11833333333333333,0.06350852961085883
+Cinnamomum verum,alpha-Hexylcinnamaldehyde,1,0.33,
+Cinnamomum verum,alpha-PHELLANDRENE,15,2.1580000000000004,1.5385484810598038
+Cinnamomum verum,alpha-PINENE,17,0.31058824117647055,0.31820728852524544
+Cinnamomum verum,alpha-Selinene,1,0.1,
+Cinnamomum verum,alpha-Terpinene,15,0.05200006666666667,0.13670612275974467
+Cinnamomum verum,beta-CARYOPHYLLENE OXIDE,15,0.41000000000000003,0.3135283081318176
+Cinnamomum verum,beta-Farnesene,1,0.18,
+Cinnamomum verum,"beta-OCIMENE, (3E)-",15,0.08066668,0.038631316928371545
+Cinnamomum verum,"beta-Ocimene, (3Z)-",14,0.1121428642857143,0.07495418696015492
+Cinnamomum verum,beta-Selinene,2,0.02,0.0
+Cinnamomum verum,cis-Cinnamaldehyde,15,0.2720000066666666,0.26854634417811246
+Cinnamomum verum,epi-Cubenol,24,0.08458335,0.038783549665278576
+Cinnamomum verum,gamma-Cadinene,2,0.065,0.021213203435596427
+Cinnamomum verum,gamma-Terpinene,15,0.15466668,0.1656962089976464
+Cinnamomum verum,o-Cymene,12,0.8308333333333332,0.6593999797795973
+Cinnamomum verum,p-CYMENE,3,0.31333333333333335,0.17243356208503416
+Cinnamomum verum,tau-Cadinol,13,0.09846153846153846,0.02192645048267573
+Cinnamomum verum,"trans,trans-Farnesol",2,0.02,0.0
+Cinnamomum verum,trans-Calamenene,12,0.05000005,0.05222324456341256
+Cinnamomum verum,trans-Nerolidol,1,0.02,
+Citrus aurantium,(+)-3-Carene,1,1e-07,
+Citrus aurantium,(+)-delta-Cadinene,1,0.9,
+Citrus aurantium,(-)-beta-Chamigrene,1,1.8,
+Citrus aurantium,(-)-beta-Pinene,2,0.245,0.07778174593052022
+Citrus aurantium,(-)-cis-Carveol,1,0.2,
+Citrus aurantium,(-)-trans-Carveol,1,1e-07,
+Citrus aurantium,"(R,R)-1-isopropyl-4-methyl-3-(prop-1-en-2-yl)-4-vinylcyclohexene",1,1e-07,
+Citrus aurantium,"(S,1Z,6Z)-8-Isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene",2,0.01000005,0.014142064913052832
+Citrus aurantium,1-Methyl-4-(prop-1-en-2-yl)benzene,1,1e-07,
+Citrus aurantium,1-Octanol,1,1e-07,
+Citrus aurantium,"2,4-Decadienal",1,1e-07,
+Citrus aurantium,2-(4-Methylphenyl)propan-2-ol,1,1e-07,
+Citrus aurantium,"2-Furanmethanol, 5-ethenyltetrahydro-alpha,alpha,5-trimethyl-, (2R,5R)-rel-",1,1e-07,
+Citrus aurantium,2-Hexenal,1,1e-07,
+Citrus aurantium,2-Methoxy-4-vinylphenol,1,0.4,
+Citrus aurantium,2-Tetradecenal,1,1e-07,
+Citrus aurantium,2-Undecenal,1,1e-07,
+Citrus aurantium,"2-[(2R,5S)-5-ethenyl-5-methyloxolan-2-yl]propan-2-ol",2,1e-07,0.0
+Citrus aurantium,"3,6-Bis(methylene)octahydro-1-benzofuran",1,1e-07,
+Citrus aurantium,"4-Terpineol, (+/-)-",2,0.20000005,0.2828426417639409
+Citrus aurantium,"7-Endo-ethenyl-bicyclo[4,2,0]-oct-1-ene",1,1e-07,
+Citrus aurantium,Acetaldehyde,1,1e-07,
+Citrus aurantium,Alpha-Farnesene,1,1e-07,
+Citrus aurantium,Alpha-Terpineol,2,0.35000004999999995,0.49497467611990514
+Citrus aurantium,Aromadendrene,2,1e-07,0.0
+Citrus aurantium,Beta-Elemene,2,1e-07,0.0
+Citrus aurantium,"Bicyclo[3.1.0]hex-2-ene, 2-methyl-5-(1-methylethyl)-",1,1.6,
+Citrus aurantium,Butyl butyrate,1,1e-07,
+Citrus aurantium,"Carvone, (-)-",1,0.3,
+Citrus aurantium,Caryophyllene,2,1e-07,0.0
+Citrus aurantium,Citral,2,0.195,0.14849242404917498
+Citrus aurantium,Citronellal,1,1e-07,
+Citrus aurantium,Cosmene,1,1e-07,
+Citrus aurantium,Damascenone,1,1e-07,
+Citrus aurantium,Decanal,2,0.365,0.19091883092036782
+Citrus aurantium,Dihydrocarvone,1,1e-07,
+Citrus aurantium,Dodecanal,2,0.020000050000000002,0.028284200536783783
+Citrus aurantium,Eremophilene,1,0.7,
+Citrus aurantium,Ethanol,1,1e-07,
+Citrus aurantium,Ethyl 3-hydroxyhexanoate,1,1e-07,
+Citrus aurantium,Ethyl Acetate,1,1e-07,
+Citrus aurantium,Ethyl butyrate,1,1e-07,
+Citrus aurantium,Ethyl hexanoate,1,0.5,
+Citrus aurantium,Ethyl isobutyrate,1,1e-07,
+Citrus aurantium,Ethyl propionate,1,1e-07,
+Citrus aurantium,Geranyl acetate,2,1e-07,0.0
+Citrus aurantium,Heptanal,1,1e-07,
+Citrus aurantium,Hexadecanal,1,1e-07,
+Citrus aurantium,Hexanal,1,1e-07,
+Citrus aurantium,Humulene,1,1e-07,
+Citrus aurantium,Isopiperitenone,1,1e-07,
+Citrus aurantium,"Limonene, (+)-",1,52.2,
+Citrus aurantium,"Limonene, (-)-",1,86.87,
+Citrus aurantium,"Linalool, (+/-)-",2,0.73,0.8061017305526642
+Citrus aurantium,Linalyl acetate,1,1e-07,
+Citrus aurantium,Methyl acetate,1,1e-07,
+Citrus aurantium,Myrcene,2,4.795,5.7912045379178245
+Citrus aurantium,Neral,2,0.025000050000000003,0.03535526834864926
+Citrus aurantium,Neryl acetate,1,1e-07,
+Citrus aurantium,Nonanal,1,0.8,
+Citrus aurantium,Nootkatone,1,1.1,
+Citrus aurantium,Octanal,2,0.325,0.10606601717798214
+Citrus aurantium,Perillaldehyde,2,0.01000005,0.014142064913052832
+Citrus aurantium,Sabinene,1,0.3,
+Citrus aurantium,"Selina-4(15),7(11)-diene",1,1e-07,
+Citrus aurantium,Terpinolene,2,0.65000005,0.9192387448318338
+Citrus aurantium,Thymol,1,1e-07,
+Citrus aurantium,Undecanal,1,1e-07,
+Citrus aurantium,Valencene,1,32.4,
+Citrus aurantium,alpha-Copaene,1,0.5,
+Citrus aurantium,alpha-PHELLANDRENE,2,0.06500005,0.09192381084357307
+Citrus aurantium,alpha-PINENE,2,0.485,0.021213203435596444
+Citrus aurantium,alpha-Sinensal,1,1e-07,
+Citrus aurantium,"beta-CITRONELLOL, (+/-)-",1,1e-07,
+Citrus aurantium,"beta-OCIMENE, (3E)-",2,0.01500005,0.02121313272491831
+Citrus aurantium,beta-Selinene,1,1e-07,
+Citrus aurantium,beta-Sinensal,1,1e-07,
+Citrus aurantium,gamma-Terpinene,1,0.4,
+Citrus aurantium,p-Menth-3-en-1-ol,1,1e-07,
+Citrus aurantium,trans-beta-Terpineol,1,1e-07,
+Citrus limon,(+)-3-Carene,2,0.00500005,0.007070997101187357
+Citrus limon,(-)-beta-Pinene,2,6.05,8.414570696119917
+Citrus limon,(-)-cis-Carveol,1,0.1,
+Citrus limon,(-)-trans-Carveol,1,0.2,
+Citrus limon,"(2S,4R)-4-methyl-2-(2-methylprop-1-en-1-yl)tetrahydro-2H-pyran",2,0.00500005,0.007070997101187357
+Citrus limon,"(S,1Z,6Z)-8-Isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene",2,0.50000005,0.7071067104758694
+Citrus limon,1-Methyl-4-(prop-1-en-2-yl)benzene,2,0.35,0.21213203435596428
+Citrus limon,1-Octanol,1,0.3,
+Citrus limon,2-(4-Methylphenyl)propan-2-ol,2,0.75000005,1.0606601010691432
+Citrus limon,"2-Cyclohexen-1-ol, 1-methyl-4-(1-methylethenyl)-, trans-",1,0.1,
+Citrus limon,"2-[(2R,5S)-5-ethenyl-5-methyloxolan-2-yl]propan-2-ol",1,0.3,
+Citrus limon,"4-Terpineol, (+/-)-",2,0.55,0.3535533905932738
+Citrus limon,6-Methyl-5-hepten-2-one,2,1.605,2.2556706319850868
+Citrus limon,Alpha-Terpineol,2,1.55,2.0506096654409878
+Citrus limon,Beta-Phellandrene,2,0.17500005,0.2474873027046135
+Citrus limon,Camphene,3,0.3333333666666667,0.4163331598611902
+Citrus limon,Citral,2,7.8,10.465180361560902
+Citrus limon,Citronellal,2,0.08,0.02828427124746191
+Citrus limon,Decanal,1,0.1,
+Citrus limon,Fenchone,2,1.25000005,1.7677668822556907
+Citrus limon,Geraniol,2,1.50000005,2.121320272848964
+Citrus limon,"Limonene, (-)-",3,60.666666666666664,27.831157599592103
+Citrus limon,"Linalool, (+/-)-",3,3.066666666666667,4.282911782109612
+Citrus limon,"Linalool, oxide",2,2.35,0.7778174593052023
+Citrus limon,Myrcene,3,1.3333333333333333,0.2309401076758504
+Citrus limon,Neral,2,11.1,1.272792206135786
+Citrus limon,Nerol,2,1.76,2.4607315985291853
+Citrus limon,"P-Mentha-2,8-dien-1-ol",1,0.1,
+Citrus limon,Sabinene,2,0.16000005,0.2262740992690171
+Citrus limon,Terpinolene,2,1.1300000000000001,1.3717871555019021
+Citrus limon,alpha-Fenchene,2,0.025000050000000003,0.03535526834864926
+Citrus limon,alpha-PHELLANDRENE,2,1e-07,0.0
+Citrus limon,alpha-PINENE,3,0.5533333333333333,0.48839874419712975
+Citrus limon,alpha-Terpinene,2,1e-07,0.0
+Citrus limon,"beta-CITRONELLOL, (+/-)-",2,1.075,0.4596194077712558
+Citrus limon,"beta-OCIMENE, (3E)-",2,0.22499999999999998,0.10606601717798211
+Citrus limon,"beta-Ocimene, (3Z)-",2,0.15000000000000002,0.07071067811865477
+Citrus limon,beta-Terpineol,2,0.1,0.0
+Citrus limon,gamma-Terpinene,2,0.8,0.42426406871192857
+Citrus limon,gamma-Terpineol,2,0.15000005,0.21213196364528614
+Citrus limon,p-CYMENE,3,0.10000003333333334,0.09999995000000417
+Citrus limon,trans-3-Hexenyl acetate,2,1e-07,0.0
+Coriandrum sativum,(+)-3-Carene,1,1e-07,
+Coriandrum sativum,(-)-beta-Pinene,1,1e-07,
+Coriandrum sativum,(-)-cis-Carveol,1,0.18,
+Coriandrum sativum,"(1S,2R,5R)-2-methyl-5-propan-2-ylbicyclo[3.1.0]hexan-2-ol",1,1e-07,
+Coriandrum sativum,"(2S,4R)-4-methyl-2-(2-methylprop-1-en-1-yl)tetrahydro-2H-pyran",1,1e-07,
+Coriandrum sativum,"(S,1Z,6Z)-8-Isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene",1,1e-07,
+Coriandrum sativum,(Z)-p-Menth-2-en-1-ol,1,1e-07,
+Coriandrum sativum,"(e,z)-1,4-decadienal",1,0.11,
+Coriandrum sativum,"1,2,4-Trimethylbenzene",1,0.46,
+Coriandrum sativum,"1,2-Diethylbenzene",1,1e-07,
+Coriandrum sativum,"1,3,5-Triethylbenzene",1,1e-07,
+Coriandrum sativum,"1,4-Diethylbenzene",1,1e-07,
+Coriandrum sativum,"1,7,7-Trimethylbicyclo[2.2.1]heptan-2-ol",2,0.05500005,0.07778167521984211
+Coriandrum sativum,1-Butanol,1,1e-07,
+Coriandrum sativum,1-Decanol,14,29.757857142857144,10.78276843185205
+Coriandrum sativum,1-Decen-3-ol,1,0.05,
+Coriandrum sativum,1-Heptanol,1,1e-07,
+Coriandrum sativum,1-Hexanol,1,1e-07,
+Coriandrum sativum,1-Hexen-3-OL,1,1e-07,
+Coriandrum sativum,1-Nonen-3-ol,1,1e-07,
+Coriandrum sativum,1-Octanol,2,0.050000050000000004,0.07071060740797663
+Coriandrum sativum,1-Octen-3-yl acetate,1,0.12,
+Coriandrum sativum,1-Pentadecanol,1,0.26,
+Coriandrum sativum,1-Pentanol,1,1e-07,
+Coriandrum sativum,1-Tetradecanol,1,6.09,
+Coriandrum sativum,1-Tridecanol,13,0.3861538461538461,0.3677530525941392
+Coriandrum sativum,1-Undecanol,14,0.5857142928571429,0.5565237392130663
+Coriandrum sativum,10-Undecenal,1,0.19,
+Coriandrum sativum,11-methyl 2-dodecenal,1,0.02,
+Coriandrum sativum,12-methyl-2-tridecenal,1,1e-07,
+Coriandrum sativum,"2,4-Decadienal",1,1e-07,
+Coriandrum sativum,"2,4-Heptadienal",1,0.15,
+Coriandrum sativum,"2,4-Hexadienal",1,0.11,
+Coriandrum sativum,2-(4-Methylphenyl)propan-2-ol,1,1e-07,
+Coriandrum sativum,"2-Butene-1,4-diol",1,1e-07,
+Coriandrum sativum,2-Carene,1,1e-07,
+Coriandrum sativum,2-Decanol,1,1e-07,
+Coriandrum sativum,2-Decen-1-ol,13,16.186923076923076,6.229308929856485
+Coriandrum sativum,"2-Decen-1-ol, (Z)-",1,0.03,
+Coriandrum sativum,2-Decenal,14,1.8407142857142857,4.677819124147679
+Coriandrum sativum,2-Dodecenal,14,7.039285714285714,1.542163636362459
+Coriandrum sativum,2-Ethylphenol,1,1e-07,
+Coriandrum sativum,"2-Furanmethanol, 5-ethenyltetrahydro-alpha,alpha,5-trimethyl-, (2R,5R)-rel-",1,1e-07,
+Coriandrum sativum,2-Hexadecenal,13,0.58,0.4131989028704376
+Coriandrum sativum,2-Hexanol,1,1e-07,
+Coriandrum sativum,2-Hexen-1-OL,1,1e-07,
+Coriandrum sativum,2-Hexenal,12,0.6841666750000001,0.7866783754168445
+Coriandrum sativum,2-Hexylfuran,1,0.03,
+Coriandrum sativum,2-Methyloctan-1-ol,1,1e-07,
+Coriandrum sativum,2-Methylundec-10-enal,1,0.02,
+Coriandrum sativum,2-Methylundecanal,1,4.03,
+Coriandrum sativum,2-Nonanol,1,0.1,
+Coriandrum sativum,2-Nonanone,1,0.12,
+Coriandrum sativum,2-Nonenal,13,0.09846155384615386,0.05997860131235161
+Coriandrum sativum,2-Octanol,1,0.1,
+Coriandrum sativum,2-Octylfuran,1,1e-07,
+Coriandrum sativum,2-Pentadecenal,13,1.2284615384615385,0.7580990057796559
+Coriandrum sativum,2-Pentanol,1,1e-07,
+Coriandrum sativum,2-Tetradecenal,13,8.409230769230769,3.3424453661415354
+Coriandrum sativum,2-Tridecenal,14,0.8771428571428571,0.2759439344233805
+Coriandrum sativum,2-Undecenal,13,2.578461538461539,1.3287515829645395
+Coriandrum sativum,"2-[(2R,5S)-5-ethenyl-5-methyloxolan-2-yl]propan-2-ol",1,1e-07,
+Coriandrum sativum,"3,5,5-Trimethylhexanal",1,1e-07,
+Coriandrum sativum,"3,7-Dimethyloct-6-en-1-yn-3-ol",1,1e-07,
+Coriandrum sativum,"3,7-Dimethyloctan-3-ol",1,1e-07,
+Coriandrum sativum,3-Buten-1-ol,1,1e-07,
+Coriandrum sativum,3-Decanone,1,1.48,
+Coriandrum sativum,3-Dodecanone,1,0.57,
+Coriandrum sativum,3-Methyl-2-butenal,1,0.11,
+Coriandrum sativum,3-Methyl-2-pentanol,1,1e-07,
+Coriandrum sativum,3-Octenal,1,1e-07,
+Coriandrum sativum,3-Octyl acetate,1,0.14,
+Coriandrum sativum,4-Heptanol,1,1e-07,
+Coriandrum sativum,4-Methyl-2-pentanol,1,1e-07,
+Coriandrum sativum,"4-Terpineol, (+/-)-",2,1e-07,0.0
+Coriandrum sativum,5-Decanol,1,1e-07,
+Coriandrum sativum,5-Isopropylbicyclo[3.1.0]hexan-2-one,1,1e-07,
+Coriandrum sativum,6-Epi-beta-bisabolol,1,1e-07,
+Coriandrum sativum,9-Decen-1-OL,1,11.66,
+Coriandrum sativum,9-Methyldec-2-enal,1,0.01,
+Coriandrum sativum,Alpha-Terpineol,2,1e-07,0.0
+Coriandrum sativum,Anethole,1,1e-07,
+Coriandrum sativum,Beta-Phellandrene,1,1e-07,
+Coriandrum sativum,Bornyl acetate,1,0.23,
+Coriandrum sativum,Camphene,2,1e-07,0.0
+Coriandrum sativum,Camphor,1,1e-07,
+Coriandrum sativum,Carvacrol,1,1e-07,
+Coriandrum sativum,"Carvone, (-)-",1,0.23,
+Coriandrum sativum,Caryophyllene,1,1e-07,
+Coriandrum sativum,Cetyl Alcohol,1,0.26,
+Coriandrum sativum,Citral,1,1e-07,
+Coriandrum sativum,Cyclooctanol,1,1e-07,
+Coriandrum sativum,Decanal,14,6.805,3.990081452802687
+Coriandrum sativum,Decane,1,1e-07,
+Coriandrum sativum,Diethyl disulfide,1,0.22,
+Coriandrum sativum,Dodec-4-en-1-al,1,0.16,
+Coriandrum sativum,Dodecanal,14,2.692142857142857,2.0450735498205987
+Coriandrum sativum,E-2-Tetradecen-1-ol,13,1.6969230769230768,1.5766916027734814
+Coriandrum sativum,Eucalyptol,1,0.1,
+Coriandrum sativum,Furfural,1,0.06,
+Coriandrum sativum,Geraniol,2,1e-07,0.0
+Coriandrum sativum,Geranyl acetate,1,1e-07,
+Coriandrum sativum,Heptanal,1,0.49,
+Coriandrum sativum,Hexadecanal,1,0.09,
+Coriandrum sativum,Hexanal,1,0.04,
+Coriandrum sativum,Humulene,1,0.16,
+Coriandrum sativum,Isoamyl alcohol,1,1e-07,
+Coriandrum sativum,Isodecenal,1,1e-07,
+Coriandrum sativum,Lauryl Alcohol,14,0.6792857214285714,0.44632626228645134
+Coriandrum sativum,Lavandulol,1,1e-07,
+Coriandrum sativum,"Limonene, (-)-",1,0.54,
+Coriandrum sativum,"Linalool, (+/-)-",2,0.11000005,0.15556342115036234
+Coriandrum sativum,Linalyl acetate,1,1e-07,
+Coriandrum sativum,Methyl cinnamate,1,0.34,
+Coriandrum sativum,Methyleugenol,1,1e-07,
+Coriandrum sativum,Myrcene,1,0.1,
+Coriandrum sativum,Myrtenol,1,1e-07,
+Coriandrum sativum,Neral,1,1e-07,
+Coriandrum sativum,Nerol,2,1e-07,0.0
+Coriandrum sativum,Neryl acetate,1,1e-07,
+Coriandrum sativum,Nonan-1-ol,2,0.23500005,0.3323401164469992
+Coriandrum sativum,Nonanal,14,0.2814285714285714,0.2644255644238641
+Coriandrum sativum,Nonane,13,0.19615384615384615,0.14869086844515486
+Coriandrum sativum,Octadecanal,1,0.14,
+Coriandrum sativum,Octanal,14,0.3692857142857143,0.43577454096063317
+Coriandrum sativum,Pentadecanal,13,0.2353846153846154,0.10936295721246939
+Coriandrum sativum,Pentadecane,12,0.24750000000000003,0.14454473984957672
+Coriandrum sativum,Phenylacetaldehyde,1,0.03,
+Coriandrum sativum,Phenylethyl Alcohol,1,1e-07,
+Coriandrum sativum,Sabinene,2,1e-07,0.0
+Coriandrum sativum,Terpinolene,1,1e-07,
+Coriandrum sativum,Tetradec-13-enal,1,0.06,
+Coriandrum sativum,Tetradecanal,2,2.0300000000000002,0.8909545442950499
+Coriandrum sativum,Thymol,1,1e-07,
+Coriandrum sativum,Tiglic aldehyde,1,9.48,
+Coriandrum sativum,Tridec-12-enal,1,0.03,
+Coriandrum sativum,Tridecanal,1,0.51,
+Coriandrum sativum,Undecanal,14,0.8950000000000001,0.5211193573600817
+Coriandrum sativum,Undecane,13,0.09000000769230769,0.06403123066130127
+Coriandrum sativum,alpha-Cadinol,1,1e-07,
+Coriandrum sativum,alpha-PHELLANDRENE,1,1e-07,
+Coriandrum sativum,alpha-PINENE,2,0.050000050000000004,0.07071060740797663
+Coriandrum sativum,alpha-Terpinyl acetate,1,0.24,
+Coriandrum sativum,beta-Bisabolene,1,0.64,
+Coriandrum sativum,"beta-CITRONELLOL, (+/-)-",1,1e-07,
+Coriandrum sativum,beta-Cubebene,1,0.1,
+Coriandrum sativum,beta-EUDESMOL,1,1e-07,
+Coriandrum sativum,beta-Gurjunene,1,1e-07,
+Coriandrum sativum,beta-Humulene,1,1e-07,
+Coriandrum sativum,beta-Terpineol,1,1e-07,
+Coriandrum sativum,"cis,cis-Farnesol",1,0.12,
+Coriandrum sativum,cis-3-Hexen-1-ol,1,0.69,
+Coriandrum sativum,cis-4-Decen-1-ol,1,1.73,
+Coriandrum sativum,cis-4-Decenal,2,0.095,0.09192388155425119
+Coriandrum sativum,gamma-Terpinene,2,1e-07,0.0
+Coriandrum sativum,l-Menthol,1,1e-07,
+Coriandrum sativum,p-CYMENE,1,1e-07,
+Coriandrum sativum,trans-2-Dodecen-1-ol,13,5.34,1.7061555224148433
+Coriandrum sativum,trans-2-Tridecen-1-ol,1,0.12,
+Coriandrum sativum,trans-2-Undecen-1-ol,13,3.1107692307692307,1.575121484936223
+Coriandrum sativum,trans-4-Decen-1-al,1,0.3,
+Coriandrum sativum,α-nerolidol,1,1e-07,
+Corymbia citriodora,(+)-3-Carene,6,0.03333341666666667,0.08164961726794356
+Corymbia citriodora,(+)-delta-Cadinene,2,0.050000050000000004,0.07071060740797663
+Corymbia citriodora,(-)-Alloaromadendrene,2,1e-07,0.0
+Corymbia citriodora,(-)-Isopulegol,5,24.45,25.544849774465302
+Corymbia citriodora,(-)-beta-Pinene,8,0.287500025,0.2416461063503566
+Corymbia citriodora,"(1S,2R,5R)-2-methyl-5-propan-2-ylbicyclo[3.1.0]hexan-2-ol",1,1e-07,
+Corymbia citriodora,"(1r,3s,5r)-6,6-Dimethyl-2-methylidenebicyclo[3.1.1]heptan-3-ol",1,1e-07,
+Corymbia citriodora,(E)-alpha-bergamotene,1,1e-07,
+Corymbia citriodora,"(E,Z)-farnesol",1,1e-07,
+Corymbia citriodora,"1,1,4,7-Tetramethyldecahydro-1H-cyclopropa[e]azulen-4-ol",6,2.316666683333333,3.3612001686897495
+Corymbia citriodora,"1,4-Cineole",6,12.950000066666666,20.073041571421108
+Corymbia citriodora,"1,7,7-Trimethylbicyclo[2.2.1]heptan-2-ol",9,1.2833333777777778,3.2823390854186085
+Corymbia citriodora,10-epi-gamma-Eudesmol,1,1e-07,
+Corymbia citriodora,"2,6-Dimethyl-5-heptenal",1,0.2,
+Corymbia citriodora,2-(4-Methylphenyl)propan-2-ol,7,0.2142857714285714,0.3078341699527183
+Corymbia citriodora,"2-Furanmethanol, 5-ethenyltetrahydro-alpha,alpha,5-trimethyl-, (2R,5R)-rel-",2,0.1,0.0
+Corymbia citriodora,"2-[(2R,5S)-5-ethenyl-5-methyloxolan-2-yl]propan-2-ol",2,0.050000050000000004,0.07071060740797663
+Corymbia citriodora,"3-Cyclohexen-1-ol, 4-methyl-1-(1-methylethyl)-, acetate",6,0.7000000833333334,1.7146427791233956
+Corymbia citriodora,3-Methylbutyl 2-methylbutanoate,1,1e-07,
+Corymbia citriodora,4-Methyl-1-propan-2-ylbicyclo[3.1.0]hexan-3-ol,6,0.01666675,0.04082478822155726
+Corymbia citriodora,"4-Terpineol, (+/-)-",10,0.11000006,0.19692070259653702
+Corymbia citriodora,"6-Methyl-2-(4-methylcyclohex-3-en-1-yl)hepta-1,5-dien-4-ol",1,0.05,
+Corymbia citriodora,7-tetracycloundecano,1,1e-07,
+Corymbia citriodora,Acetophenone,1,1e-07,
+Corymbia citriodora,Alpha-Longipinene,6,0.10000006666666666,0.16733195749767185
+Corymbia citriodora,Alpha-Terpineol,9,0.13888894444444444,0.26193719428520035
+Corymbia citriodora,Aromadendrene,3,0.033333400000000006,0.05773496918393566
+Corymbia citriodora,Beta-Elemene,3,0.3333333666666667,0.49328825244475805
+Corymbia citriodora,Beta-Phellandrene,1,1e-07,
+Corymbia citriodora,"Bicyclo[3.1.0]hex-2-ene, 2-methyl-5-(1-methylethyl)-",3,0.08333336666666667,0.1040832599412765
+Corymbia citriodora,Calamenene,1,0.1,
+Corymbia citriodora,Camphene,7,27.028571442857146,12.162745580313212
+Corymbia citriodora,Carotol,6,1.0333333999999998,2.4824718530797756
+Corymbia citriodora,Carvacrol,1,1e-07,
+Corymbia citriodora,Caryophyllene,9,0.9222222444444443,0.9310984901358907
+Corymbia citriodora,Citral,3,0.06666666666666667,0.02886751345948129
+Corymbia citriodora,Citronellal,10,18.60800005,32.8951157154439
+Corymbia citriodora,Citronellic acid,1,0.3,
+Corymbia citriodora,Citronellyl acetate,4,2.48,3.563883649428902
+Corymbia citriodora,Citronellyl formate,1,0.05,
+Corymbia citriodora,Dihydrocarveol,6,0.8166667500000001,2.0004165824481
+Corymbia citriodora,Eucalyptol,10,16.93000003,21.9045936071308
+Corymbia citriodora,Eugenol,9,0.5555556111111111,1.5183141006831677
+Corymbia citriodora,Geraniol,9,0.7222222777777777,1.595131453569476
+Corymbia citriodora,Geranyl acetate,3,0.16666666666666666,0.05773502691896258
+Corymbia citriodora,Humulene,3,0.06666670000000001,0.057734969183935655
+Corymbia citriodora,Isobutyl phenylacetate,1,1e-07,
+Corymbia citriodora,Jasmone,1,0.1,
+Corymbia citriodora,"Limonene, (-)-",10,0.09000004,0.08755945789387537
+Corymbia citriodora,"Linalool, (+/-)-",9,2.188888922222222,4.144708789160518
+Corymbia citriodora,Linalyl acetate,6,1.3333333666666667,1.6609234058197875
+Corymbia citriodora,Myrcene,3,0.10000003333333334,0.09999995000000417
+Corymbia citriodora,Myrtenal,1,1e-07,
+Corymbia citriodora,Myrtenol,7,0.014285800000000001,0.03779640950447542
+Corymbia citriodora,Neral,2,3.5,4.8083261120685235
+Corymbia citriodora,Nerol,6,0.81666675,2.0004165824481
+Corymbia citriodora,Perillyl alcohol,6,0.050000083333333334,0.12247444631432985
+Corymbia citriodora,Pulegol,1,0.3,
+Corymbia citriodora,Sabinene,8,0.0875000625,0.1457737544964891
+Corymbia citriodora,Safrole,6,0.1833334166666667,0.4490730786854203
+Corymbia citriodora,Santolina alcohol,1,1e-07,
+Corymbia citriodora,Spathulenol,1,0.1,
+Corymbia citriodora,Thymol,6,0.01666675,0.04082478822155726
+Corymbia citriodora,Torreyol,1,1e-07,
+Corymbia citriodora,Valencene,6,0.1833334166666667,0.4490730786854203
+Corymbia citriodora,Verbenone,7,0.014285800000000001,0.03779640950447542
+Corymbia citriodora,Viridifloral,1,1e-07,
+Corymbia citriodora,Viridiflorene,1,1.2,
+Corymbia citriodora,Viridiflorol,6,4.6666666999999995,3.7558842225677473
+Corymbia citriodora,Ylangene,1,0.05,
+Corymbia citriodora,"alpha,3-Dimethylstyrene",1,1e-07,
+Corymbia citriodora,"alpha-Cadinene, (+)-",6,0.1833334,0.402077899583322
+Corymbia citriodora,alpha-Calacorene,1,1e-07,
+Corymbia citriodora,alpha-Campholenal,1,0.1,
+Corymbia citriodora,alpha-Copaene,6,0.033333400000000006,0.05163972630965427
+Corymbia citriodora,alpha-Eudesmol,1,0.05,
+Corymbia citriodora,alpha-Fenchol,1,1e-07,
+Corymbia citriodora,alpha-Muurolene,1,1e-07,
+Corymbia citriodora,alpha-PHELLANDRENE,3,0.05000003333333333,0.04999995000000834
+Corymbia citriodora,alpha-PINENE,8,5.9750000125,4.193787902617735
+Corymbia citriodora,alpha-Selinene,6,0.08333341666666666,0.20412410440710246
+Corymbia citriodora,alpha-Terpinene,4,0.025000075000000004,0.04999995
+Corymbia citriodora,beta-CARYOPHYLLENE OXIDE,9,0.05000004444444445,0.04999995000000278
+Corymbia citriodora,"beta-CITRONELLOL, (+/-)-",3,4.466666666666667,4.350095784386056
+Corymbia citriodora,beta-EUDESMOL,1,0.1,
+Corymbia citriodora,beta-Fenchyl alcohol,2,1e-07,0.0
+Corymbia citriodora,"beta-OCIMENE, (3E)-",3,0.11666666666666665,0.07637626158259735
+Corymbia citriodora,"beta-Ocimene, (3Z)-",3,0.05000003333333334,0.049999950000008335
+Corymbia citriodora,cis-Calamenen-10-ol,1,1e-07,
+Corymbia citriodora,"cis-Muurola-3,5-diene",1,1e-07,
+Corymbia citriodora,cis-Myrtanol,1,0.1,
+Corymbia citriodora,gamma-Cadinene,2,0.025000050000000003,0.03535526834864926
+Corymbia citriodora,gamma-EUDESMOL,1,0.1,
+Corymbia citriodora,gamma-Terpinene,2,0.025000050000000003,0.03535526834864926
+Corymbia citriodora,iso-Isopulegol,1,0.05,
+Corymbia citriodora,l-Menthol,2,2.8,3.5355339059327378
+Corymbia citriodora,l-phellandrene,6,0.93333335,0.8547904008196016
+Corymbia citriodora,p-CYMENE,4,0.13750004999999998,0.24281333365365942
+Corymbia citriodora,"p-Mentha-1,3,8-triene",1,1e-07,
+Corymbia citriodora,tau-Cadinol,1,1e-07,
+Corymbia citriodora,"trans-Cadina-1,4-diene",1,0.1,
+Corymbia citriodora,trans-Calamenen-10-ol,1,0.5,
+Corymbia citriodora,trans-Nerolidol,6,0.15000008333333334,0.3674234205926477
+Corymbia citriodora,trans-Sabinol,1,1e-07,
+Corymbia citriodora,trans-Verbenyl acetate,1,0.05,
+Cymbopogon flexuosus,(+)-delta-Cadinene,1,0.3,
+Cymbopogon flexuosus,(-)-beta-Pinene,29,0.22068965862068968,0.14237603163537324
+Cymbopogon flexuosus,"1,7,7-Trimethylbicyclo[2.2.1]heptan-2-ol",1,0.4,
+Cymbopogon flexuosus,4-Nonanone,1,0.3,
+Cymbopogon flexuosus,"4-Terpineol, (+/-)-",29,0.4827586206896552,0.17127456136116115
+Cymbopogon flexuosus,6-Methyl-5-hepten-2-one,30,0.21666666666666667,0.18019784784457357
+Cymbopogon flexuosus,Alpha-Terpineol,31,0.48709677419354835,0.28016891986070475
+Cymbopogon flexuosus,Beta-Phellandrene,1,0.2,
+Cymbopogon flexuosus,Bornyl acetate,1,0.3,
+Cymbopogon flexuosus,Camphene,1,1.3,
+Cymbopogon flexuosus,Caryophyllene,31,0.4129032258064516,0.16277169181376097
+Cymbopogon flexuosus,Citral,31,47.49032258064516,6.589453939880485
+Cymbopogon flexuosus,Citronellal,31,0.3870967741935484,0.674162164212672
+Cymbopogon flexuosus,Citronellyl acetate,30,0.5933333366666667,0.94245948505255
+Cymbopogon flexuosus,Decanal,1,0.2,
+Cymbopogon flexuosus,Eugenol,1,0.2,
+Cymbopogon flexuosus,Geraniol,31,5.203225806451614,4.834630897387981
+Cymbopogon flexuosus,Geranyl acetate,31,1.5838709677419356,0.5465630638779928
+Cymbopogon flexuosus,"Limonene, (-)-",31,0.6193548387096774,0.3691606288493846
+Cymbopogon flexuosus,"Linalool, (+/-)-",31,0.6225806451612903,0.178343633508189
+Cymbopogon flexuosus,Myrcene,1,0.5,
+Cymbopogon flexuosus,Neral,31,34.064516129032256,4.676861368275152
+Cymbopogon flexuosus,Nerol,30,0.15666668,0.1406470933704796
+Cymbopogon flexuosus,Tricyclene,1,0.2,
+Cymbopogon flexuosus,alpha-PINENE,29,0.1896551724137931,0.0724313842109842
+Cymbopogon flexuosus,beta-CARYOPHYLLENE OXIDE,30,0.5566666666666666,0.13565507307349298
+Cymbopogon flexuosus,"beta-CITRONELLOL, (+/-)-",30,0.9166666766666667,4.379582983284056
+Cymbopogon flexuosus,beta-Cubebene,1,0.5,
+Cymbopogon flexuosus,"beta-OCIMENE, (3E)-",30,0.11666666666666667,0.037904902178945175
+Cymbopogon flexuosus,"beta-Ocimene, (3Z)-",30,0.29,0.20401149392907356
+Cymbopogon flexuosus,gamma-Cadinene,1,1.0,
+Cymbopogon flexuosus,p-CYMENE,30,1.3466666666666667,0.23886705772116812
+Cymbopogon nardus,(-)-beta-Pinene,1,1.5,
+Cymbopogon nardus,"(1S,2R,5R)-2-methyl-5-propan-2-ylbicyclo[3.1.0]hexan-2-ol",1,3.8,
+Cymbopogon nardus,"(5E)-3,3,5-trimethylhepta-1,5-diene",1,0.7,
+Cymbopogon nardus,"1,7,7-Trimethylbicyclo[2.2.1]heptan-2-ol",1,2.5,
+Cymbopogon nardus,Alpha-Terpineol,1,0.5,
+Cymbopogon nardus,Arachidic Acid,1,0.1,
+Cymbopogon nardus,Behenic Acid,1,0.1,
+Cymbopogon nardus,Beta-Elemene,1,0.2,
+Cymbopogon nardus,Bis(2-ethylhexyl) phthalate,1,2.0,
+Cymbopogon nardus,Caryophyllene,1,2.2,
+Cymbopogon nardus,Cetyl Alcohol,1,0.5,
+Cymbopogon nardus,Citral,1,0.3,
+Cymbopogon nardus,Citronellal,4,18.475,10.091704514104642
+Cymbopogon nardus,Citronellyl acetate,3,4.866666666666667,1.0016652800877817
+Cymbopogon nardus,Elemol,3,9.666666666666666,2.1126602503321092
+Cymbopogon nardus,Eugenol,1,0.5,
+Cymbopogon nardus,Geraniol,4,19.5,3.1421860755425244
+Cymbopogon nardus,Geranyl acetate,3,5.133333333333334,1.530795000427338
+Cymbopogon nardus,Germacrene D-4-ol,1,1.5,
+Cymbopogon nardus,Humulene,1,0.3,
+Cymbopogon nardus,Isoborneol,1,1.1,
+Cymbopogon nardus,Lavandulol,1,0.7,
+Cymbopogon nardus,"Limonene, (-)-",1,0.2,
+Cymbopogon nardus,"Linalool, (+/-)-",1,0.7,
+Cymbopogon nardus,Myrcene,1,2.9,
+Cymbopogon nardus,Nerol,1,1.5,
+Cymbopogon nardus,Spathulenol,1,0.2,
+Cymbopogon nardus,Valencene,1,0.5,
+Cymbopogon nardus,Valencene (isomer I),1,0.2,
+Cymbopogon nardus,alpha-PINENE,1,0.5,
+Cymbopogon nardus,alpha-Selinene,1,1.0,
+Cymbopogon nardus,"beta-CITRONELLOL, (+/-)-",3,7.8,2.151743479135001
+Cymbopogon nardus,beta-Selinene,1,0.8,
+Cymbopogon nardus,gamma-Terpineol,1,9.2,
+Cymbopogon nardus,limonene acetate,3,2.6,0.1732050807568879
+Cymbopogon nardus,trans-Nerolidol,1,4.8,
+Elettaria cardamomum,(+)-3-Carene,2,0.16000005,0.2262740992690171
+Elettaria cardamomum,"(+)-6-Hydroxy-2,6-dimethyl-7-octen-4-one",1,1e-07,
+Elettaria cardamomum,(-)-beta-Pinene,3,0.45933336666666663,0.40595724824173707
+Elettaria cardamomum,"(1S,2R,5R)-2-methyl-5-propan-2-ylbicyclo[3.1.0]hexan-2-ol",1,0.518,
+Elettaria cardamomum,"(1r,3s,5r)-6,6-Dimethyl-2-methylidenebicyclo[3.1.1]heptan-3-ol",1,1e-07,
+Elettaria cardamomum,"1,1,4,7-Tetramethyldecahydro-1H-cyclopropa[e]azulen-4-ol",1,0.1,
+Elettaria cardamomum,"1,4-Cineole",1,1e-07,
+Elettaria cardamomum,"1,7,7-Trimethylbicyclo[2.2.1]heptan-2-ol",1,1e-07,
+Elettaria cardamomum,2-(4-Methylphenyl)propan-2-ol,1,1e-07,
+Elettaria cardamomum,2-Heptene,1,1e-07,
+Elettaria cardamomum,"3-Cyclohexen-1-ol, 4-methyl-1-(1-methylethyl)-, acetate",1,1e-07,
+Elettaria cardamomum,"4,7,7-Trimethylbicyclo[4.1.0]hept-2-ene",1,0.257,
+Elettaria cardamomum,4-Methyl-1-propan-2-ylbicyclo[3.1.0]hexan-3-ol,2,2.00000005,2.8284270540355116
+Elettaria cardamomum,"4-Terpineol, (+/-)-",4,1.259750025,0.9959050319600438
+Elettaria cardamomum,Acetic Acid,2,0.40000005,0.5656853542385599
+Elettaria cardamomum,Alpha-Terpineol,5,2.01040004,2.07270369299618
+Elettaria cardamomum,Ascaridole,1,1.3,
+Elettaria cardamomum,Beta-Elemene,3,0.15200003333333334,0.13165099619829443
+Elettaria cardamomum,"Bicyclo[3.1.0]hex-2-ene, 2-methyl-5-(1-methylethyl)-",2,0.7829999999999999,0.5897270555095807
+Elettaria cardamomum,Caryophyllene,1,0.8,
+Elettaria cardamomum,Citral,1,0.312,
+Elettaria cardamomum,Cycloheptene,1,0.351,
+Elettaria cardamomum,Dihydrocarveol,1,0.9,
+Elettaria cardamomum,Eucalyptol,5,45.5812,25.29495873094083
+Elettaria cardamomum,Fenchol,1,1e-07,
+Elettaria cardamomum,Formic Acid,1,2.1,
+Elettaria cardamomum,Geraniol,3,0.7663333666666666,1.0859052705922387
+Elettaria cardamomum,Geranyl acetate,3,0.8186667,0.914737804765207
+Elettaria cardamomum,Isoborneol,1,1e-07,
+Elettaria cardamomum,Isomenthol,1,0.2,
+Elettaria cardamomum,"Limonene-1,2-epoxide",1,1e-07,
+Elettaria cardamomum,"Linalool, (+/-)-",5,1.06080004,1.7615570084218115
+Elettaria cardamomum,Linalyl acetate,3,0.13000006666666666,0.22516654724892715
+Elettaria cardamomum,Methyl geranate,3,0.1656667,0.22901160836662843
+Elettaria cardamomum,Myrcene,4,1.291000025,1.1075756921914346
+Elettaria cardamomum,Neral,1,0.253,
+Elettaria cardamomum,Nerol,1,1e-07,
+Elettaria cardamomum,Neryl acetate,1,1.7,
+Elettaria cardamomum,Perillene,1,0.239,
+Elettaria cardamomum,Retinal,2,0.45500005,0.6434671001690802
+Elettaria cardamomum,Sabinene,2,3.795,0.03535533905932725
+Elettaria cardamomum,"Selina-4(15),7(11)-diene",1,0.373,
+Elettaria cardamomum,Terpinolene,4,0.24875002499999999,0.1673506301651391
+Elettaria cardamomum,Valencene,1,1.0,
+Elettaria cardamomum,alpha-Guaiene,1,0.1,
+Elettaria cardamomum,alpha-PHELLANDRENE,1,2.5,
+Elettaria cardamomum,alpha-PINENE,4,1.6195,0.6703737763367537
+Elettaria cardamomum,alpha-Terpinene,1,2.2,
+Elettaria cardamomum,alpha-Terpinyl acetate,4,41.863749999999996,9.903169000375584
+Elettaria cardamomum,beta-CARYOPHYLLENE OXIDE,1,0.2,
+Elettaria cardamomum,"beta-CITRONELLOL, (+/-)-",1,1e-07,
+Elettaria cardamomum,"beta-OCIMENE, (3E)-",1,0.5,
+Elettaria cardamomum,"beta-Ocimene, (3Z)-",2,3.05,0.9192388155425121
+Elettaria cardamomum,beta-Selinene,3,0.6313333333333334,0.4193630090188372
+Elettaria cardamomum,beta-Thujene,1,6.003,
+Elettaria cardamomum,gamma-Cadinene,3,0.4146667,0.5213878516677101
+Elettaria cardamomum,gamma-Muurolene,2,0.04000005,0.056568471784245684
+Elettaria cardamomum,gamma-Terpinene,4,0.539750025,0.4552657253553532
+Elettaria cardamomum,sabine hydrate,2,0.35000004999999995,0.49497467611990514
+Elettaria cardamomum,trans-Nerolidol,3,0.48133336666666665,0.7570900112932434
+Elettaria cardamomum,y-limonene,1,0.287,
+Foeniculum vulgare,Anethole,2,26.25,34.153257531310246
+Foeniculum vulgare,Citronellal,1,1.8,
+Foeniculum vulgare,Cuminaldehyde,1,87.3,
+Foeniculum vulgare,Estragole,1,22.4,
+Foeniculum vulgare,Fenchone,2,9.649999999999999,2.0506096654409873
+Foeniculum vulgare,Geraniol,1,0.6,
+Foeniculum vulgare,"Limonene, (-)-",1,11.4,
+Foeniculum vulgare,alpha-PINENE,1,1.1,
+Juniperus communis,(+)-delta-Cadinene,1,2.9,
+Juniperus communis,(-)-beta-Curcumene,1,1.0,
+Juniperus communis,(-)-beta-Pinene,1,10.7,
+Juniperus communis,"(R,R)-1-isopropyl-4-methyl-3-(prop-1-en-2-yl)-4-vinylcyclohexene",1,0.2,
+Juniperus communis,Beta-Phellandrene,1,0.8,
+Juniperus communis,Calarene,1,0.6,
+Juniperus communis,Caryophyllene,1,0.6,
+Juniperus communis,Eucalyptol,1,0.1,
+Juniperus communis,"Limonene, (-)-",1,1.4,
+Juniperus communis,Myrcene,1,4.1,
+Juniperus communis,Sabinene,1,22.8,
+Juniperus communis,Terpinolene,1,2.2,
+Juniperus communis,alpha-Cadinol,1,2.2,
+Juniperus communis,alpha-Calacorene,1,0.2,
+Juniperus communis,alpha-Copaene,1,0.6,
+Juniperus communis,alpha-Cubebene,1,0.6,
+Juniperus communis,alpha-Muurolene,1,3.8,
+Juniperus communis,alpha-PHELLANDRENE,1,0.3,
+Juniperus communis,alpha-PINENE,1,2.3,
+Juniperus communis,alpha-Terpinene,1,2.9,
+Juniperus communis,beta-Cubebene,1,0.2,
+Juniperus communis,gamma-Cadinene,1,10.6,
+Juniperus communis,gamma-EUDESMOL,1,1.2,
+Juniperus communis,gamma-Muurolene,1,3.8,
+Juniperus communis,gamma-Terpinene,1,6.2,
+Juniperus communis,tau-Cadinol,1,1.1,
+Juniperus communis,trans-Sabinene hydrate,1,6.0,
+Lavandula angustifolia,(+)-3-Carene,9,0.07777782222222224,0.08333328666667027
+Lavandula angustifolia,"(1S,2R,5R)-2-methyl-5-propan-2-ylbicyclo[3.1.0]hexan-2-ol",9,0.022222300000000004,0.04409581108855466
+Lavandula angustifolia,(E)-alpha-bergamotene,9,0.1555555777777778,0.13333330416667075
+Lavandula angustifolia,(R)-4-Isopropylcyclohex-2-enone,9,1.0444444444444445,1.5050839769852635
+Lavandula angustifolia,"1,7,7-Trimethylbicyclo[2.2.1]heptan-2-ol",9,2.2777778,1.8579408845696779
+Lavandula angustifolia,1-Octen-3-yl acetate,9,0.6888889,0.462180802163926
+Lavandula angustifolia,2-(4-Methylphenyl)propan-2-ol,9,0.15555555555555556,0.08819171036881968
+Lavandula angustifolia,"2-Furanmethanol, 5-ethenyltetrahydro-alpha,alpha,5-trimethyl-, (2R,5R)-rel-",18,0.24444449444444447,0.6491824725101423
+Lavandula angustifolia,"2-[(2R,5S)-5-ethenyl-5-methyloxolan-2-yl]propan-2-ol",9,0.5888888999999999,1.025237092768736
+Lavandula angustifolia,3-Octanone,9,0.20000001111111113,0.13228754665500872
+Lavandula angustifolia,"4-Terpineol, (+/-)-",9,1.2111111111111112,0.5158595846847387
+Lavandula angustifolia,7-Methoxycoumarin,9,1.344444522222222,3.7077995553292795
+Lavandula angustifolia,Alpha-Terpineol,9,5.811111111111112,5.279309719187833
+Lavandula angustifolia,Bornyl acetate,9,0.24444446666666664,0.15898982846571508
+Lavandula angustifolia,Camphene,9,0.06666671111111111,0.0707106309782066
+Lavandula angustifolia,Camphor,9,0.41111111111111115,0.12692955176439846
+Lavandula angustifolia,Caryophyllene,9,4.788888888888889,2.6421792352357762
+Lavandula angustifolia,Citral,9,0.0222223,0.04409581108855466
+Lavandula angustifolia,Coumarin,9,2.555555622222222,6.753167952483075
+Lavandula angustifolia,Eucalyptol,9,1.2000000000000002,0.6519202405202649
+Lavandula angustifolia,Geraniol,9,2.2888888888888888,2.583333333333333
+Lavandula angustifolia,Geranyl acetate,9,1.911111111111111,1.7856682533749406
+Lavandula angustifolia,Humulene,9,0.24444445555555555,0.1943650474408086
+Lavandula angustifolia,Lavandulol,9,0.2,0.1
+Lavandula angustifolia,"Lavandulyl acetate, (+/-)-",9,1.588888888888889,0.7372998786864888
+Lavandula angustifolia,"Limonene, (-)-",9,0.5111111333333334,0.44845410640951605
+Lavandula angustifolia,"Linalool, (+/-)-",9,23.244444444444444,4.564567644123349
+Lavandula angustifolia,Linalyl acetate,9,30.655555566666667,13.433550424641613
+Lavandula angustifolia,Myrcene,9,0.5000000222222222,0.4092676080512627
+Lavandula angustifolia,Nerol,9,0.8111111111111111,0.7372998786864887
+Lavandula angustifolia,Neryl acetate,9,1.1888888888888889,0.9739666889124654
+Lavandula angustifolia,Piperitone,9,0.11111114444444443,0.10540921581047967
+Lavandula angustifolia,Sabinene,9,0.06666671111111111,0.0707106309782066
+Lavandula angustifolia,Terpinolene,9,0.07777782222222224,0.08333328666667027
+Lavandula angustifolia,alpha-PINENE,9,0.10000004444444445,0.13228752775678734
+Lavandula angustifolia,alpha-Santalene,9,0.9666666888888888,0.7449831888483581
+Lavandula angustifolia,beta-CARYOPHYLLENE OXIDE,9,1.6333333333333333,0.9630680142129112
+Lavandula angustifolia,beta-Farnesene,9,1.2444444444444445,0.5387743291748205
+Lavandula angustifolia,"beta-OCIMENE, (3E)-",9,0.9111111222222222,0.7270564547085284
+Lavandula angustifolia,"beta-Ocimene, (3Z)-",9,0.6555555777777777,0.5410894057362443
+Lavandula angustifolia,gamma-Cadinene,9,0.17777778888888887,0.14813655862075745
+Lavandula angustifolia,gamma-Muurolene,9,0.0333334,0.04999995
+Lavandula angustifolia,p-CYMENE,9,0.11111115555555556,0.13642250547473014
+Lavandula angustifolia,tau-Cadinol,9,0.34444444444444444,0.33582402799349803
+Lavandula angustifolia,trans-Sabinene hydrate,9,0.11111112222222223,0.06009249814522978
+Melaleuca alternifolia,(+)-Longifolene,1,1.3,
+Melaleuca alternifolia,(+)-Neoisodihydrocarveol,1,6.3,
+Melaleuca alternifolia,"(1S,2S)-1-ethenyl-1-methyl-4-propan-2-ylidene-2-prop-1-en-2-ylcyclohexane",1,0.7,
+Melaleuca alternifolia,"1,1,4,7-Tetramethyldecahydro-1H-cyclopropa[e]azulen-4-ol",1,3.1,
+Melaleuca alternifolia,"3,5-Cycloheptadien-1-one",1,0.7,
+Melaleuca alternifolia,"4-Terpineol, (+/-)-",1,47.7,
+Melaleuca alternifolia,4-Tridecanol,1,0.3,
+Melaleuca alternifolia,4-acetoxylcyclohepatone,1,0.3,
+Melaleuca alternifolia,"5-Decanone, 2-methyl-",1,3.3,
+Melaleuca alternifolia,Aromadendrene,1,1.1,
+Melaleuca alternifolia,"Bicyclo[3.1.0]hex-2-ene, 2-methyl-5-(1-methylethyl)-",1,1.2,
+Melaleuca alternifolia,Caryophyllene,1,3.1,
+Melaleuca alternifolia,Cetyl Alcohol,1,0.6,
+Melaleuca alternifolia,Eucalyptol,1,5.3,
+Melaleuca alternifolia,Germacrene a,1,0.4,
+Melaleuca alternifolia,Hexanediol,1,4.9,
+Melaleuca alternifolia,Humulene epoxide,1,0.5,
+Melaleuca alternifolia,Myrcene,1,0.6,
+Melaleuca alternifolia,Nootkatone,1,0.3,
+Melaleuca alternifolia,Octadecylamine,1,0.3,
+Melaleuca alternifolia,Oleic Acid,1,1.7,
+Melaleuca alternifolia,Spathulenol,1,1.3,
+Melaleuca alternifolia,"beta-Ocimene, (3Z)-",1,0.2,
+Melaleuca alternifolia,ledenepoxide,1,1.2,
+Melaleuca alternifolia,p-CYMENE,1,7.3,
+Melaleuca alternifolia,undecone,1,0.9,
+Mentha piperita,(+)-Neomenthol,11,3.1454545454545455,1.1084797123661185
+Mentha piperita,(-)-Isopulegol,11,0.14545457272727272,0.175291939346914
+Mentha piperita,(-)-beta-Pinene,11,0.6818181909090909,0.46436661163352494
+Mentha piperita,"(1S,2R,5R)-2-methyl-5-propan-2-ylbicyclo[3.1.0]hexan-2-ol",11,0.41818187272727275,0.8097137231482175
+Mentha piperita,"(1S,2R,5S)-2-isopropyl-5-methylcyclohexyl acetate",11,5.2272727272727275,2.8142817588475073
+Mentha piperita,"(S,1Z,6Z)-8-Isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene",11,0.4181818272727273,0.5306942201237245
+Mentha piperita,(Z)-p-Menth-2-en-1-ol,11,0.0272728,0.04670988993975473
+Mentha piperita,1-Octen-3-OL,11,0.009091,0.0301511043066419
+Mentha piperita,3-Octanol,11,0.1909091181818182,0.34483195828482555
+Mentha piperita,"4-Terpineol, (+/-)-",11,0.8545454545454546,0.7607412652980464
+Mentha piperita,Alpha-Terpineol,11,0.18181818181818182,0.13280197150781925
+Mentha piperita,"Carvone, (-)-",11,0.1818182,0.1662418610447982
+Mentha piperita,Caryophyllene,11,1.1818181818181819,1.3181943573071324
+Mentha piperita,Eucalyptol,11,6.581818181818182,1.4427877056713383
+Mentha piperita,Germacrene D-4-ol,11,0.6363636727272727,1.8795066915646688
+Mentha piperita,Humulene,11,0.06363640000000001,0.05045244745845339
+Mentha piperita,"Limonene, (-)-",11,1.7727272818181818,1.0296512918106175
+Mentha piperita,"Linalool, (+/-)-",11,0.15454546363636365,0.15724906879331446
+Mentha piperita,Menthofuran,11,4.627272727272727,4.618244451973262
+Mentha piperita,Menthone,22,11.640909090909092,12.074871944146343
+Mentha piperita,Myrcene,11,0.31818186363636364,0.890862689654351
+Mentha piperita,Myrtenol,11,0.045454600000000005,0.05222324456341256
+Mentha piperita,Piperitone,11,0.8363636363636363,0.5408747124292783
+Mentha piperita,Pulegone,11,0.33636363636363636,0.35573227931332646
+Mentha piperita,Sabinene,11,0.10909094545454545,0.1044465517947851
+Mentha piperita,Spathulenol,11,0.1818182090909091,0.2272363367229698
+Mentha piperita,Terpinolene,11,0.06363640000000001,0.05045244745845339
+Mentha piperita,Viridiflorol,11,0.40909093636363636,0.5557958855224088
+Mentha piperita,alpha-Cubebene,11,0.0181819,0.040451951295802785
+Mentha piperita,alpha-PINENE,11,0.3909091,0.3113022375295591
+Mentha piperita,alpha-Terpinene,11,0.04545461818181818,0.09341983437443913
+Mentha piperita,beta-Bourbonene,11,0.28181821818181824,0.7373169882017583
+Mentha piperita,beta-CARYOPHYLLENE OXIDE,11,0.10909092727272728,0.0831209152106507
+Mentha piperita,beta-EUDESMOL,11,0.10000002727272728,0.08944268555897783
+Mentha piperita,beta-Farnesene,11,0.17272727272727273,0.12720777563426766
+Mentha piperita,"beta-Ocimene, (3Z)-",11,0.13636368181818181,0.18040355015656878
+Mentha piperita,gamma-Muurolene,11,0.036363700000000006,0.0504524474584534
+Mentha piperita,gamma-Terpinene,11,0.23636366363636363,0.49045432036392395
+Mentha piperita,l-Menthol,11,41.31818181818182,5.917232153941261
+Mentha piperita,p-CYMENE,11,0.10000003636363637,0.09999996000000473
+Mentha spicata,(+)-Menthone,1,1e-07,
+Mentha spicata,(+)-Neomenthol,4,1e-07,0.0
+Mentha spicata,(-)-Carvomenthone,4,0.9150000500000001,1.7056865317714947
+Mentha spicata,(-)-Isopulegol,1,1e-07,
+Mentha spicata,(-)-beta-Pinene,6,1.7266666666666668,1.3896570320286465
+Mentha spicata,(-)-cis-Carveol,5,0.33000004,0.4790615482378053
+Mentha spicata,(-)-trans-Carveol,5,0.38400004,0.565711906892548
+Mentha spicata,"(1S,2R,5S)-2-isopropyl-5-methylcyclohexyl acetate",4,1e-07,0.0
+Mentha spicata,"(S,1Z,6Z)-8-Isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene",6,0.6749999999999999,1.2019775372277137
+Mentha spicata,"1,7,7-Trimethylbicyclo[2.2.1]heptan-2-ol",1,0.5,
+Mentha spicata,"2-Cyclohexen-1-ol, 2-methyl-5-(1-methylethenyl)-, acetate, cis-",1,1.2,
+Mentha spicata,"2-Furanmethanol, 5-ethenyltetrahydro-alpha,alpha,5-trimethyl-, (2R,5R)-rel-",4,1e-07,0.0
+Mentha spicata,"2-[(2R,5S)-5-ethenyl-5-methyloxolan-2-yl]propan-2-ol",4,1e-07,0.0
+Mentha spicata,3-Octanol,5,0.72400002,0.9726407167088995
+Mentha spicata,3-Octyl acetate,4,0.367500075,0.7349999500000001
+Mentha spicata,"4-Terpineol, (+/-)-",5,0.34199999999999997,0.22829805080201623
+Mentha spicata,Alpha-Terpineol,4,0.065000025,0.05066223774504866
+Mentha spicata,Beta-Elemene,4,0.92,1.0755463727799002
+Mentha spicata,"Bicyclo[3.1.0]hex-2-ene, 2-methyl-5-(1-methylethyl)-",5,0.37800004,0.39117766066073223
+Mentha spicata,Bicyclogermacrene,1,0.3,
+Mentha spicata,Bornyl acetate,4,0.070000025,0.07702810309665666
+Mentha spicata,"Carvone, (-)-",6,29.426666666666666,29.362266715406474
+Mentha spicata,Carvyl acetate,1,0.4,
+Mentha spicata,Caryophyllene,6,1.7083333333333333,1.1374957875379876
+Mentha spicata,"Cyclohexene, 3-methyl-6-(1-methylethyl)-",1,1e-07,
+Mentha spicata,Dihydrocarveol,5,1.18400004,1.609512311726755
+Mentha spicata,Dihydrocarvyl acetate,14,3.63000005,11.163481656096362
+Mentha spicata,Elemol,4,1e-07,0.0
+Mentha spicata,Eucalyptol,5,0.976,1.3232082224653834
+Mentha spicata,Geranyl acetate,4,1e-07,0.0
+Mentha spicata,Humulene,4,0.76,0.41060930335295626
+Mentha spicata,Humulene epoxide II,4,0.03750005,0.04787130316452646
+Mentha spicata,Jasmone,1,0.3,
+Mentha spicata,"Limonene, (-)-",6,11.594999999999999,9.148288911047793
+Mentha spicata,"Linalool, (+/-)-",5,0.278,0.17020575783445163
+Mentha spicata,Linalyl acetate,4,1e-07,0.0
+Mentha spicata,Menthofuran,4,1e-07,0.0
+Mentha spicata,Menthone,9,1e-07,0.0
+Mentha spicata,Myrcene,5,0.54,1.095673308974897
+Mentha spicata,Neomenthyl acetate,4,1e-07,0.0
+Mentha spicata,Nerol,4,1e-07,0.0
+Mentha spicata,Neryl acetate,4,1e-07,0.0
+Mentha spicata,Piperitenone,4,0.170000025,0.2743476905923136
+Mentha spicata,Piperitenone oxide,4,36.97750005,43.041274997413815
+Mentha spicata,Piperitone,5,0.21000006,0.34322000014568355
+Mentha spicata,Pulegone,5,1e-07,0.0
+Mentha spicata,Sabinene,4,0.61,0.6809307355867165
+Mentha spicata,Spathulenol,4,0.185,0.20872629605937693
+Mentha spicata,Terpinolene,4,0.20750000000000002,0.21700614430625384
+Mentha spicata,alpha-Cubebene,4,0.24500000000000002,0.29849623113198603
+Mentha spicata,alpha-PINENE,6,0.52,0.5670626067728325
+Mentha spicata,alpha-Terpinene,4,0.037500025,0.024999950000000003
+Mentha spicata,beta-Bourbonene,6,0.73333335,0.9026110110858027
+Mentha spicata,beta-CARYOPHYLLENE OXIDE,4,0.5,0.5497878378671782
+Mentha spicata,"beta-CITRONELLOL, (+/-)-",4,1e-07,0.0
+Mentha spicata,beta-EUDESMOL,4,0.025000050000000003,0.02886745572445437
+Mentha spicata,beta-Farnesene,4,2.4575,3.729471589023482
+Mentha spicata,"beta-OCIMENE, (3E)-",4,0.10500002500000001,0.1173314095486335
+Mentha spicata,"beta-Ocimene, (3Z)-",1,0.9,
+Mentha spicata,cis-3-Hexen-1-ol,4,1e-07,0.0
+Mentha spicata,cis-Dihydrocarvone,6,4.836666699999999,9.651314225520446
+Mentha spicata,"cis-Muurola-4(14),5-diene",1,0.9,
+Mentha spicata,cis-carvone,1,1e-07,
+Mentha spicata,gamma-Muurolene,4,0.025000050000000003,0.02886745572445437
+Mentha spicata,gamma-Terpinene,4,1.00250005,1.3475996684228355
+Mentha spicata,l-Menthol,5,1e-07,0.0
+Mentha spicata,p-CYMENE,4,0.037500025,0.024999950000000003
+Mentha spicata,viridiﬂorol,4,0.07250005000000001,0.09142386814541376
+Nardostachys jatamansi,(-)-7-Epi-alpha-selinene,6,0.7833333333333333,0.28097449469065106
+Nardostachys jatamansi,(-)-beta-Pinene,6,0.18500000000000003,0.0720416546173115
+Nardostachys jatamansi,"(1S,6S,7S,10S)-4,10-dimethyl-7-prop-1-en-2-yltricyclo[4.4.0.01,5]decane",6,1.535,0.5457380323928323
+Nardostachys jatamansi,(E)-alpha-bergamotene,6,0.20833335,0.10888828372848477
+Nardostachys jatamansi,"(S,1Z,6Z)-8-Isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene",6,0.8633333333333333,0.04760952285695234
+Nardostachys jatamansi,"1,4-Dimethyl-7-(1-methylethenyl)-octahydroazulene",6,0.435,0.18436377084449102
+Nardostachys jatamansi,"8a-Isopropyl-3-methyl-1,2,4,5,8,8a-hexahydroazulene-6-carbaldehyde",6,0.8316666666666667,0.12351787994726379
+Nardostachys jatamansi,Ar-Curcumene,6,0.365,0.08240145629781065
+Nardostachys jatamansi,Bulnesol,6,0.9783333333333334,0.0292688685580203
+Nardostachys jatamansi,Carotol,6,1.0483333333333333,0.0828049917979989
+Nardostachys jatamansi,Daucol,6,0.7266666666666667,0.11877148928369419
+Nardostachys jatamansi,Dihydroaromadendrene,6,0.5516666833333334,0.7039152254355646
+Nardostachys jatamansi,Epi-beta-Santalene,6,0.11166666666666668,0.01940790217067952
+Nardostachys jatamansi,Humulene epoxide II,6,1.6849999999999998,0.19826749607537789
+Nardostachys jatamansi,Intermedeol,6,0.19999999999999998,0.08173126696681021
+Nardostachys jatamansi,Patchouli alcohol,6,45.60833333333333,4.357198258820301
+Nardostachys jatamansi,Pogostol,6,3.1300000000000003,0.27906988372090613
+Nardostachys jatamansi,Seychellene,6,2.7066666666666666,0.960180538579421
+Nardostachys jatamansi,Valencene,6,0.4583333333333333,0.2972821331103951
+Nardostachys jatamansi,Valeranone,6,0.48666666666666664,0.23105554887659954
+Nardostachys jatamansi,Valerianol,6,0.4033333333333333,0.08286535263104036
+Nardostachys jatamansi,alpha-PINENE,6,0.7799999999999999,0.1532318504750236
+Nardostachys jatamansi,alpha-Patchoulene,6,1.33,0.5188834165783293
+Nardostachys jatamansi,alpha-Selinene,6,0.6316666666666667,0.08841191473249896
+Nardostachys jatamansi,beta-Bisabolene,6,0.4583333333333333,0.057067211835402164
+Nardostachys jatamansi,beta-CARYOPHYLLENE OXIDE,6,1.656666666666667,1.110003002998941
+Nardostachys jatamansi,beta-Gurjunene,6,0.17333333333333334,0.037771241264574124
+Nardostachys jatamansi,beta-Ionone,6,0.235,0.040373258476372686
+Nardostachys jatamansi,beta-Patchoulene,6,0.38833333333333336,0.10796604404472114
+Nardostachys jatamansi,beta-Selinene,6,0.15000001666666665,0.07456536729609575
+Nardostachys jatamansi,"carota-1,4-dyenaldehyde",6,3.465,1.946440340724575
+Nardostachys jatamansi,"carota-1,4-dyenemethoxycarbonyle",6,1.205,0.4323771501825693
+Nardostachys jatamansi,delta-Guaiene,6,0.35333333333333333,0.10670832519848984
+Nardostachys jatamansi,gamma-Patchoulene,6,0.7200000000000001,0.13311649033834988
+Ocimum basilicum,(+)-Epi-alpha-bisabolol,1,0.05,
+Ocimum basilicum,(+)-delta-Cadinene,29,0.0775862448275862,0.0902240987353893
+Ocimum basilicum,(-)-7-Epi-alpha-selinene,1,1e-07,
+Ocimum basilicum,(-)-beta-Copaene,12,0.04166674166666667,0.07929610311799071
+Ocimum basilicum,(-)-beta-Pinene,29,0.1758620793103448,0.17145421533361604
+Ocimum basilicum,(-)-beta-Sesquiphellandrene,2,0.10000005000000001,0.14142128552663139
+Ocimum basilicum,"(1R,5R)-2,6-dimethyl-6-(4-methylpent-3-enyl)bicyclo[3.1.1]hept-2-ene",28,0.198928625,0.44409989118053544
+Ocimum basilicum,"(1S,2R,5R)-2-methyl-5-propan-2-ylbicyclo[3.1.0]hexan-2-ol",28,0.29285719285714285,0.46957705984457737
+Ocimum basilicum,"(1S,2S,3R,4S,6R,7R,8S)-1,2-Dimethyl-8-propan-2-yltetracyclo[4.4.0.02,4.03,7]decane",1,1e-07,
+Ocimum basilicum,(E)-alpha-bergamotene,26,0.8384615884615385,1.1440548287829309
+Ocimum basilicum,"(R,R)-1-isopropyl-4-methyl-3-(prop-1-en-2-yl)-4-vinylcyclohexene",1,1e-07,
+Ocimum basilicum,"(S,1Z,6Z)-8-Isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene",29,0.25896555862068965,0.41687906536891445
+Ocimum basilicum,"(Z)-3,7-dimethylocta-3,6-dienal",24,0.11666671666666667,0.15510628240204302
+Ocimum basilicum,(Z)-Methyl cinnamate,3,1e-07,0.0
+Ocimum basilicum,(Z)-alpha-Bisabolene,15,0.07333339333333333,0.10327951025299166
+Ocimum basilicum,(Z)-p-Menth-2-en-1-ol,24,0.08333338333333333,0.12038581697001868
+Ocimum basilicum,"1,1,4,7-Tetramethyldecahydro-1H-cyclopropa[e]azulen-4-ol",1,1e-07,
+Ocimum basilicum,"1,10-Di-epcubenol",1,0.3,
+Ocimum basilicum,"1,7,7-Trimethylbicyclo[2.2.1]heptan-2-ol",29,0.17413800344827585,0.4878122705690541
+Ocimum basilicum,1-Octen-3-OL,1,0.1,
+Ocimum basilicum,"2,6-Dimethyl-2,4,6-octatriene",1,1e-07,
+Ocimum basilicum,2-(4-Methylphenyl)propan-2-ol,25,0.188000052,0.29765748711116935
+Ocimum basilicum,"2-Cyclohexen-1-ol, 1-methyl-4-(1-methylethyl)-, trans-",24,0.06250005,0.07109389076672085
+Ocimum basilicum,2-Hexenal,1,1e-07,
+Ocimum basilicum,"2-Propenal, 2-methyl-3-phenyl-",1,20.0,
+Ocimum basilicum,"2-[(2R,5S)-5-ethenyl-5-methyloxolan-2-yl]propan-2-ol",1,1e-07,
+Ocimum basilicum,3-Octanol,1,1e-07,
+Ocimum basilicum,3-Octanone,1,0.05,
+Ocimum basilicum,4-Allylphenol,24,0.03541674166666667,0.0758705149332324
+Ocimum basilicum,"4-Terpineol, (+/-)-",28,1.4039286214285713,2.511072250875391
+Ocimum basilicum,6-Epi-beta-bisabolol,12,0.033333408333333335,0.06513385285610573
+Ocimum basilicum,6-Methyl-5-hepten-2-one,24,0.050000075000000005,0.09325043886131605
+Ocimum basilicum,Alpha-Terpineol,29,0.1548276344827586,0.18374319272267955
+Ocimum basilicum,Anethole,1,1e-07,
+Ocimum basilicum,Ar-Curcumene,24,0.17916674166666668,0.3575023677837903
+Ocimum basilicum,Aromadendrene,1,1e-07,
+Ocimum basilicum,Benzaldehyde,1,0.05,
+Ocimum basilicum,Benzyl Alcohol,1,1e-07,
+Ocimum basilicum,Beta-Elemene,29,0.3006896724137931,0.37937852875303735
+Ocimum basilicum,Beta-Phellandrene,3,1e-07,0.0
+Ocimum basilicum,"Bicyclo[3.1.0]hex-2-ene, 2-methyl-5-(1-methylethyl)-",26,0.04423082307692308,0.05536587090926184
+Ocimum basilicum,Bicyclogermacrene,4,0.567500025,0.6558137150390618
+Ocimum basilicum,Bornyl acetate,28,0.07928577142857142,0.18108576447429717
+Ocimum basilicum,Camphene,5,0.01000008,0.02236063505363835
+Ocimum basilicum,"Camphenone, 6-",1,1e-07,
+Ocimum basilicum,Camphor,29,0.3262069206896552,0.37276391906229567
+Ocimum basilicum,Carvacrol,3,1e-07,0.0
+Ocimum basilicum,Caryophyllene,29,1.3055172413793104,1.191207629157716
+Ocimum basilicum,Citral,25,12.912000052000002,15.32324808696033
+Ocimum basilicum,Citronellal,24,0.16250005,0.18371168455893291
+Ocimum basilicum,Citronellyl acetate,12,0.025000075,0.045226656459962856
+Ocimum basilicum,Elemol,24,0.0125000875,0.03378316245141258
+Ocimum basilicum,Estragole,5,53.04600000000001,17.790061270271107
+Ocimum basilicum,Ethyl isovalerate,1,1e-07,
+Ocimum basilicum,Eucalyptol,29,0.2775862379310345,0.3290424709249795
+Ocimum basilicum,Eugenol,5,0.05800006,0.08843071468671392
+Ocimum basilicum,Fenchone,1,1e-07,
+Ocimum basilicum,Furfural,1,1e-07,
+Ocimum basilicum,Geraniol,29,1.5627586689655173,2.297616582885565
+Ocimum basilicum,Geranyl acetate,27,0.1296296851851852,0.19178272034613647
+Ocimum basilicum,Geranyl formate,12,0.033333408333333335,0.06513385285610573
+Ocimum basilicum,Germacrene D-4-ol,26,0.08461545000000001,0.16659482178674162
+Ocimum basilicum,Germacrene a,1,1e-07,
+Ocimum basilicum,Hedycaryol,1,1e-07,
+Ocimum basilicum,Heptacosane,1,1e-07,
+Ocimum basilicum,Humulene,28,0.2992857214285714,0.25099694513202575
+Ocimum basilicum,Humulene epoxide II,27,0.12185185925925926,0.09829456489135195
+Ocimum basilicum,Hydroquinone,1,0.05,
+Ocimum basilicum,Isoeugenyl methyl ether,1,1e-07,
+Ocimum basilicum,Isophytol,1,0.05,
+Ocimum basilicum,"Limonene, (-)-",29,0.10517242413793104,0.0816622125473529
+Ocimum basilicum,"Linalool, (+/-)-",29,16.970344827586207,15.200638962782035
+Ocimum basilicum,Maalialcohol,1,1e-07,
+Ocimum basilicum,Menthyl chavicol,24,38.76250005,40.30454508676248
+Ocimum basilicum,Methyl cinnamate,3,0.06666673333333334,0.11546999610289824
+Ocimum basilicum,Methyleugenol,29,0.346551775862069,0.9881088382207466
+Ocimum basilicum,Methylisoeugenol,1,1e-07,
+Ocimum basilicum,Myrcene,29,0.18103449310344827,0.22536231597272888
+Ocimum basilicum,Myrtenol,25,0.05400006400000001,0.08154748800547078
+Ocimum basilicum,Myrtenyl acetate,1,1e-07,
+Ocimum basilicum,Neral,25,10.052000052,12.069214234753094
+Ocimum basilicum,Nerol,25,3.0120000520000003,3.5584780932818276
+Ocimum basilicum,Neryl acetate,24,0.19583338333333333,0.2773776944210212
+Ocimum basilicum,Octanal,1,1e-07,
+Ocimum basilicum,Phytol,1,1e-07,
+Ocimum basilicum,Sabinene,29,0.05172417586206896,0.05085472281425545
+Ocimum basilicum,Selin-11-en-4alpha-ol,1,1e-07,
+Ocimum basilicum,Spathulenol,28,0.15250003214285715,0.18576416007042082
+Ocimum basilicum,T-Muurolol,1,1e-07,
+Ocimum basilicum,Terpinolene,29,0.05517247586206896,0.11047364574387562
+Ocimum basilicum,Torreyol,28,0.15357150714285714,0.4176496042195702
+Ocimum basilicum,Tricyclene,1,1e-07,
+Ocimum basilicum,Verbenone,1,1e-07,
+Ocimum basilicum,Viridiflorol,1,1e-07,
+Ocimum basilicum,"alpha-Cadinene, (+)-",28,2.046428617857143,2.792514050738408
+Ocimum basilicum,alpha-Cadinol,28,0.1035714392857143,0.0622547915752279
+Ocimum basilicum,alpha-Copaene,28,0.1528571642857143,0.18570897634250655
+Ocimum basilicum,alpha-Cubebene,24,0.1562500125,0.15625542164507253
+Ocimum basilicum,alpha-Guaiene,3,0.4033333666666667,0.36198521102388054
+Ocimum basilicum,alpha-Gurjunene,13,0.011538546153846157,0.02995719916902601
+Ocimum basilicum,alpha-Methylcinnamaldehyde,1,3.2,
+Ocimum basilicum,alpha-Muurolene,17,0.05000007647058823,0.12747545597095117
+Ocimum basilicum,alpha-PHELLANDRENE,13,0.026923153846153847,0.059914431504989055
+Ocimum basilicum,alpha-PINENE,29,0.1500000103448276,0.13161088616502745
+Ocimum basilicum,alpha-Selinene,26,0.15192311153846155,0.18893422905258503
+Ocimum basilicum,alpha-Terpinene,2,1e-07,0.0
+Ocimum basilicum,beta-Bisabolene,13,0.16153851538461542,0.2142368246854045
+Ocimum basilicum,beta-Bourbonene,4,1e-07,0.0
+Ocimum basilicum,beta-CARYOPHYLLENE OXIDE,29,0.37482760689655176,0.5752491288916848
+Ocimum basilicum,"beta-CITRONELLOL, (+/-)-",12,0.12500005,0.16583119840258978
+Ocimum basilicum,beta-Cubebene,1,1e-07,
+Ocimum basilicum,beta-EUDESMOL,4,0.10750005,0.1273773357653158
+Ocimum basilicum,beta-Farnesene,28,0.25928572499999997,0.19884719228168113
+Ocimum basilicum,"beta-Farnesene, (6Z)-",26,0.0846154423076923,0.11896989535173398
+Ocimum basilicum,beta-Gurjunene,13,0.2192308,0.26734686150949416
+Ocimum basilicum,beta-Humulene,1,0.6,
+Ocimum basilicum,"beta-OCIMENE, (3E)-",29,0.2372414206896552,0.36479831712515126
+Ocimum basilicum,"beta-Ocimene, (3Z)-",2,0.1,0.0
+Ocimum basilicum,beta-Selinene,28,0.135000025,0.13273474118903636
+Ocimum basilicum,beta-Terpineol,1,1e-07,
+Ocimum basilicum,cis-3-Hexen-1-ol,1,0.1,
+Ocimum basilicum,cis-3-Hexenyl acetate,1,1e-07,
+Ocimum basilicum,"cis-Muurola-4(14),5-diene",3,0.0833334,0.1443375095623795
+Ocimum basilicum,delta-Guaiene,15,0.20466673333333332,0.4598425913909511
+Ocimum basilicum,epi-Cubenol,4,0.33250005,0.41883762446402784
+Ocimum basilicum,"gamma-BISABOLENE, (E)-",1,1e-07,
+Ocimum basilicum,"gamma-Bisabolene, (Z)-",3,0.3733334,0.646632243757354
+Ocimum basilicum,gamma-Cadinene,28,0.18428577857142855,0.44752343414152346
+Ocimum basilicum,gamma-EUDESMOL,1,1e-07,
+Ocimum basilicum,gamma-Muurolene,33,0.4818182212121212,0.6242267630928412
+Ocimum basilicum,gamma-Terpinene,28,0.17321434285714285,0.2678729770840172
+Ocimum basilicum,p-Anisaldehyde,24,0.0687500625,0.1325440523570177
+Ocimum basilicum,p-CYMENE,25,0.116000076,0.21733226858124077
+Ocimum basilicum,tau-Cadinol,28,0.6510714642857142,1.4743041868523512
+Ocimum basilicum,trans-3-Hexen-1-ol,24,0.018750079166666666,0.038483440114485595
+Ocimum basilicum,trans-3-Hexenyl acetate,24,0.025000075,0.0442325426138823
+Ocimum basilicum,trans-Nerolidol,4,0.117500025,0.10275371282830854
+Ocimum basilicum,trans-Sabinene hydrate,1,1e-07,
+Ocimum tenuiflorum,(+)-Epi-alpha-bisabolol,2,1e-07,0.0
+Ocimum tenuiflorum,(+)-delta-Cadinene,4,0.350000025,0.4509249494095469
+Ocimum tenuiflorum,(-)-7-Epi-alpha-selinene,2,0.050000050000000004,0.07071060740797663
+Ocimum tenuiflorum,(-)-Isolongifolene,1,1.3,
+Ocimum tenuiflorum,(-)-Isopulegol,3,1e-07,0.0
+Ocimum tenuiflorum,(-)-beta-Copaene,4,0.125,0.05
+Ocimum tenuiflorum,(-)-beta-Pinene,7,0.18571429999999997,0.2461609877798741
+Ocimum tenuiflorum,(-)-beta-Sesquiphellandrene,3,0.16666673333333334,0.28867507685978594
+Ocimum tenuiflorum,"(1R,5R)-2,6-dimethyl-6-(4-methylpent-3-enyl)bicyclo[3.1.1]hept-2-ene",5,1e-07,0.0
+Ocimum tenuiflorum,"(1S,2R,5R)-2-methyl-5-propan-2-ylbicyclo[3.1.0]hexan-2-ol",6,0.01666675,0.04082478822155726
+Ocimum tenuiflorum,"(1S,2S)-1-ethenyl-1-methyl-4-propan-2-ylidene-2-prop-1-en-2-ylcyclohexane",1,1e-07,
+Ocimum tenuiflorum,"(1S,2S,3R,4S,6R,7R,8S)-1,2-Dimethyl-8-propan-2-yltetracyclo[4.4.0.02,4.03,7]decane",2,1e-07,0.0
+Ocimum tenuiflorum,(E)-Myroxide,1,1e-07,
+Ocimum tenuiflorum,(E)-alpha-bergamotene,6,0.23333341666666665,0.5715475658245791
+Ocimum tenuiflorum,(E)-alpha-bisabolene,3,1e-07,0.0
+Ocimum tenuiflorum,"(R,R)-1-isopropyl-4-methyl-3-(prop-1-en-2-yl)-4-vinylcyclohexene",3,1e-07,0.0
+Ocimum tenuiflorum,"(S,1Z,6Z)-8-Isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene",7,0.985714342857143,1.726681337132015
+Ocimum tenuiflorum,"1,1,4,7-Tetramethyldecahydro-1H-cyclopropa[e]azulen-4-ol",2,1e-07,0.0
+Ocimum tenuiflorum,"1,10-Di-epcubenol",2,0.025000050000000003,0.03535526834864926
+Ocimum tenuiflorum,"1,7,7-Trimethylbicyclo[2.2.1]heptan-2-ol",7,0.6428571571428571,1.1872336703847477
+Ocimum tenuiflorum,1-Octen-3-OL,3,0.016666733333333336,0.02886745572445437
+Ocimum tenuiflorum,1-Tetradecanol,3,1e-07,0.0
+Ocimum tenuiflorum,10-epi-gamma-Eudesmol,3,0.10000000000000002,0.0
+Ocimum tenuiflorum,"2,6-Dimethyl-2,4,6-octatriene",2,1e-07,0.0
+Ocimum tenuiflorum,2-(4-Methylphenyl)propan-2-ol,2,1e-07,0.0
+Ocimum tenuiflorum,2-Hexenal,2,0.025000050000000003,0.03535526834864926
+Ocimum tenuiflorum,"2-Propenal, 2-methyl-3-phenyl-",2,1e-07,0.0
+Ocimum tenuiflorum,"2-[(2R,5S)-5-ethenyl-5-methyloxolan-2-yl]propan-2-ol",2,0.05,0.0
+Ocimum tenuiflorum,3-Octanol,2,0.025000050000000003,0.03535526834864926
+Ocimum tenuiflorum,3-Octanone,6,1e-07,0.0
+Ocimum tenuiflorum,4-Allylphenol,3,1e-07,0.0
+Ocimum tenuiflorum,"4-Terpineol, (+/-)-",6,0.02500005,0.027386073103002555
+Ocimum tenuiflorum,"6-Methyl-2-(4-methylcyclohex-3-en-1-yl)hepta-1,5-dien-4-ol",1,0.4,
+Ocimum tenuiflorum,Alpha-Terpineol,7,0.15000004285714286,0.33166245642219266
+Ocimum tenuiflorum,Anethole,2,1e-07,0.0
+Ocimum tenuiflorum,Aromadendrene,3,1e-07,0.0
+Ocimum tenuiflorum,Benzaldehyde,3,0.03333336666666667,0.028867455724454368
+Ocimum tenuiflorum,Benzyl Alcohol,2,0.025000050000000003,0.03535526834864926
+Ocimum tenuiflorum,Beta-Elemene,7,6.771428571428571,4.931096661566703
+Ocimum tenuiflorum,"Bicyclo[3.1.0]hex-2-ene, 2-methyl-5-(1-methylethyl)-",7,0.014285800000000001,0.03779640950447542
+Ocimum tenuiflorum,Bicyclogermacrene,2,1e-07,0.0
+Ocimum tenuiflorum,Bornyl acetate,2,1e-07,0.0
+Ocimum tenuiflorum,Camphene,7,0.21428574285714283,0.43657212898847103
+Ocimum tenuiflorum,"Camphenone, 6-",2,1e-07,0.0
+Ocimum tenuiflorum,Camphor,7,0.06428575714285714,0.07480128118334287
+Ocimum tenuiflorum,Caryophyllene,7,9.257142857142856,6.040655908883059
+Ocimum tenuiflorum,Citral,3,1e-07,0.0
+Ocimum tenuiflorum,Cubebol,1,1e-07,
+Ocimum tenuiflorum,Dehydrosabinaketone,1,1e-07,
+Ocimum tenuiflorum,Elemol,4,0.15,0.09999999999999999
+Ocimum tenuiflorum,Estragole,3,3.500000066666667,6.062177768756044
+Ocimum tenuiflorum,Ethyl isovalerate,4,0.47500007499999997,0.9499999499999999
+Ocimum tenuiflorum,Eucalyptol,7,1.55,3.8584323241440948
+Ocimum tenuiflorum,"Eudesma-4(15),7-dien-1-b-ol",1,1e-07,
+Ocimum tenuiflorum,Eugenol,7,47.642857142857146,28.580871058737703
+Ocimum tenuiflorum,Eugenol acetate,3,0.13333333333333333,0.05773502691896258
+Ocimum tenuiflorum,Fenchone,1,1e-07,
+Ocimum tenuiflorum,Fokienol,3,1e-07,0.0
+Ocimum tenuiflorum,Furfural,2,0.05,0.0
+Ocimum tenuiflorum,Geraniol,3,0.016666733333333336,0.02886745572445437
+Ocimum tenuiflorum,Germacrene D-4-ol,4,0.15000007499999998,0.29999995
+Ocimum tenuiflorum,Germacrene a,3,1.25,1.3425721582097554
+Ocimum tenuiflorum,Hedycaryol,2,0.15000000000000002,0.07071067811865477
+Ocimum tenuiflorum,Heptacosane,2,1e-07,0.0
+Ocimum tenuiflorum,Heptanal,1,1e-07,
+Ocimum tenuiflorum,Humulene,6,0.41666669999999995,0.5382068685304341
+Ocimum tenuiflorum,Humulene epoxide II,4,0.050000050000000004,0.057734969183935655
+Ocimum tenuiflorum,Hydroquinone,2,0.025000050000000003,0.03535526834864926
+Ocimum tenuiflorum,Isoborneol,1,1e-07,
+Ocimum tenuiflorum,Isoeugenyl methyl ether,2,1e-07,0.0
+Ocimum tenuiflorum,Isophytol,2,0.025000050000000003,0.03535526834864926
+Ocimum tenuiflorum,"Limonene, (-)-",7,0.1285714285714286,0.12198750911856666
+Ocimum tenuiflorum,"Linalool, (+/-)-",7,0.42857142857142855,0.7409774753982871
+Ocimum tenuiflorum,Linalyl acetate,1,1e-07,
+Ocimum tenuiflorum,Maalialcohol,3,1e-07,0.0
+Ocimum tenuiflorum,Menthyl chavicol,3,1e-07,0.0
+Ocimum tenuiflorum,Methyl cinnamate,3,0.8666666666666667,0.7505553499465136
+Ocimum tenuiflorum,Methyleugenol,7,9.914285728571429,19.21921160993913
+Ocimum tenuiflorum,Methylisoeugenol,2,1e-07,0.0
+Ocimum tenuiflorum,Myrcene,7,0.08571430000000001,0.06267829426069284
+Ocimum tenuiflorum,Myrtenal,1,0.05,
+Ocimum tenuiflorum,Myrtenol,5,0.06000004,0.05477220097826086
+Ocimum tenuiflorum,Myrtenyl acetate,3,1e-07,0.0
+Ocimum tenuiflorum,Neral,2,1e-07,0.0
+Ocimum tenuiflorum,Nerol,2,1e-07,0.0
+Ocimum tenuiflorum,Octanal,3,0.03333336666666667,0.02886745572445437
+Ocimum tenuiflorum,"Phenol, 2-methoxy-4-propyl-, acetate",3,0.2333333333333333,0.1527525231651947
+Ocimum tenuiflorum,Phytol,2,1e-07,0.0
+Ocimum tenuiflorum,Sabinene,7,0.035714328571428575,0.037796400055371875
+Ocimum tenuiflorum,Salvial-4(14)-en-1-one,1,1e-07,
+Ocimum tenuiflorum,Selin-11-en-4alpha-ol,2,0.35000004999999995,0.49497467611990514
+Ocimum tenuiflorum,Spathulenol,6,0.8000000333333332,0.9011103905737646
+Ocimum tenuiflorum,T-Muurolol,2,1e-07,0.0
+Ocimum tenuiflorum,Terpinolene,7,0.03571434285714286,0.04755943649795335
+Ocimum tenuiflorum,Torreyol,5,0.06000004,0.05477220097826086
+Ocimum tenuiflorum,Tricyclene,3,0.033333400000000006,0.057734969183935655
+Ocimum tenuiflorum,Verbenone,5,1e-07,0.0
+Ocimum tenuiflorum,Viridiflorol,2,1e-07,0.0
+Ocimum tenuiflorum,Ylangene,1,1e-07,
+Ocimum tenuiflorum,allo-Aromadendrene epoxide,1,1e-07,
+Ocimum tenuiflorum,"alpha-Cadinene, (+)-",5,0.10000004,0.0999999500000025
+Ocimum tenuiflorum,alpha-Cadinol,6,0.08333338333333334,0.09831915717025684
+Ocimum tenuiflorum,alpha-Copaene,6,0.4833334166666667,1.1839200015203737
+Ocimum tenuiflorum,alpha-Cubebene,4,0.1,0.0
+Ocimum tenuiflorum,alpha-Gurjunene,3,1e-07,0.0
+Ocimum tenuiflorum,alpha-Methylcinnamaldehyde,2,0.050000050000000004,0.07071060740797663
+Ocimum tenuiflorum,alpha-Muurolene,6,0.05000005,0.05477220097826086
+Ocimum tenuiflorum,alpha-PHELLANDRENE,6,0.008333416666666668,0.020412373698364107
+Ocimum tenuiflorum,alpha-PINENE,7,0.24285714285714285,0.34451484175645636
+Ocimum tenuiflorum,alpha-Selinene,7,0.3428571571428572,0.2878491469999049
+Ocimum tenuiflorum,alpha-Terpinene,4,0.03750005000000001,0.047871303164526445
+Ocimum tenuiflorum,beta-Bisabolene,4,4.025000075,8.04999995
+Ocimum tenuiflorum,beta-Bourbonene,6,0.2166667,0.23166063397421668
+Ocimum tenuiflorum,beta-CARYOPHYLLENE OXIDE,7,1.2857143,2.7522285264680986
+Ocimum tenuiflorum,beta-Copaen-4-alpha-ol,1,1e-07,
+Ocimum tenuiflorum,beta-Cubebene,2,1e-07,0.0
+Ocimum tenuiflorum,beta-EUDESMOL,2,0.05,0.0
+Ocimum tenuiflorum,beta-Farnesene,6,0.16666668333333334,0.18348476776016495
+Ocimum tenuiflorum,"beta-Farnesene, (6Z)-",4,0.10000005000000001,0.14142130909686135
+Ocimum tenuiflorum,beta-Gurjunene,3,1e-07,0.0
+Ocimum tenuiflorum,beta-Humulene,1,14.0,
+Ocimum tenuiflorum,"beta-OCIMENE, (3E)-",7,2.0314285857142855,2.4227217926676334
+Ocimum tenuiflorum,"beta-Ocimene, (3Z)-",7,1.1928571714285714,3.002003286140773
+Ocimum tenuiflorum,beta-Selinene,6,1.4333333333333333,1.4417581859197701
+Ocimum tenuiflorum,beta-Terpineol,2,0.025000050000000003,0.03535526834864926
+Ocimum tenuiflorum,beta-Thujone,1,1e-07,
+Ocimum tenuiflorum,beta-Vetivenene,1,0.6,
+Ocimum tenuiflorum,cis-3-Hexen-1-ol,2,0.05,0.0
+Ocimum tenuiflorum,cis-3-Hexenyl acetate,2,0.05,0.0
+Ocimum tenuiflorum,cis-4-Hexen-1-ol,1,0.05,
+Ocimum tenuiflorum,epi-Cubenol,2,1e-07,0.0
+Ocimum tenuiflorum,"gamma-BISABOLENE, (E)-",2,0.07500000000000001,0.035355339059327376
+Ocimum tenuiflorum,gamma-Cadinene,6,1.5500000333333332,1.6294170356296152
+Ocimum tenuiflorum,gamma-EUDESMOL,2,0.050000050000000004,0.07071060740797663
+Ocimum tenuiflorum,gamma-Muurolene,6,0.10000006666666666,0.19999996000000267
+Ocimum tenuiflorum,gamma-Terpinene,6,0.008333416666666668,0.020412373698364107
+Ocimum tenuiflorum,neo-Thujan-3-ol,1,1e-07,
+Ocimum tenuiflorum,p-CYMENE,6,0.050000083333333334,0.12247444631432985
+Ocimum tenuiflorum,tau-Cadinol,6,0.10833333333333334,0.049159604012508754
+Ocimum tenuiflorum,"trans-1(7),8-p-Menthadien-2-ol",1,1e-07,
+Ocimum tenuiflorum,trans-3-Hexenyl acetate,1,1e-07,
+Ocimum tenuiflorum,"trans-Cadina-1,4-diene",1,0.2,
+Ocimum tenuiflorum,trans-Nerolidol,6,0.05000005,0.05477220097826086
+Ocimum tenuiflorum,trans-Sabinene hydrate,3,0.033333400000000006,0.057734969183935655
+Origanum majorana,(-)-beta-Pinene,13,0.09538461538461539,0.03478873970491616
+Origanum majorana,"(1S,2R,5R)-2-methyl-5-propan-2-ylbicyclo[3.1.0]hexan-2-ol",13,36.78076923076923,6.643701856568698
+Origanum majorana,(Z)-p-Menth-2-en-1-ol,13,0.7284615384615385,0.30350305198482364
+Origanum majorana,"2-Cyclohexen-1-ol, 3-methyl-6-(1-methylethyl)-, (1R,6S)-rel-",13,0.36153846153846153,0.27981678987765524
+Origanum majorana,"3-Cyclohexen-1-ol, 4-methyl-1-(1-methylethyl)-, acetate",13,0.04000003076923077,0.033664976855316185
+Origanum majorana,"4-Terpineol, (+/-)-",13,14.815384615384614,3.687516362414806
+Origanum majorana,Alpha-Terpineol,13,3.707692307692308,0.2197405229717482
+Origanum majorana,Camphor,13,1.036923076923077,0.7221424676542321
+Origanum majorana,Caryophyllene,13,1.886153846153846,0.5818295635541744
+Origanum majorana,Eucalyptol,13,0.4876923076923077,0.2688603679159452
+Origanum majorana,Geraniol,13,0.21000000769230767,0.30643106320998326
+Origanum majorana,Geranyl acetate,13,0.2,0.15989579940281942
+Origanum majorana,"Limonene, (-)-",13,1.2992307692307692,0.18222977887187458
+Origanum majorana,Linalyl acetate,13,0.9876923076923076,0.22346341408807266
+Origanum majorana,Myrcene,13,1.9315384615384614,0.30759405482567853
+Origanum majorana,Sabinene,13,7.0307692307692315,1.126221274428058
+Origanum majorana,Terpinolene,13,2.1553846153846155,1.1703746934537345
+Origanum majorana,alpha-PINENE,13,1.4438461538461538,0.3331300662288545
+Origanum majorana,alpha-Terpinene,13,5.006923076923077,1.3603760792233441
+Origanum majorana,beta-CARYOPHYLLENE OXIDE,13,0.2623077,0.2732567042131568
+Origanum majorana,"beta-Ocimene, (3Z)-",13,0.04692309230769231,0.026578350067472258
+Origanum majorana,beta-Terpineol,13,0.06846154615384616,0.04431818388740329
+Origanum majorana,gamma-Terpinene,13,8.331538461538461,2.0238982441229854
+Origanum majorana,p-CYMENE,13,0.9038461538461539,0.3452182512927742
+Origanum majorana,trans-Piperitol,13,0.2223076923076923,0.08084489740173734
+Origanum majorana,trans-Sabinene hydrate,13,6.5600000000000005,0.726016528737466
+Origanum majorana,trans-Sabinyl acetate,13,0.2030769230769231,0.06196566460342041
+Origanum vulgare,(+)-3-Carene,10,0.15000007,0.2718250642519153
+Origanum vulgare,(+)-delta-Cadinene,10,0.94000003,1.2677188365108594
+Origanum vulgare,(-)-beta-Pinene,10,0.18000005000000002,0.22010094148923404
+Origanum vulgare,"(1S,2R,5R)-2-methyl-5-propan-2-ylbicyclo[3.1.0]hexan-2-ol",10,0.5200000800000001,1.5418603182159178
+Origanum vulgare,"(S,1Z,6Z)-8-Isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene",10,0.33000006000000004,0.6325433322003431
+Origanum vulgare,"1,7,7-Trimethylbicyclo[2.2.1]heptan-2-ol",10,0.9400000399999999,1.5847887783550219
+Origanum vulgare,1-endo-Bourbonanol,10,0.06000008999999999,0.18973662798732616
+Origanum vulgare,2-Isopropyl-5-methylanisole,10,0.83000002,0.8124721990457421
+Origanum vulgare,3-Octanol,10,0.11000006,0.16633295524339928
+Origanum vulgare,3-Octanone,10,0.48000002,0.7612854485816893
+Origanum vulgare,"4-Terpineol, (+/-)-",10,0.7700000100000001,0.6532822978365996
+Origanum vulgare,Alpha-Terpineol,10,0.68000003,1.0643725116497316
+Origanum vulgare,Beta-Elemene,10,0.05000008,0.10801230382590474
+Origanum vulgare,"Bicyclo[3.1.0]hex-2-ene, 2-methyl-5-(1-methylethyl)-",10,0.16000003000000002,0.19550501670176623
+Origanum vulgare,Bornyl acetate,10,0.14000008,0.3098386275323219
+Origanum vulgare,Camphene,10,0.55000006,1.1037813461007586
+Origanum vulgare,Carvacrol,10,10.61000002,19.896814361868753
+Origanum vulgare,Carvacrol methyl ether,10,0.59000006,0.9882082153518517
+Origanum vulgare,Caryophyllene,10,3.6100000000000003,4.121609717897447
+Origanum vulgare,Eucalyptol,10,0.59000001,0.6454111421756255
+Origanum vulgare,Germacrene D-4-ol,10,2.84000001,2.5255142365686862
+Origanum vulgare,Guaiol,10,0.25000006999999996,0.5930148630327743
+Origanum vulgare,Humulene,10,0.32000005,0.5846176034145951
+Origanum vulgare,Humulene epoxide II,10,0.19000009,0.6008327238092155
+Origanum vulgare,"Linalool, (+/-)-",10,1.46000002,1.689312793087441
+Origanum vulgare,Myrcene,10,0.7,0.8232726023485645
+Origanum vulgare,Sabinene,10,0.06000007,0.10749672656515898
+Origanum vulgare,Spathulenol,10,0.57000005,0.7674633129125258
+Origanum vulgare,Thymol,10,49.79,25.049482141464633
+Origanum vulgare,"alpha-Cadinene, (+)-",10,0.59000007,1.0137389086391482
+Origanum vulgare,alpha-Cadinol,10,3.5200000099999995,5.147556046815917
+Origanum vulgare,alpha-Copaene,10,0.64000003,1.0090699577113362
+Origanum vulgare,alpha-Muurolene,10,0.20000005999999998,0.3431876325148005
+Origanum vulgare,alpha-PINENE,10,0.30000001000000004,0.31622775547591386
+Origanum vulgare,beta-Bisabolene,10,0.35000004,0.4403281251269109
+Origanum vulgare,beta-Bourbonene,10,0.70000001,0.8666666576923083
+Origanum vulgare,beta-CARYOPHYLLENE OXIDE,10,5.75000001,7.080685770695754
+Origanum vulgare,beta-Gurjunene,10,0.17000005,0.22135939354613773
+Origanum vulgare,"beta-OCIMENE, (3E)-",10,0.24000004000000003,0.31340421325963624
+Origanum vulgare,"beta-Ocimene, (3Z)-",10,0.17000007,0.38311584583952624
+Origanum vulgare,gamma-Cadinene,10,0.40000002000000007,0.48074015157186023
+Origanum vulgare,gamma-EUDESMOL,10,1.7900000500000002,2.636264154063474
+Origanum vulgare,gamma-Muurolene,10,0.16000005,0.18973661276154635
+Origanum vulgare,gamma-Terpinene,10,0.9300000300000001,1.4071641869771676
+Origanum vulgare,p-CYMENE,10,2.9899999999999998,2.674343117685371
+Origanum vulgare,viridiﬂorol,10,0.35000008,1.0058163870431056
+Pelargonium graveolens,"(+)-Guaia-6,9-diene",15,0.15333339333333335,0.23258378787214504
+Pelargonium graveolens,(+)-delta-Cadinene,5,1.1199999999999999,0.21679483388678794
+Pelargonium graveolens,(-)-beta-Pinene,5,0.02000006,0.027386073103002555
+Pelargonium graveolens,"(2S,4R)-4-methyl-2-(2-methylprop-1-en-1-yl)tetrahydro-2H-pyran",20,1.175,0.6796864602230402
+Pelargonium graveolens,10-epi-gamma-Eudesmol,20,4.425000004999999,2.7330097070234145
+Pelargonium graveolens,"2-Furanmethanol, 5-ethenyltetrahydro-alpha,alpha,5-trimethyl-, (2R,5R)-rel-",20,0.64250001,0.6393407271721813
+Pelargonium graveolens,"2-[(2R,5S)-5-ethenyl-5-methyloxolan-2-yl]propan-2-ol",20,0.25250003,0.3147576090798861
+Pelargonium graveolens,"6,9-Guaiadiene",5,0.13,0.11510864433221338
+Pelargonium graveolens,Alpha-Terpineol,5,0.04000004,0.041832953517567946
+Pelargonium graveolens,Caryophyllene,20,0.50500002,0.44894611070349094
+Pelargonium graveolens,Citral,20,1.51,0.4843878393884063
+Pelargonium graveolens,Citronellyl acetate,20,1.345000005,0.4957450390441064
+Pelargonium graveolens,Citronellyl butyrate,20,0.695000005,0.27810447308047553
+Pelargonium graveolens,Citronellyl formate,20,5.25,2.8742962525405105
+Pelargonium graveolens,Eucalyptol,20,0.152500035,0.19363215078026652
+Pelargonium graveolens,Geraniol,20,19.18,11.931365122407849
+Pelargonium graveolens,Geranyl acetate,20,0.452500025,0.38575793797474645
+Pelargonium graveolens,Geranyl butyrate,20,0.35250002999999996,0.36543950302125694
+Pelargonium graveolens,Geranyl formate,20,3.515000025,2.1352369088944827
+Pelargonium graveolens,Geranyl propionate,5,0.06000000000000001,0.022360679774997897
+Pelargonium graveolens,Geranyl tiglate,15,1.63333334,0.9976161946884996
+Pelargonium graveolens,"Limonene, (-)-",20,0.24000000500000002,0.23147126137407592
+Pelargonium graveolens,"Linalool, (+/-)-",20,3.54,2.5140447594725868
+Pelargonium graveolens,Menthone,35,4.002857148571429,4.25254149851651
+Pelargonium graveolens,Myrcene,20,0.24500000000000002,0.18488972531299783
+Pelargonium graveolens,Neral,20,1.2350000250000002,1.034802263465676
+Pelargonium graveolens,Nerol,20,0.770000005,0.43540663667789725
+Pelargonium graveolens,Phenethyl butyrate,15,0.2466667,0.2587515474994028
+Pelargonium graveolens,Phenethyl tiglate,20,1.085,0.30135658193191034
+Pelargonium graveolens,Sabinene,5,0.02000006,0.027386073103002555
+Pelargonium graveolens,Terpinolene,5,0.06000004,0.0821583471109479
+Pelargonium graveolens,alpha-PINENE,20,0.7200000049999999,0.336545911155952
+Pelargonium graveolens,beta-Bourbonene,5,1.02,0.2588435821108957
+Pelargonium graveolens,beta-CARYOPHYLLENE OXIDE,5,0.30999999999999994,0.1949358868961793
+Pelargonium graveolens,"beta-CITRONELLOL, (+/-)-",20,30.955000000000002,17.0200647843408
+Pelargonium graveolens,"beta-OCIMENE, (3E)-",20,0.34750003500000004,0.47834003064875835
+Pelargonium graveolens,"beta-Ocimene, (3Z)-",20,0.20750003,0.20918070140934958
+Pelargonium graveolens,p-CYMENE,20,0.10000006000000002,0.18209305891567004
+Pelargonium graveolens,trans-Rose oxide,20,0.387500015,0.3583129158401858
+Piper nigrum,(+)-3-Carene,43,5.774418609302326,6.914997259503208
+Piper nigrum,(+)-delta-Cadinene,43,0.18372096279069766,0.3709256162354196
+Piper nigrum,(-)-Dihydrocarveol,43,0.04186052325581396,0.049916824506104705
+Piper nigrum,(-)-beta-Pinene,43,7.925581404651163,4.372157182849139
+Piper nigrum,(-)-cis-Carveol,32,0.056250053125000005,0.07156089415723657
+Piper nigrum,(-)-trans-Carveol,43,0.05116283953488373,0.05057800330783343
+Piper nigrum,(E)-alpha-bergamotene,43,0.1372093534883721,0.316245252648661
+Piper nigrum,(E)-alpha-bisabolene,43,1.7325581511627908,1.3973990880347358
+Piper nigrum,(Z)-p-Menth-2-en-1-ol,43,0.05116285813953488,0.09095283494116013
+Piper nigrum,"1,7,7-Trimethylbicyclo[2.2.1]heptan-2-ol",43,0.048837265116279074,0.05924959836042646
+Piper nigrum,"2-Cyclohexen-1-ol, 1-methyl-4-(1-methylethyl)-, trans-",43,0.055814,0.05478231561462148
+Piper nigrum,"2-Furanmethanol, 5-ethenyltetrahydro-alpha,alpha,5-trimethyl-, (2R,5R)-rel-",43,0.4558139534883721,0.31343133643241117
+Piper nigrum,"4-Terpineol, (+/-)-",43,0.22790700465116281,0.23024371564405183
+Piper nigrum,"7-Oxabicyclo[4.1.0]heptan-2-one, 1-methyl-4-(1-methylethenyl)-, (1R,4R,6R)-",43,0.05581400930232558,0.07958915990453969
+Piper nigrum,Alpha-Terpineol,43,0.15116281162790698,0.1032151691938651
+Piper nigrum,Beta-Elemene,43,0.20697677209302326,0.4283941909703549
+Piper nigrum,"Bicyclo[3.1.0]hex-2-ene, 2-methyl-5-(1-methylethyl)-",43,0.8395348883720931,0.8162456207402468
+Piper nigrum,Camphene,43,0.1674418627906977,0.11280182487155246
+Piper nigrum,Caryolan-8-ol,43,0.1883721093023256,0.22489075563750613
+Piper nigrum,Caryophyllene,43,26.76279069767442,9.923709542010846
+Piper nigrum,Cedrol,43,0.36604651627906976,0.7478545147629883
+Piper nigrum,Citronellal,43,0.07674422558139535,0.12312826501509773
+Piper nigrum,Cuparene,43,0.7069767511627907,1.0673499287014563
+Piper nigrum,Dihydrocarveol,43,0.05348844186046512,0.109867498471471
+Piper nigrum,Elemol,43,1.523255830232558,2.4750985649132113
+Piper nigrum,Geranyl acetate,43,0.06511632093023256,0.06504104641469019
+Piper nigrum,Humulene,43,0.3395349093023256,0.4889928899740615
+Piper nigrum,"Limonene, (-)-",43,16.695348837209302,4.152965291059945
+Piper nigrum,"Linalool, (+/-)-",43,0.44651163023255813,0.2954809096598665
+Piper nigrum,Myrcene,43,2.665116311627907,3.7682813657342495
+Piper nigrum,Myrtenol,32,0.05000005625,0.06221705502100217
+Piper nigrum,Neryl acetate,43,0.11860466046511628,0.06270038053087283
+Piper nigrum,Piperitone,43,0.06046515813953489,0.05407016605435339
+Piper nigrum,Sabinene,43,8.40465116511628,7.371145591791899
+Piper nigrum,Terpinolene,43,0.11162792093023258,0.06622219318652262
+Piper nigrum,Zizanene,43,1.546511630232558,0.5917483465059025
+Piper nigrum,alpha-Cadinol,43,0.541860465116279,0.7092022876643519
+Piper nigrum,alpha-Copaene,43,0.7720930325581395,0.5645586352404731
+Piper nigrum,alpha-Cubebene,43,1.5395348837209304,1.7850089415387256
+Piper nigrum,alpha-Guaiene,43,0.3604651604651163,0.7562877590401541
+Piper nigrum,alpha-PHELLANDRENE,43,1.900000004651163,2.3001035134056367
+Piper nigrum,alpha-PINENE,43,4.988372093023256,2.4619203985357587
+Piper nigrum,alpha-Selinene,43,0.4744186069767442,0.7730868917194202
+Piper nigrum,alpha-Terpinyl acetate,43,0.44418604651162796,0.40017991524134394
+Piper nigrum,beta-CARYOPHYLLENE OXIDE,43,1.416279069767442,1.254312604872474
+Piper nigrum,beta-Farnesene,43,0.18372097906976748,0.49277165289177327
+Piper nigrum,beta-Guaiene,43,0.4976744581395349,0.9538114737071564
+Piper nigrum,"beta-OCIMENE, (3E)-",43,0.4465116511627907,1.8099393297590503
+Piper nigrum,beta-Selinene,43,0.2000000023255814,0.17861903860557862
+Piper nigrum,cis-p-Menth-8-en-2-ol,43,0.060465167441860465,0.07283223246874489
+Piper nigrum,gamma-Muurolene,43,1.7395348860465119,1.561613865675716
+Piper nigrum,gamma-Terpinene,43,0.1813953558139535,0.11181576793063991
+Piper nigrum,p-CYMENE,43,0.7558139651162791,1.1326963800702035
+Piper nigrum,tau-Cadinol,43,0.40953488837209306,0.734039549568013
+Piper nigrum,trans-Nerolidol,43,0.1883721046511628,0.2129266505798014
+Pogostemon cablin,(+)-Norpatchoulenol,8,1.15,0.4472135954999579
+Pogostemon cablin,(+)-delta-Cadinene,1,0.1,
+Pogostemon cablin,(-)-7-Epi-alpha-selinene,6,0.15,0.05477225575051661
+Pogostemon cablin,(-)-Alloaromadendrene,5,0.72,0.3114482300479488
+Pogostemon cablin,(-)-beta-Pinene,4,0.17500005000000002,0.2061552246892375
+Pogostemon cablin,"(1R,7S,10R)-4,10,11,11-tetramethyltricyclo[5.3.1.01,5]undec-4-en-3-one",5,0.04000004,0.041832953517567946
+Pogostemon cablin,"(1aR,4R,7R,7bS)-1,1,4,7-Tetramethyl-1a,2,3,4,5,6,7,7b-octahydro-1H-cyclopropa[e]azulene",1,1e-07,
+Pogostemon cablin,"(2R,6R)-2,6,9,9-Tetramethyltricyclo[5.4.0.03,8]undecan-6-ol",1,1e-07,
+Pogostemon cablin,"(2Z,6E)-Farnesol",5,0.14,0.05477225575051662
+Pogostemon cablin,(E)-2-epi-beta-caryophyllene,5,0.5,0.1732050807568877
+Pogostemon cablin,"(R,R)-1-isopropyl-4-methyl-3-(prop-1-en-2-yl)-4-vinylcyclohexene",6,0.07500005,0.11726035561946331
+Pogostemon cablin,"(S,1Z,6Z)-8-Isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene",7,0.10714287142857144,0.07319248107364386
+Pogostemon cablin,"1,4-Dimethyl-7-(1-methylethenyl)-octahydroazulene",6,0.24166666666666667,0.10206207261596575
+Pogostemon cablin,"1,7,7-Trimethylbicyclo[2.2.1]heptan-2-ol",1,1e-07,
+Pogostemon cablin,1-Octen-3-OL,6,0.15,0.1341640786499874
+Pogostemon cablin,2-Isopropyl-5-methylanisole,1,1e-07,
+Pogostemon cablin,3-Methylpentanoic acid,1,1e-07,
+Pogostemon cablin,"6-Methyl-2-(4-methylcyclohex-3-en-1-yl)hepta-1,5-dien-4-ol",5,0.08,0.027386127875258303
+Pogostemon cablin,8-acetoxy patchouli alcohol,1,1e-07,
+Pogostemon cablin,Aciphyllene,5,1e-07,0.0
+Pogostemon cablin,Alpha-Terpineol,1,1e-07,
+Pogostemon cablin,Benzaldehyde,5,0.06000000000000001,0.0223606797749979
+Pogostemon cablin,Beta-Elemene,8,0.7625000000000001,0.3248626083219094
+Pogostemon cablin,Beta-Phellandrene,1,1e-07,
+Pogostemon cablin,Bornyl acetate,1,1e-07,
+Pogostemon cablin,Bulnesol,1,0.1,
+Pogostemon cablin,"Cadina-1,4-diene",1,1e-07,
+Pogostemon cablin,Calamenene,1,1e-07,
+Pogostemon cablin,Carvacrol methyl ether,1,1e-07,
+Pogostemon cablin,Caryophyllene,9,3.7222222222222223,2.219108930279098
+Pogostemon cablin,Cycloseychellene,7,0.37142857142857144,0.11126972805283737
+Pogostemon cablin,Dhelwangin,6,0.2333333333333333,0.3803507153492243
+Pogostemon cablin,Elemol,5,0.09,0.022360679774997894
+Pogostemon cablin,Eugenol,1,1e-07,
+Pogostemon cablin,Farnesal,5,0.38,0.10954451150103321
+Pogostemon cablin,Guaiol,1,1e-07,
+Pogostemon cablin,Humulene,8,0.7375000125,0.5370221932764322
+Pogostemon cablin,Isovaleric acid,1,1e-07,
+Pogostemon cablin,Kessane,1,1e-07,
+Pogostemon cablin,"Limonene, (-)-",7,0.03571431428571429,0.02439745302870968
+Pogostemon cablin,"Linalool, (+/-)-",5,0.05,0.0
+Pogostemon cablin,Maalialcohol,1,1e-07,
+Pogostemon cablin,Myrcene,1,1e-07,
+Pogostemon cablin,Patchouli alcohol,9,45.28888888888889,13.936413136496462
+Pogostemon cablin,Pogostol,8,2.575,2.0246692851638053
+Pogostemon cablin,Sabinene,1,1e-07,
+Pogostemon cablin,Seychellene,9,4.177777788888888,2.4948836325568373
+Pogostemon cablin,Thujopsene,1,1e-07,
+Pogostemon cablin,Valencene,1,0.3,
+Pogostemon cablin,Viridiflorene,1,1e-07,
+Pogostemon cablin,Xanthorrhizol,1,1e-07,
+Pogostemon cablin,Z-beta-Guaiene,1,1e-07,
+Pogostemon cablin,"alpha-Cadinene, (+)-",1,1e-07,
+Pogostemon cablin,alpha-Copaene,3,0.05000003333333333,0.049999950000008335
+Pogostemon cablin,alpha-Guaiene,9,7.7888889,4.594682896173455
+Pogostemon cablin,alpha-PINENE,8,0.050000050000000004,0.07071063771256163
+Pogostemon cablin,alpha-Patchoulene,8,1.9000000125,1.1928357341107072
+Pogostemon cablin,alpha-Santalene,1,1e-07,
+Pogostemon cablin,alpha-Selinene,1,1e-07,
+Pogostemon cablin,beta-CARYOPHYLLENE OXIDE,7,0.39999999999999997,0.1414213562373095
+Pogostemon cablin,beta-Longipinene,1,1e-07,
+Pogostemon cablin,beta-Patchoulene,9,1.8777777777777775,1.4042593935752912
+Pogostemon cablin,beta-Selinene,6,0.9,1.473770674155243
+Pogostemon cablin,cis-Thujopsadiene,1,0.3,
+Pogostemon cablin,delta-Guaiene,8,12.0875,3.654522638359997
+Pogostemon cablin,gamma-Muurolene,1,0.2,
+Pogostemon cablin,gamma-Patchoulene,6,0.21666675000000002,0.5307227367781929
+Pogostemon cablin,gamma-Terpinene,1,1e-07,
+Pogostemon cablin,p-CYMENE,1,1e-07,
+Pogostemon cablin,viridiﬂorol,1,1e-07,
+Pogostemon cablin,α-guaiene oxide,1,0.3,
+Rosmarinus officinalis,(-)-beta-Pinene,6,2.8333333333333335,0.2804757862395017
+Rosmarinus officinalis,"1,7,7-Trimethylbicyclo[2.2.1]heptan-2-ol",6,2.033333333333333,0.307679486912382
+Rosmarinus officinalis,"4-Terpineol, (+/-)-",6,0.9666666666666667,0.2804757862395017
+Rosmarinus officinalis,Alpha-Terpineol,6,2.3333333333333335,0.3829708431025351
+Rosmarinus officinalis,"Bicyclo[3.1.0]hex-2-ene, 2-methyl-5-(1-methylethyl)-",6,0.16666666666666666,0.12110601416389967
+Rosmarinus officinalis,Bornyl acetate,6,2.1166666666666667,0.8518607084885805
+Rosmarinus officinalis,Camphene,6,5.3999999999999995,1.2457929201917948
+Rosmarinus officinalis,Camphor,6,27.766666666666666,4.119061381755152
+Rosmarinus officinalis,Caryophyllene,6,0.5833333333333334,0.2639444385977221
+Rosmarinus officinalis,Chrysanthenone,6,0.6166666666666666,0.21369760566432808
+Rosmarinus officinalis,Eucalyptol,6,22.03333333333333,1.3441230102437298
+Rosmarinus officinalis,Eugenol,6,0.08333333333333333,0.025819888974716116
+Rosmarinus officinalis,Humulene,6,0.5333333333333333,0.23380903889000246
+Rosmarinus officinalis,"Limonene, (-)-",6,2.5,0.18973665961010278
+Rosmarinus officinalis,"Linalool, (+/-)-",6,1.2833333333333334,0.3970726214015097
+Rosmarinus officinalis,Myrcene,6,1.0666666666666667,0.2250925735484551
+Rosmarinus officinalis,Myrtenol,6,0.18333333333333335,0.0752772652709081
+Rosmarinus officinalis,Terpinolene,6,0.7333333333333334,0.1861898672502525
+Rosmarinus officinalis,Verbenone,6,8.700000000000001,1.1224972160321818
+Rosmarinus officinalis,"alpha,alpha-Dimethyl-4-methylenecyclohexanemethanol",6,0.21666666666666667,0.04082482904638629
+Rosmarinus officinalis,alpha-Copaene,6,0.05000001666666667,0.03162274497891773
+Rosmarinus officinalis,alpha-PHELLANDRENE,6,1.4166666666666667,0.4490731195102492
+Rosmarinus officinalis,alpha-PINENE,6,10.933333333333332,2.9473151624260794
+Rosmarinus officinalis,alpha-Terpinene,6,0.5,0.24494897427831783
+Rosmarinus officinalis,beta-CARYOPHYLLENE OXIDE,6,0.15,0.05477225575051661
+Rosmarinus officinalis,"beta-CITRONELLOL, (+/-)-",6,0.35000000000000003,0.08366600265340757
+Rosmarinus officinalis,"beta-OCIMENE, (3E)-",6,0.7666666666666666,0.25819888974716115
+Rosmarinus officinalis,gamma-Cadinene,6,0.15,0.08366600265340754
+Rosmarinus officinalis,gamma-Terpinene,6,0.4166666666666667,0.4070217029430577
+Rosmarinus officinalis,p-CYMENE,6,0.525,0.309434968935316
+Salvia officinalis,(+)-delta-Cadinene,12,0.11000007499999999,0.22098946951464832
+Salvia officinalis,(-)-beta-Pinene,12,6.323333333333333,9.311679209303211
+Salvia officinalis,"(1S,2R,5R)-2-methyl-5-propan-2-ylbicyclo[3.1.0]hexan-2-ol",12,0.1758333333333333,0.05053501636279421
+Salvia officinalis,"(S,1Z,6Z)-8-Isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene",12,0.056666741666666666,0.1306858010881926
+Salvia officinalis,"1,7,7-Trimethylbicyclo[2.2.1]heptan-2-ol",12,6.109166666666667,5.449014019790993
+Salvia officinalis,"4-Terpineol, (+/-)-",12,0.245,0.09904085474737641
+Salvia officinalis,"Bicyclo[3.1.0]hex-2-ene, 2-methyl-5-(1-methylethyl)-",12,0.29666669166666665,0.22096204706335043
+Salvia officinalis,Bornyl acetate,12,0.8866666833333333,0.806003965250793
+Salvia officinalis,Camphene,12,3.8641666666666663,1.6668394607396322
+Salvia officinalis,Camphor,12,20.349166666666665,11.78332910076646
+Salvia officinalis,Cedrol formate,12,0.8708333916666667,1.3155120139564058
+Salvia officinalis,Eucalyptol,12,2.9791666666666665,2.5119874722231517
+Salvia officinalis,Humulene,12,4.654166666666667,3.817408588733113
+Salvia officinalis,Humulene epoxide,12,0.31333335,0.31543138446107705
+Salvia officinalis,Isocaryophyllene,12,4.8500000000000005,4.321664241722374
+Salvia officinalis,"Limonene, (-)-",12,1.2,0.45101904817666166
+Salvia officinalis,"Linalool, (+/-)-",12,0.2625000416666667,0.2383703645208876
+Salvia officinalis,Myrtenol,12,0.2775,0.20933335745994844
+Salvia officinalis,Sabinene,12,0.5733333333333334,0.20711583642244666
+Salvia officinalis,Terpinolene,12,0.24416666666666667,0.15424056377993278
+Salvia officinalis,Thujone,12,30.814166666666665,8.437472109942682
+Salvia officinalis,Thunbergene,12,0.20250001666666664,0.25627132620791804
+Salvia officinalis,Viridiflorol,12,0.6483333833333333,0.7543067792029434
+Salvia officinalis,alpha-Copaene,12,0.04166673333333334,0.0818905033899351
+Salvia officinalis,alpha-Cubebene,12,0.029166733333333333,0.057438995306504155
+Salvia officinalis,alpha-PINENE,12,5.361666666666667,1.5997831292416045
+Salvia officinalis,alpha-Terpinene,12,0.03833341666666667,0.09043661265821727
+Salvia officinalis,beta-Bourbonene,12,0.02166673333333333,0.04365841791164539
+Salvia officinalis,beta-CARYOPHYLLENE OXIDE,12,0.4216666916666667,0.37966090296793303
+Salvia officinalis,beta-Cubebene,12,0.008333416666666668,0.019924060374825633
+Salvia officinalis,beta-Thujone,12,3.48,0.8594607188654564
+Salvia officinalis,cis-2-Methyl-3-methylenehept-5-ene,12,0.6800000083333333,0.5151698628960787
+Salvia officinalis,cis-Sabinyl acetate,12,0.04000008333333333,0.09807229244519607
+Salvia officinalis,gamma-Terpinene,12,0.31916669166666667,0.22281086050865676
+Salvia officinalis,p-CYMENE,12,0.7100000083333334,0.3738983646539657
+Salvia officinalis,α-santolina-alcohol,12,0.082500075,0.15184467287929543
+Santalum album,(+)-Epi-alpha-bisabolol,1,0.2,
+Santalum album,(-)-beta-Curcumene,1,0.2,
+Santalum album,"(1R,5R)-2,6-dimethyl-6-(4-methylpent-3-enyl)bicyclo[3.1.1]hept-2-ene",2,0.10500000000000001,0.13435028842544405
+Santalum album,"(1S,5S)-1,8-dimethyl-4-propan-2-ylidenespiro[4.5]dec-8-ene",1,0.01,
+Santalum album,(2E)-2-Methyl-6-(4-methylphenyl)-2-hepten-1-ol,1,0.1,
+Santalum album,(E)-alpha-bergamotene,1,0.2,
+Santalum album,(E)-alpha-bisabolene,1,0.01,
+Santalum album,"(S,Z)-2-Methyl-6-(p-tolyl)hept-2-en-1-ol",1,3.4,
+Santalum album,(Z)-lanceol,1,1.4,
+Santalum album,"1-[(1R,2R,3S,6R,7S)-2,6-dimethyl-3-tricyclo[5.2.1.02,6]decanyl]ethanone",1,0.1,
+Santalum album,"2-[(1R,2R,3R,6R,7S)-2,6-dimethyl-3-tricyclo[5.2.1.02,6]decanyl]propanal",1,0.4,
+Santalum album,"2-[(1R,2R,3S,6R,7S)-2,6-dimethyl-3-tricyclo[5.2.1.02,6]decanyl]propanal",1,0.3,
+Santalum album,6-Epi-beta-bisabolol,1,0.7,
+Santalum album,7-Epi-sesquithujene,1,0.01,
+Santalum album,Acoradiene,1,0.1,
+Santalum album,Ar-Curcumene,1,0.3,
+Santalum album,Dendrolasin,1,0.1,
+Santalum album,Dihydro-alpha-santalol,1,0.6,
+Santalum album,Epi-beta-Santalene,1,0.8,
+Santalum album,Fokienol,1,0.5,
+Santalum album,Sandal,1,41.1,
+Santalum album,Santene,1,0.2,
+Santalum album,Sesquisabinene,1,0.01,
+Santalum album,alpha-Alaskene,1,0.01,
+Santalum album,alpha-Bergamotal,1,0.2,
+Santalum album,alpha-Cedrene,1,0.1,
+Santalum album,alpha-Santalal,1,1.9,
+Santalum album,alpha-Santalene,1,0.7,
+Santalum album,beta-Bisabolene,1,0.1,
+Santalum album,beta-Farnesene,1,0.01,
+Santalum album,beta-SANTALOL,1,19.8,
+Santalum album,beta-Santalal,1,0.6,
+Santalum album,beta-Santalene,1,1.2,
+Santalum album,epi-βsantalol,1,3.5,
+Santalum album,"gamma-BISABOLENE, (E)-",1,0.01,
+Santalum album,"gamma-Bisabolene, (Z)-",1,0.01,
+Santalum album,gamma-Curcumene,1,0.1,
+Santalum album,spirosantalol,1,0.9,
+Santalum album,trans-Nerolidol,1,0.1,
+Santalum album,trans-alpha-Bergamotol,1,6.4,
+Santalum album,trans-beta-Bergamotene,1,0.1,
+Santalum album,trans-beta-Santalol,1,1.5,
+Santalum album,trans-α-Santalol,1,0.4,
+Syzygium aromaticum,(+)-delta-Cadinene,2,0.21000000000000002,0.014142135623730954
+Syzygium aromaticum,(-)-Alloaromadendrene,1,0.3,
+Syzygium aromaticum,(-)-alpha-Copaene,1,0.3,
+Syzygium aromaticum,(-)-beta-Pinene,1,0.04,
+Syzygium aromaticum,(E)-alpha-bergamotene,1,1.3,
+Syzygium aromaticum,"(S,1Z,6Z)-8-Isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene",1,0.1,
+Syzygium aromaticum,2-Heptanone,1,0.02,
+Syzygium aromaticum,2-Nonanone,1,0.04,
+Syzygium aromaticum,3'-Methylacetophenone,1,0.05,
+Syzygium aromaticum,3-(4-Hydroxy-2-methoxyphenyl)-2-propenal,1,0.11,
+Syzygium aromaticum,4-Allylphenol,2,0.14,0.12727922061357858
+Syzygium aromaticum,Anethole,1,0.05,
+Syzygium aromaticum,Benzyl acetate,1,0.04,
+Syzygium aromaticum,Butyl benzoate,1,1.3,
+Syzygium aromaticum,Calamenene,1,0.1,
+Syzygium aromaticum,"Carvone, (-)-",1,0.1,
+Syzygium aromaticum,Caryophyllene,2,16.05,4.879036790187177
+Syzygium aromaticum,Ethyl benzoate,1,0.02,
+Syzygium aromaticum,Eugenol,2,69.45,0.7778174593051983
+Syzygium aromaticum,Eugenol acetate,2,7.25,7.28319984622144
+Syzygium aromaticum,Furfural,1,0.04,
+Syzygium aromaticum,Glycol Dimethacrylate,1,2.05,
+Syzygium aromaticum,Heptadecane,1,1e-07,
+Syzygium aromaticum,Humulene,2,1.85,0.07071067811865459
+Syzygium aromaticum,Humulene epoxide I,1,1e-07,
+Syzygium aromaticum,Humulene epoxide II,1,0.1,
+Syzygium aromaticum,Isoeugenol,1,0.8,
+Syzygium aromaticum,Isopropyl Myristate,1,1e-07,
+Syzygium aromaticum,"Limonene, (-)-",1,0.02,
+Syzygium aromaticum,"Linalool, (+/-)-",2,0.055,0.06363961030678929
+Syzygium aromaticum,Linalyl acetate,1,0.05,
+Syzygium aromaticum,Methyl Salicylate,2,0.25,0.07071067811865474
+Syzygium aromaticum,Methyl benzoate,1,1e-07,
+Syzygium aromaticum,Methyleugenol,1,1e-07,
+Syzygium aromaticum,Myristic Acid,1,1e-07,
+Syzygium aromaticum,Nerol,1,0.05,
+Syzygium aromaticum,Octane,1,1e-07,
+Syzygium aromaticum,"Octanoic acid, phenylmethyl ester",1,1e-07,
+Syzygium aromaticum,Oleic Acid,1,1e-07,
+Syzygium aromaticum,T-Muurolol,1,1e-07,
+Syzygium aromaticum,Vanillin,2,0.11000000000000001,0.08485281374238571
+Syzygium aromaticum,Ylangene,1,1e-07,
+Syzygium aromaticum,Zizanene,1,0.1,
+Syzygium aromaticum,alpha-Cadinol,1,0.1,
+Syzygium aromaticum,alpha-Copaene,1,0.1,
+Syzygium aromaticum,alpha-Cubebene,1,1e-07,
+Syzygium aromaticum,alpha-PINENE,2,0.01000005,0.014142064913052832
+Syzygium aromaticum,alpha-Selinene,1,0.1,
+Syzygium aromaticum,beta-CARYOPHYLLENE OXIDE,2,0.385,0.021213203435596444
+Syzygium aromaticum,"beta-OCIMENE, (3E)-",1,1e-07,
+Syzygium aromaticum,epi-Cubenol,1,1e-07,
+Syzygium aromaticum,gamma-Cadinene,1,0.8,
+Syzygium aromaticum,p-CYMENE,1,0.02,
+Syzygium aromaticum,tau-Cadinol,2,0.050000050000000004,0.07071060740797663
+Syzygium aromaticum,"trans,trans-Farnesol",1,0.13,
+Syzygium aromaticum,trans-Nerolidol,1,0.1,
+Thymus vulgaris,(+)-delta-Cadinene,1,0.76,
+Thymus vulgaris,(-)-beta-Pinene,1,0.1,
+Thymus vulgaris,"(S,1Z,6Z)-8-Isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene",1,0.17,
+Thymus vulgaris,"1,7,7-Trimethylbicyclo[2.2.1]heptan-2-ol",1,0.25,
+Thymus vulgaris,1-Octen-3-OL,1,0.06,
+Thymus vulgaris,2-(4-Methylphenyl)propan-2-ol,1,0.49,
+Thymus vulgaris,2-Isopropyl-5-methylanisole,1,3.96,
+Thymus vulgaris,"4-Terpineol, (+/-)-",1,0.15,
+Thymus vulgaris,Alpha-Terpineol,1,0.06,
+Thymus vulgaris,"Bicyclo[3.1.0]hex-2-ene, 2-methyl-5-(1-methylethyl)-",1,0.37,
+Thymus vulgaris,Camphene,1,0.05,
+Thymus vulgaris,Camphor,1,0.07,
+Thymus vulgaris,Carvacrol,1,0.93,
+Thymus vulgaris,Carvacrol methyl ether,1,3.35,
+Thymus vulgaris,Caryophyllene,1,2.31,
+Thymus vulgaris,Eucalyptol,1,1e-07,
+Thymus vulgaris,Humulene,1,0.09,
+Thymus vulgaris,Isoborneol,1,0.1,
+Thymus vulgaris,"Limonene, (-)-",1,1e-07,
+Thymus vulgaris,"Linalool, (+/-)-",1,0.59,
+Thymus vulgaris,Myrcene,1,0.89,
+Thymus vulgaris,Sabinene,1,0.66,
+Thymus vulgaris,Terpinolene,1,0.07,
+Thymus vulgaris,Thymol,1,61.63,
+Thymus vulgaris,Thymol acetate,1,0.08,
+Thymus vulgaris,alpha-Cadinol,1,0.06,
+Thymus vulgaris,alpha-Muurolene,1,0.23,
+Thymus vulgaris,alpha-PHELLANDRENE,1,0.1,
+Thymus vulgaris,alpha-PINENE,1,0.26,
+Thymus vulgaris,alpha-Terpinene,1,0.83,
+Thymus vulgaris,beta-CARYOPHYLLENE OXIDE,1,0.28,
+Thymus vulgaris,beta-EUDESMOL,1,0.16,
+Thymus vulgaris,gamma-Cadinene,1,0.08,
+Thymus vulgaris,gamma-Terpinene,1,7.47,
+Thymus vulgaris,p-CYMENE,1,11.28,
+Thymus vulgaris,trans-Sabinene hydrate,1,0.24,
+Thymus vulgaris,δ-carene,1,0.05,
+Zingiber officinale,(+)-3-Carene,1,0.03,
+Zingiber officinale,(+)-Longifolene,2,0.09000005,0.12727914990290043
+Zingiber officinale,(+)-alpha-Funebrene,2,5.1750000499999995,7.3185551145700884
+Zingiber officinale,(+)-delta-Cadinene,3,0.9233333333333333,1.111590452160027
+Zingiber officinale,(-)-beta-Pinene,22,1.556363640909091,0.8636442383637344
+Zingiber officinale,(-)-beta-Sesquiphellandrene,88,4.889431820454546,2.6338697321471893
+Zingiber officinale,(-)-cis-Carveol,2,0.050000050000000004,0.07071060740797663
+Zingiber officinale,"(1R,4R,4aR,6S,8aR)-1,6-dimethyl-4-propan-2-yl-3,4,4a,5,6,7,8,8a-octahydro-2H-naphthalen-1-ol",2,0.2,0.0
+Zingiber officinale,"(1S,2R,5R)-2-methyl-5-propan-2-ylbicyclo[3.1.0]hexan-2-ol",1,0.01,
+Zingiber officinale,"(1S,2S)-1-ethenyl-1-methyl-4-propan-2-ylidene-2-prop-1-en-2-ylcyclohexane",5,0.144,0.06426507605223851
+Zingiber officinale,"(1S,2S,3R,4S,6R,7R,8S)-1,2-Dimethyl-8-propan-2-yltetracyclo[4.4.0.02,4.03,7]decane",3,0.08333336666666667,0.07234172378374276
+Zingiber officinale,"(2Z,6E)-Farnesol",4,0.400000025,0.36514833515527517
+Zingiber officinale,(E)-alpha-bergamotene,5,0.914,0.74463413835252
+Zingiber officinale,"(E,Z)-farnesol",2,0.7999999999999999,0.8485281374238569
+Zingiber officinale,(R)-4-Isopropylcyclohex-2-enone,2,0.075,0.06363961030678927
+Zingiber officinale,"(R,R)-1-isopropyl-4-methyl-3-(prop-1-en-2-yl)-4-vinylcyclohexene",7,0.47285715714285714,0.58897407449613
+Zingiber officinale,"(S,1Z,6Z)-8-Isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene",9,1.5922222222222222,0.8241932082008712
+Zingiber officinale,(Z)-lanceol,2,0.050000050000000004,0.07071060740797663
+Zingiber officinale,(Z)-p-Menth-2-en-1-ol,1,0.01,
+Zingiber officinale,"1,4-Cineole",2,0.15000005,0.21213196364528614
+Zingiber officinale,"1,4-Dimethyl-7-(1-methylethenyl)-octahydroazulene",1,0.11,
+Zingiber officinale,"1,6-Germacradien-5-ol",2,0.035000050000000005,0.04949740397238021
+Zingiber officinale,"1,7,7-Trimethylbicyclo[2.2.1]heptan-2-ol",10,1.0900000200000002,1.4632156203224316
+Zingiber officinale,1-Heptanol,2,0.10000005000000001,0.14142128552663139
+Zingiber officinale,1-Hexanol,4,0.075000025,0.04999995
+Zingiber officinale,1-Hydroxydecan-3-one,2,0.23000005,0.3252690486351338
+Zingiber officinale,1-Octanol,1,0.01,
+Zingiber officinale,1-endo-Bourbonanol,2,0.01500005,0.02121313272491831
+Zingiber officinale,10-epi-gamma-Eudesmol,1,0.06,
+Zingiber officinale,"2,5-Dimethylbenzoic acid",2,0.10000005000000001,0.14142128552663139
+Zingiber officinale,"2-Furanmethanol, 5-ethenyltetrahydro-alpha,alpha,5-trimethyl-, (2R,5R)-rel-",2,0.35000004999999995,0.49497467611990514
+Zingiber officinale,2-Heptanol,4,0.175000025,0.16360518023584247
+Zingiber officinale,2-Heptanone,9,0.06888891111111112,0.0451232497352375
+Zingiber officinale,2-Hexanone,2,0.050000050000000004,0.07071060740797663
+Zingiber officinale,2-Hexenal,2,0.050000050000000004,0.07071060740797663
+Zingiber officinale,2-Methyl-3-buten-2-OL,1,0.01,
+Zingiber officinale,2-Octenal,2,0.050000050000000004,0.07071060740797663
+Zingiber officinale,2-Undecanol,2,0.095,0.03535533905932737
+Zingiber officinale,2-Undecanone,7,0.5071428571428571,0.7276380575926075
+Zingiber officinale,"2-[(2R,5S)-5-ethenyl-5-methyloxolan-2-yl]propan-2-ol",2,0.45000005,0.6363960323572146
+Zingiber officinale,"3,6-Octadienal, 3,7-dimethyl-",2,0.66,0.18384776310850237
+Zingiber officinale,"3,7(11)-Eudesmadiene",2,0.10000005000000001,0.14142128552663139
+Zingiber officinale,3-Buten-2-OL,2,0.050000050000000004,0.07071060740797663
+Zingiber officinale,3-Methyl-2-pentanol,2,0.050000050000000004,0.07071060740797663
+Zingiber officinale,3-Methyl-3-(4-methylpent-3-en-1-yl)oxirane-2-carbaldehyde,2,0.18000005,0.254558370516479
+Zingiber officinale,4-Methyl-1-propan-2-ylbicyclo[3.1.0]hexan-3-ol,2,0.050000050000000004,0.07071060740797663
+Zingiber officinale,"4-Terpineol, (+/-)-",7,0.4614285714285714,0.6578355562354615
+Zingiber officinale,6-Epi-beta-bisabolol,4,0.375,0.09574271077563384
+Zingiber officinale,6-Methyl-5-hepten-2-one,5,1.39800002,2.25147061497591
+Zingiber officinale,7-Epi-sesquithujene,2,1.1800000499999999,1.6687719328895738
+Zingiber officinale,"7-Oxabicyclo[4.1.0]heptan-2-one, 1-methyl-4-(1-methylethenyl)-, (1R,4R,6R)-",2,0.5,0.14142135623730948
+Zingiber officinale,Agarospirol,1,0.11,
+Zingiber officinale,Alpha-Farnesene,69,1.0966666782608696,1.2247204457648733
+Zingiber officinale,Alpha-Terpineol,11,0.7872727272727272,0.5614996154778898
+Zingiber officinale,Ar-Curcumene,88,2.5030682022727273,3.2034662666567337
+Zingiber officinale,Aromadendrene,1,0.11,
+Zingiber officinale,Beta-Elemene,7,0.5214285857142856,0.5564898336897103
+Zingiber officinale,Beta-Phellandrene,26,4.176153861538461,2.8123684825690414
+Zingiber officinale,"Bicyclo[3.1.0]hex-2-ene, 2-methyl-5-(1-methylethyl)-",3,0.11666670000000001,0.1934769279957432
+Zingiber officinale,"Borneol, (-)-",1,2.04,
+Zingiber officinale,Bornyl acetate,7,0.17571430000000002,0.14965036664872114
+Zingiber officinale,Camphene,88,6.301590910227273,4.059751671263469
+Zingiber officinale,Camphene hydrate,1,0.08,
+Zingiber officinale,Camphor,5,0.19000002,0.12449895782697137
+Zingiber officinale,"Carane, 4,5-epoxy-, trans",2,0.050000050000000004,0.07071060740797663
+Zingiber officinale,Carveol,2,0.1,0.0
+Zingiber officinale,Caryophyllene,7,0.83,0.9676259607927022
+Zingiber officinale,Cedr-8-en-13-ol,2,0.050000050000000004,0.07071060740797663
+Zingiber officinale,Cedrol,4,0.85,0.33166247903554
+Zingiber officinale,Cinnamaldehyde,2,0.050000050000000004,0.07071060740797663
+Zingiber officinale,Citral,88,6.1780681954545456,6.072667762680816
+Zingiber officinale,Citronellal,22,2.152272731818182,1.4289387659442172
+Zingiber officinale,Citronellyl acetate,2,0.21500005,0.3040558451995373
+Zingiber officinale,Decanal,3,0.15333333333333332,0.12858201014657272
+Zingiber officinale,Dihydrocarveol,2,0.050000050000000004,0.07071060740797663
+Zingiber officinale,Docosane,2,0.08500005000000001,0.12020808209103497
+Zingiber officinale,Eicosane,2,0.08000005,0.11313701427916949
+Zingiber officinale,Elemol,67,2.432089556716418,1.703894407399462
+Zingiber officinale,Eucalyptol,84,7.376547620238095,4.7167878815661535
+Zingiber officinale,Eudesm-7(11)-en-4-ol,2,0.050000050000000004,0.07071060740797663
+Zingiber officinale,Eudesmane,17,0.8429411764705882,0.9479040346066312
+Zingiber officinale,Farnesal,2,0.050000050000000004,0.07071060740797663
+Zingiber officinale,"Farnesene epoxide, E-",2,0.10000005000000001,0.14142128552663139
+Zingiber officinale,Geranic acid,2,0.25000005,0.35355331988259564
+Zingiber officinale,Geraniol,71,21.962535211267603,12.143349822411308
+Zingiber officinale,Geranyl acetate,10,0.76100001,1.1658516128088041
+Zingiber officinale,Geranylgeraniol,2,0.04000005,0.056568471784245684
+Zingiber officinale,Geranyllinalool,2,0.020000050000000002,0.028284200536783783
+Zingiber officinale,Germacrene B,1,0.43,
+Zingiber officinale,Germacrene D-4-ol,2,0.215,0.04949747468305833
+Zingiber officinale,Globulol,2,0.08000005,0.11313701427916949
+Zingiber officinale,Hedycaryol,2,0.95500005,1.3505738813556276
+Zingiber officinale,Heptacosane,2,0.14000005000000001,0.1979898280215552
+Zingiber officinale,Heptadecane,2,0.020000050000000002,0.028284200536783783
+Zingiber officinale,Heptane,2,0.10000005000000001,0.14142128552663139
+Zingiber officinale,Hexanal,11,0.17454546363636364,0.11961299777350513
+Zingiber officinale,"Humulane-1,6-dien-3-ol",2,0.01500005,0.02121313272491831
+Zingiber officinale,Isoborneol,2,1.67500005,2.368807646264256
+Zingiber officinale,"Limonene, (-)-",25,1.8436000000000001,1.1164746601095192
+Zingiber officinale,"Limonene-1,2-epoxide",2,0.25000005,0.35355331988259564
+Zingiber officinale,"Linalool, (+/-)-",69,1.910724652173913,1.3887767572826917
+Zingiber officinale,Linalyl acetate,2,0.30000000000000004,0.14142135623730953
+Zingiber officinale,Menthone,2,0.050000050000000004,0.07071060740797663
+Zingiber officinale,Myrcene,69,2.1237681217391304,1.2310410383494927
+Zingiber officinale,Myrcenol,2,0.25000005,0.35355331988259564
+Zingiber officinale,Myrtenal,4,0.21250000000000002,0.27121639576790585
+Zingiber officinale,Myrtenol,2,0.10000005000000001,0.14142128552663139
+Zingiber officinale,Neral,88,10.6388636375,7.9494829472832915
+Zingiber officinale,Nerol,7,0.3228571571428572,0.4509883207230237
+Zingiber officinale,Nerolic acid,2,0.20000005,0.2828426417639409
+Zingiber officinale,Neryl acetate,62,1.2074193758064518,1.0818062003153432
+Zingiber officinale,Nonadecane,2,0.14000005000000001,0.1979898280215552
+Zingiber officinale,Nonanal,1,0.01,
+Zingiber officinale,O-Xylene,2,0.1,0.0
+Zingiber officinale,Octadecane,2,0.025000050000000003,0.03535526834864926
+Zingiber officinale,Octanal,1,0.12,
+Zingiber officinale,Pentadecane,2,0.17,0.14142135623730953
+Zingiber officinale,Pentyl acetate,2,0.1,0.0
+Zingiber officinale,Sabinene,11,0.9072727363636364,0.8545418655843402
+Zingiber officinale,Terpinolene,5,0.11200004,0.10473771431534583
+Zingiber officinale,Tetradecane,2,0.13500005,0.19091876020968973
+Zingiber officinale,Tetradecyl acrylate,2,0.025000050000000003,0.03535526834864926
+Zingiber officinale,Toluene,2,0.1,0.0
+Zingiber officinale,Torreyol,2,0.1,0.0
+Zingiber officinale,Tricosane,2,0.035000050000000005,0.04949740397238021
+Zingiber officinale,Tricyclene,5,0.054000040000000006,0.0630871983844821
+Zingiber officinale,Undecanal,2,0.10000005000000001,0.14142128552663139
+Zingiber officinale,Undecane,2,0.30000000000000004,0.1414213562373095
+Zingiber officinale,Valencene,1,1.42,
+Zingiber officinale,Zingerone,4,3.825000025,6.921644776472328
+Zingiber officinale,Zingiberene,88,6.9188636500000005,9.561881379439088
+Zingiber officinale,Zingiberenol,5,0.9940000000000001,0.6159383085991649
+Zingiber officinale,Zizanene,60,0.47050002,0.4612379045458343
+Zingiber officinale,alpha-Copaene,5,0.76,0.8221009670350717
+Zingiber officinale,alpha-Eudesmol,3,1.37,1.2452710548310355
+Zingiber officinale,alpha-Fenchol,2,0.10000005000000001,0.14142128552663139
+Zingiber officinale,alpha-Muurolene,2,1.2,0.0
+Zingiber officinale,alpha-PHELLANDRENE,3,0.9700000000000001,0.7332803011127464
+Zingiber officinale,alpha-PINENE,88,1.998863643181818,1.697370799731635
+Zingiber officinale,alpha-Terpinene,1,0.01,
+Zingiber officinale,alpha-Terpinyl acetate,2,0.050000050000000004,0.07071060740797663
+Zingiber officinale,alpha-trans-Bergamotyl acetate,2,0.10000005000000001,0.14142128552663139
+Zingiber officinale,beta-Bisabolene,82,3.784634148780488,2.1026950299601155
+Zingiber officinale,"beta-CITRONELLOL, (+/-)-",9,1.457777788888889,1.73481105830001
+Zingiber officinale,beta-Cubebene,2,2.3499999999999996,0.07071067811865465
+Zingiber officinale,beta-EUDESMOL,5,0.502,0.47388817246266024
+Zingiber officinale,beta-Farnesene,7,4.288571428571428,2.8384704130419056
+Zingiber officinale,beta-Farnesol,4,4.775,0.7973915809270453
+Zingiber officinale,"beta-OCIMENE, (3E)-",7,2.4299999999999997,2.3799789915039167
+Zingiber officinale,"beta-Ocimene, (3Z)-",1,0.01,
+Zingiber officinale,beta-Terpineol,4,0.08750005,0.10307758404879631
+Zingiber officinale,"cis,cis-Farnesol",4,0.25,0.1914854215512676
+Zingiber officinale,cis-Nerolidol,4,0.575,0.4349329450233296
+Zingiber officinale,cis-Verbenol,2,0.050000050000000004,0.07071060740797663
+Zingiber officinale,curcumenyl acetate,2,0.050000050000000004,0.07071060740797663
+Zingiber officinale,epi-Cubenol,2,0.15000000000000002,0.07071067811865475
+Zingiber officinale,epi-α-cedrenol,2,0.10000005000000001,0.14142128552663139
+Zingiber officinale,"gamma-BISABOLENE, (E)-",1,0.38,
+Zingiber officinale,gamma-Cadinene,17,2.855294117647059,1.018252901094927
+Zingiber officinale,gamma-Camphorene,2,0.06500005,0.09192381084357307
+Zingiber officinale,gamma-EUDESMOL,2,1.25,1.0606601717798212
+Zingiber officinale,gamma-Muurolene,2,0.70000005,0.9899494229504884
+Zingiber officinale,gamma-Terpinene,5,0.28200002,0.35442909855146204
+Zingiber officinale,l-Menthol,2,0.1,0.0
+Zingiber officinale,p-CYMENE,24,0.7275000041666666,0.7667733028879784
+Zingiber officinale,"trans,trans-Farnesol",4,0.375,0.4272001872658766
+Zingiber officinale,trans-Nerolidol,26,0.9823076923076923,0.5887567082747012
+Zingiber officinale,trans-Sesquisabinene hydrate,3,0.5666666666666667,0.5686240703077327
+Zingiber officinale,trans-alpha-Bergamotol,2,0.2,0.14142135623730948
+Zingiber officinale,trans-beta-Bergamotene,2,0.23500005,0.3323401164469992
+Zingiber officinale,trans-α-bisabolene oxide,2,0.15000005,0.21213196364528614
+Zingiber officinale,β-guiacol,2,0.050000050000000004,0.07071060740797663

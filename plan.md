@@ -9,7 +9,7 @@
 |---|---|
 | **Título** | Formulación óptima de mezclas de aceites esenciales mediante Programación Lineal |
 | **Materia** | MAT-34420 — Métodos Numéricos y Optimización |
-| **Integrante** | Paulina Garza |
+| **Integrantes** | Felipe Castro, Paulina Garza |
 | **Entregables** | Notebook `.ipynb` + Presentación `.pdf` (10–12 min) |
 | **Fecha de entrega** | Mayo 2026 |
 

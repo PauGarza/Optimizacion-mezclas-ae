@@ -1,0 +1,55 @@
+Sno,Plant name,Plant Part,Plant Subpart,Therapeutic use,UMLS identifier,MeSH identifier,ICD11 identifier,Reference,aceite_doterra
+3,Syzygium aromaticum,stem,bud,Antimicrobial activity function,C1321418,D000890,,https://doi.org/10.1080/0972060X.2014.884779,Clavo
+4,Syzygium aromaticum,stem,bud,antioxidant activity,C1148564,D000975,,https://doi.org/10.1080/0972060X.2014.884779,Clavo
+14,Foeniculum vulgare,seed,seed,Antimicrobial activity function,C1321418,D000890,,https://doi.org/10.1080/0972060X.2014.956675,Hinojo
+19,Corymbia citriodora,leaf,leaf,Cytotoxin,C0010868,D003603,,https://doi.org/10.1080/0972060X.2015.1004119,Eucalipto Limón
+20,Corymbia citriodora,leaf,leaf,Anti-Bacterial Agents,C0279516,D000900,,https://doi.org/10.1080/0972060X.2015.1004119,Eucalipto Limón
+21,Corymbia citriodora,leaf,leaf,Antifungal Agents,C0003308,D000935,,https://doi.org/10.1080/0972060X.2015.1004119,Eucalipto Limón
+22,Salvia officinalis,leaf,leaf,Anti-Bacterial Agents,C0279516,D000900,,https://doi.org/10.1080/0972060X.2016.1211491,Salvia
+34,Zingiber officinale,rhizome,rhizome,antioxidant activity,C1148564,D000975,,https://doi.org/10.1080/0972060X.2017.1417747,Jengibre
+49,Foeniculum vulgare,seed,seed,Anti-Bacterial Agents,C0279516,D000900,,https://doi.org/10.1080/0972060X.2008.10643683,Hinojo
+50,Foeniculum vulgare,seed,seed,Antifungal Agents,C0003308,D000935,,https://doi.org/10.1080/0972060X.2008.10643683,Hinojo
+58,Cymbopogon flexuosus,flower,inflorescence,Antifungal Agents,C0003308,D000935,,https://doi.org/10.1080/0972-060X.2004.10643370,Limoncillo
+70,Zingiber officinale,rhizome,rhizome,Antifungal Agents,C0003308,D000935,,https://doi.org/10.1002/ffj.1373,Jengibre
+71,Zingiber officinale,rhizome,rhizome,antioxidant activity,C1148564,D000975,,https://doi.org/10.1002/ffj.1373,Jengibre
+72,Coriandrum sativum,seed,seed,antioxidant activity,C1148564,D000975,,https://doi.org/10.1002/ffj.1608,Cilantro
+73,Coriandrum sativum,seed,seed,Antifungal Agents,C0003308,D000935,,https://doi.org/10.1002/ffj.1608,Cilantro
+107,Cananga odorata,leaf,leaf,Anticancer agents,,,XM9F82,https://doi.org/10.1080/0972060X.2021.1957023,Ylang Ylang
+108,Cananga odorata,leaf,leaf,antioxidant activity,C1148564,D000975,,https://doi.org/10.1080/0972060X.2021.1957023,Ylang Ylang
+109,Citrus limon,fruit,skin/peel,Anti-Inflammatory Agents,C0003209,D000893,,https://pubmed.ncbi.nlm.nih.gov/29055721,Limón
+285,Boswellia serrata,plant exudate,resin/gum,Anti-Bacterial Agents,C0279516,D000900,,"Vol-4, P-355, RIMP",Incienso
+286,Boswellia serrata,plant exudate,resin/gum,Antifungal Agents,C0003308,D000935,,"Vol-4, P-355, RIMP",Incienso
+287,Boswellia serrata,plant exudate,resin/gum,Antihelmintics,C0003158,D000871,XM4EC0,"Vol-4, P-356, RIMP",Incienso
+311,Citrus aurantium,fruit,fruit,Anti-Bacterial Agents,C0279516,D000900,,"Vol-6, P-501, RIMP",Petitgrain
+312,Citrus limon,fruit,fruit,Anti-Bacterial Agents,C0279516,D000900,,"Vol-6, P-503, RIMP",Limón
+313,Citrus limon,leaf,leaf,Antifungal Agents,C0003308,D000935,,"Vol-6, P-504, RIMP",Limón
+314,Citrus limon,fruit,fruit,Antifungal Agents,C0003308,D000935,,"Vol-6, P-504, RIMP",Limón
+315,Citrus aurantium,fruit,fruit,Anti-Bacterial Agents,C0279516,D000900,,"Vol-6, P-510, RIMP",Petitgrain
+316,Citrus aurantium,fruit,fruit,Antifungal Agents,C0003308,D000935,,"Vol-6, P-511, RIMP",Petitgrain
+317,Coriandrum sativum,whole plant,herb,Anti-Bacterial Agents,C0279516,D000900,,"Vol-7, P-617, RIMP",Cilantro
+318,Coriandrum sativum,seed,seed,Anti-Bacterial Agents,C0279516,D000900,,"Vol-7, P-617, RIMP",Cilantro
+319,Coriandrum sativum,seed,seed,Antifungal Agents,C0003308,D000935,,"Vol-7, P-618, RIMP",Cilantro
+352,Elettaria cardamomum,fruit,fruit,Anti-Bacterial Agents,C0279516,D000900,,"Vol-10, P-187, RIMP",Cardamomo
+353,Elettaria cardamomum,fruit,fruit,Antifungal Agents,C0003308,D000935,,"Vol-10, P-188, RIMP",Cardamomo
+380,Juniperus communis,leaf,leaf,Fungistat,C1529011,,,"Vol-13, P-493, RIMP",Baya de Enebro
+381,Juniperus communis,leaf,leaf,Fungicide,C1321381,,XM83G4,"Vol-13, P-493, RIMP",Baya de Enebro
+382,Juniperus communis,leaf,leaf,Antifungal Agents,C0003308,D000935,,"Vol-13, P-493, RIMP",Baya de Enebro
+384,Lavandula angustifolia,flower,flower,Anxiolytics [TC-therapeutic category],C4722091,D014151,,"Vol-14, P-233, RIMP",Lavanda
+385,Lavandula angustifolia,flower,flower,Anti-Bacterial Agents,C0279516,D000900,,"Vol-14, P-234, RIMP",Lavanda
+408,Ocimum tenuiflorum,aerial part,aerial part,Cytotoxin,C0010868,D003603,,"Vol-18, P-187, RIMP",Tulsi
+409,Origanum vulgare,aerial part,aerial part,antioxidant activity,C1148564,D000975,,"Vol-18, P-591, RIMP",Orégano
+410,Origanum vulgare,leaf,leaf,Anti-Bacterial Agents,C0279516,D000900,,"Vol-18, P-592, RIMP",Orégano
+411,Origanum vulgare,aerial part,aerial part,Antifungal Agents,C0003308,D000935,,"Vol-18, P-593, RIMP",Orégano
+413,Pelargonium graveolens,leaf,leaf,Anti-Inflammatory Agents,C0003209,D000893,,"Vol-19, P-634, RIMP",Geranio
+414,Pelargonium graveolens,leaf,leaf,Antifungal Agents,C0003308,D000935,,"Vol-19, P-636, RIMP",Geranio
+455,Rosmarinus officinalis,leaf,leaf,Anti-Bacterial Agents,C0279516,D000900,,"Vol-23, P-707, RIMP",Romero
+458,Cinnamomum verum,fruit,fruit,antioxidant activity,C1148564,D000975,,"Vol-6, P-327, RIMP",Canela
+459,Cinnamomum verum,bark,bark,Anti-Bacterial Agents,C0279516,D000900,,"Vol-6, P-329, RIMP",Canela
+460,Cinnamomum verum,leaf,leaf,Anti-Bacterial Agents,C0279516,D000900,,"Vol-6, P-330, RIMP",Canela
+461,Cinnamomum verum,bark,bark,Antifungal Agents,C0003308,D000935,,"Vol-6, P-331, RIMP",Canela
+462,Cinnamomum verum,bark,bark,ovicidal activity,,,,"Vol-6, P-332, RIMP",Canela
+463,Corymbia citriodora,leaf,leaf,Anti-Bacterial Agents,C0279516,D000900,,"Vol-10, P-752, RIMP",Eucalipto Limón
+494,Boswellia serrata,plant exudate,resin/gum,Anti-Bacterial Agents,C0279516,D000900,,"VOL-2,PAG-208, WIRM",Incienso
+517,Cinnamomum verum,leaf,leaf,Antimicrobial activity function,C1321418,D000890,,"part-1.pag-204, GIMP",Canela
+518,Cinnamomum verum,leaf,leaf,Antifungal Agents,C0003308,D000935,,"part-1.pag-204, GIMP",Canela
+520,Cinnamomum verum,bark,bark,Antifungal Agents,C0003308,D000935,,"part-1.pag-204, GIMP",Canela
