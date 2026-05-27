@@ -1,0 +1,18 @@
+escenario,scen_key,aceite,fraccion,gotas_de_25,costo_parcial,beneficio_contrib
+Ansiolítico,Anxiolytics [TC-therapeutic category],Limón,0.2,5.0,0.2033,0.00255
+Ansiolítico,Anxiolytics [TC-therapeutic category],Lavanda,0.2,5.0,0.4233,0.03397
+Ansiolítico,Anxiolytics [TC-therapeutic category],Albahaca,0.2,5.0,0.4125,0.00499
+Ansiolítico,Anxiolytics [TC-therapeutic category],Geranio,0.2,5.0,0.54,0.00285
+Ansiolítico,Anxiolytics [TC-therapeutic category],Pimienta Negra,0.2,5.0,1.3,0.00334
+Sueño,Sleep Support,Ylang Ylang,0.08,2.0,0.2807,0.00157
+Sueño,Sleep Support,Lavanda,0.2,5.0,0.4233,0.01299
+Sueño,Sleep Support,Nardo,0.2,5.0,2.96,0.01731
+Sueño,Sleep Support,Albahaca,0.2,5.0,0.4125,0.00248
+Sueño,Sleep Support,Pimienta Negra,0.12,3.0,0.78,0.00136
+Sueño,Sleep Support,Pachulí,0.2,5.0,0.5542,0.01731
+Digestivo,Digestive Support,Limón,0.2,5.0,0.2033,0.00445
+Digestivo,Digestive Support,Cilantro,0.2,5.0,0.5083,0.0044
+Digestivo,Digestive Support,Limoncillo,0.092963,2.32,0.0922,0.00163
+Digestivo,Digestive Support,Cardamomo,0.107037,2.68,0.9393,0.00179
+Digestivo,Digestive Support,Hinojo,0.2,5.0,0.2933,0.01161
+Digestivo,Digestive Support,Hierbabuena,0.2,5.0,0.5875,0.00616
