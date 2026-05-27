@@ -3,22 +3,6 @@
 
 ---
 
-## Pendientes
-
-- [ ] Revisar figuras de EDA generadas por `eda.py` → copiar las relevantes al notebook
-- [ ] Construir `02_optimization.ipynb`
-  - [ ] Cargar `matrix_A.csv`, `prices_clean.csv`, `scenarios_c.csv`
-  - [ ] Normalizar filas de A con suma > 110 % antes del LP
-  - [ ] Elegir escenarios a comparar (al menos 3 distintos)
-  - [ ] Implementar restricciones: mezcla completa, no negatividad, presupuesto, límites por aceite
-  - [ ] Resolver con Símplex (`highs-ds`) y Puntos Interiores (`highs-ipm`)
-  - [ ] Comparar: valor óptimo, iteraciones, tiempo de cómputo
-  - [ ] Análisis de sensibilidad: variar presupuesto B y límites máximos por aceite
-  - [ ] Visualizaciones: mezcla óptima por escenario, variables duales
-- [ ] Elaborar presentación PDF (10–12 min)
-
----
-
 ## 1. Identificación del proyecto
 
 | Campo | Detalle |
@@ -69,19 +53,19 @@ El problema práctico es: dado un objetivo terapéutico, **¿en qué proporcione
 | `essential_oil_scentindb.csv` | Composición GC-MS: planta, compuesto, % por muestra | 85,341 |
 | `therapy_scentindb.csv` | Usos terapéuticos con códigos UMLS/MeSH por planta | 515 |
 | `chemical_scentindb.csv` | Diccionario de compuestos: nombre canónico, SMILES, PubChem | 3,420 |
-| `lista de precios doterra.xlsx` | Precios de catálogo doTERRA México 2025 | 80 productos |
+| `lista de precios aceites.xlsx` | Precios de catálogo de aceites esenciales México 2025 | 80 productos |
 
 **Publicación:** Samal et al. (2026). *sCentInDB*. Molecular Diversity. DOI: 10.1007/s11030-025-11215-5
 
 ### 4.2 Pipeline de limpieza — `01_data_cleaning.ipynb`
 
 1. Cargar los 4 archivos raw con separadores correctos (los CSV de scentindb son TSV, `sep="\t"`).
-2. Mapear los 31 nombres doTERRA (español) a los nombres científicos de la BD; los 30 que tienen match quedan como candidatos del LP.
+2. Mapear los 31 aceites esenciales del catálogo a los nombres científicos de la BD; los 30 que tienen match quedan como candidatos del LP.
 3. Filtrar cada especie a su parte estándar de extracción (flor para lavanda, hoja para árbol de té, cáscara para cítricos, etc.).
 4. Normalizar nombres de compuestos haciendo join por EOCID con el diccionario canónico.
 5. Agregar: promedio de % GC-MS por par (especie, compuesto).
 6. Construir matriz A con `pivot_table`.
-7. Construir vectores c para 41 usos terapéuticos de la BD (scentindb) + 18 categorías derivadas del catálogo doTERRA.
+7. Construir vectores c para 41 usos terapéuticos de la BD (scentindb) + 18 categorías adicionales derivadas del catálogo de aceites.
 
 ### 4.3 Artefactos en `data/clean/`
 
@@ -92,7 +76,7 @@ El problema práctico es: dado un objetivo terapéutico, **¿en qué proporcione
 | `prices_clean.csv` | 31 filas | Parámetros $p_i$ (precio por gota, inscrito) |
 | `eo_aggregated.csv` | 1,807 filas | Tabla larga con media/std/n por (especie, compuesto) |
 | `therapy_clean.csv` | 196 filas | Referencia: qué plantas → qué usos terapéuticos |
-| `doterra_categories_ref.csv` | 142 filas | Qué plantas de referencia definen cada categoría doTERRA |
+| `categories_ref.csv` | 142 filas | Qué plantas de referencia definen cada categoría adicional |
 
 ### 4.4 Hallazgos EDA
 
@@ -100,7 +84,7 @@ El problema práctico es: dado un objetivo terapéutico, **¿en qué proporcione
 
 - **Dimensiones:** 30 aceites × 617 compuestos únicos.
 - **Sparsity:** 90.2 % de las celdas son 0. Cada aceite contiene en promedio ~60 compuestos.
-- **Cobertura GC-MS:** 9 de los 30 aceites tienen suma de porcentajes > 110 %, producto de promediar muestras de distintos estudios. Se normalizarán fila a fila antes de resolver el LP: `A_norm = A.div(A.sum(axis=1), axis=0) * 100`.
+- **Cobertura GC-MS:** 9 de los 30 aceites tienen suma de porcentajes > 110 %, producto de promediar muestras de distintos estudios. Se normalizan fila a fila antes de resolver el LP: `A_norm = A.div(A.sum(axis=1), axis=0) * 100`.
 - **Compuestos más ubicuos** (presentes en más de 20 aceites de los 30):
 
 | Compuesto | Aceites que lo contienen |
@@ -125,7 +109,7 @@ El 50 % de los pares (especie, compuesto) tienen sólo 1–2 mediciones; el máx
 
 #### Precios por gota (unidad del modelo)
 
-El presupuesto del LP se expresa en **MXN por gota de aceite esencial** (no por mL), porque la formulación práctica de un roll-on se hace contando gotas. La conversión usa el estándar doTERRA de **16 gotas/mL** (verificado en la columna `Gtas x frasco` del catálogo).
+El presupuesto del LP se expresa en **MXN por gota de aceite esencial** (no por mL), porque la formulación práctica de un roll-on se hace contando gotas. La conversión usa el estándar de **16 gotas/mL** (verificado en el catálogo de precios).
 
 $$p_i^{\text{gota}} = \frac{\text{Costo Inscritos}_i}{\text{Gtas}_i} = \frac{\text{precio\_por\_mL}_i}{16}$$
 
@@ -146,7 +130,7 @@ $$p_i^{\text{gota}} = \frac{\text{Costo Inscritos}_i}{\text{Gtas}_i} = \frac{\te
 `scenarios_c.csv` contiene 59 escenarios:
 
 - **41 de scentindb** (literatura farmacológica): Anti-Bacterial, Antifungal, Anxiolytics, Anti-Inflammatory, Antioxidant, Analgesics, etc.
-- **18 de doTERRA** (catálogo de beneficios): Digestive Support, Sleep Support, Stress Relief, Respiratory Support, Skin Care, Purifying and Cleansing, etc.
+- **18 adicionales** (categorías de beneficios del catálogo): Digestive Support, Sleep Support, Stress Relief, Respiratory Support, Skin Care, Purifying and Cleansing, etc.
 
 Cada fila es un vector normalizado ($\sum_j c_j = 1$). Los pesos reflejan el perfil químico promedio de las plantas asociadas a ese uso terapéutico en la BD. Ejemplos:
 
@@ -205,7 +189,7 @@ Dado que `linprog` minimiza, se convierte el problema:
 $$\min_{x} \quad -c^T A^T x \quad \text{s.a.} \quad A_{ub}\,x \leq b_{ub},\; A_{eq}\,x = b_{eq},\; 0 \leq x \leq u$$
 
 ```python
-# Nota de implementación: normalizar A antes de construir el LP
+# Normalizar A antes de construir el LP
 A_norm = A.div(A.sum(axis=1), axis=0) * 100   # filas que sumen 100%
 
 # Cargar c para el escenario elegido
@@ -223,7 +207,7 @@ b_ub  = np.array([B])
 A_eq  = np.ones((1, len(A_norm)))
 b_eq  = np.array([1.0])
 
-bounds = [(0, u_i) for u_i in u]   # u_i = 0.4 por defecto
+bounds = [(0, u_i) for u_i in u]   # u_i = 0.20 (U_MAX_CAP)
 ```
 
 ---
@@ -300,20 +284,6 @@ res_ipm = linprog(c_obj, A_ub=A_ub, b_ub=b_ub,
 | **Complejidad teórica** | Exponencial (peor caso) | Polinomial |
 | **Aplicación en este proyecto** | Solución principal + análisis de sensibilidad | Verificación del óptimo y comparación |
 
-### 5-Alt.6 Qué se compara en el notebook
-
-Para cada escenario analizado se reporta:
-
-| Métrica | Símplex | Puntos Interiores |
-|---|---|---|
-| Valor óptimo $z^*$ | — | — |
-| Solución $x^*$ (fracciones por aceite) | — | — |
-| Número de iteraciones | — | — |
-| Tiempo de cómputo (ms) | — | — |
-| Restricciones activas | — | — |
-
-> Se espera que ambos métodos lleguen al **mismo $z^*$**, pero por caminos distintos.
-
 ---
 
 ## 6. Escenarios de optimización
@@ -334,16 +304,16 @@ c_vec = scenarios_df.loc["Purifying and Cleansing"].values
 | Escenario | Fuente | Compuesto dominante | Interés del análisis |
 |---|---|---|---|
 | **Anxiolytics** | scentindb | Linalyl acetate (0.33) | Benchmark clínico; lavanda domina |
-| **Sleep Support** | doTERRA | Linalyl acetate (0.10) | Similar a Anxiolytics pero más balanceado |
+| **Sleep Support** | catálogo | Linalyl acetate (0.10) | Similar a Anxiolytics pero más balanceado |
 | **Anti-Bacterial Agents** | scentindb | — | 30/30 aceites útiles; problema denso |
-| **Oral Health** | doTERRA | Eugenol (0.25) | Clavo domina; presupuesto restrictivo |
-| **Purifying and Cleansing** | doTERRA | Eucalyptol (0.03) | Múltiples aceites económicos competitivos |
+| **Oral Health** | catálogo | Eugenol (0.25) | Clavo domina; presupuesto restrictivo |
+| **Purifying and Cleansing** | catálogo | Eucalyptol (0.03) | Múltiples aceites económicos competitivos |
 
 ### Cómo se construyó cada vector c
 
-Para los escenarios de **scentindb**: se toman todas las plantas del mundo con ese uso terapéutico registrado en la BD (sin filtrar a doTERRA), se promedian sus perfiles GC-MS, y se normaliza.
+Para los escenarios de **scentindb**: se toman todas las plantas del mundo con ese uso terapéutico registrado en la BD (sin filtrar al catálogo), se promedian sus perfiles GC-MS, y se normaliza.
 
-Para los escenarios de **doTERRA**: se asignan las especies botánicas cuyas descripciones en el catálogo mencionan explícitamente ese beneficio; se aplica el mismo procedimiento de promedio y normalización.
+Para los **escenarios adicionales**: se asignan las especies botánicas cuyas descripciones en el catálogo mencionan explícitamente ese beneficio; se aplica el mismo procedimiento de promedio y normalización.
 
 ---
 
@@ -407,5 +377,4 @@ seaborn         # heatmap de composición (EDA)
 2. Tisserand, R. & Young, R. (2014). *Essential Oil Safety* (2nd ed.). Churchill Livingstone.
 3. Soto, J. E. (2026). Notas del curso MAT-34420 — Sección 4.1: Programación Lineal y Método Símplex. ITAM. https://itam-ds.github.io/analisis-numerico-computo-cientifico/
 4. IFRA (International Fragrance Association). IFRA Standards — Concentration limits by compound and application category. https://ifrafragrance.org
-5. doTERRA International. Source to You — GC/MS batch testing reports. https://sourcetoyou.doterra.com
-6. Virtanen, P. et al. (2020). SciPy 1.0: Fundamental algorithms for scientific computing in Python. *Nature Methods*, 17, 261–272.
+5. Virtanen, P. et al. (2020). SciPy 1.0: Fundamental algorithms for scientific computing in Python. *Nature Methods*, 17, 261–272.
