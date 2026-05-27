@@ -120,7 +120,5 @@
 
 ## Slide 13 — Gracias / Preguntas
 
-- Eso es todo — el código, los datos y la presentación están en el repositorio
-- Quedo para preguntas
 
 ---
